@@ -6,42 +6,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="canonical" href="https://www.thestreamic.in" />
   <link rel="stylesheet" href="style.css" />
-
-  <!-- Page-only tweaks to guarantee the alignment and 6-column grids.
-       (If you prefer, move these rules into style.css) -->
   <style>
-    /* Align section headings with the cards (same 20px left padding) */
+    /* Keep headings aligned with card padding */
     .home .section-head { padding: 0 20px; }
-
-    /* Force 6 columns for home grids, consistent with category pages */
     .home .card-grid {
       display: grid;
-      grid-template-columns: repeat(6, minmax(0, 1fr));
+      grid-template-columns: repeat(6, minmax(0,1fr));
       gap: 28px;
       padding: 24px 20px;
     }
-
-    /* Header brand: logo + STREAMIC text */
-    .nav-logo {
-      display: inline-flex;
-      align-items: center;
-      gap: 8px;
-      text-decoration: none;
-    }
-    .nav-logo img { height: 26px; display: block; }
-    .nav-logo-text {
-      font-size: 1.15rem;   /* larger but not oversized */
-      font-weight: 600;
-      letter-spacing: 0.5px;
-      color: #0b0d17;
-      line-height: 1;
-      display: inline-block;
-    }
+    .nav-logo { display:inline-flex; align-items:center; gap:8px; text-decoration:none; }
+    .nav-logo img { height:26px; display:block; }
+    .nav-logo-text { font-size:1.15rem; font-weight:600; letter-spacing:.5px; color:#0b0d17; line-height:1; }
   </style>
 </head>
-
 <body>
-  <!-- ===== NAVBAR ===== -->
+  <!-- NAV -->
   <nav class="site-nav normal">
     <div class="nav-inner">
       <a class="nav-logo" href="index.html" aria-label="Streamic home">
@@ -50,9 +30,8 @@
       </a>
 
       <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
-
       <ul class="nav-links" id="navLinks">
-        <li><a href="broadcast-graphics.html">BROADCAST GRAPHICS</a></li>
+        <li><a href="streaming-tech.html">STREAMING TECH</a></li>
         <li><a href="newsroom.html">NEWSROOM &amp; NRCS</a></li>
         <li><a href="playout.html">PLAYOUT &amp; AUTOMATION</a></li>
         <li><a href="ip-video.html">IP / SMPTE 2110</a></li>
@@ -65,7 +44,7 @@
     </div>
   </nav>
 
-  <!-- ===== HERO ===== -->
+  <!-- HERO -->
   <header class="page-hero">
     <div class="hero-inner">
       <h1>Inside Broadcast Technology</h1>
@@ -73,15 +52,15 @@
     </div>
   </header>
 
-  <!-- ===== HOME SECTIONS ===== -->
+  <!-- HOME SECTIONS -->
   <main class="home">
-    <!-- Broadcast Graphics -->
-    <section class="home-section" data-cat-title="Broadcast Graphics" data-json="onair-graphics.json">
+    <!-- Streaming Tech (NEW) -->
+    <section class="home-section" data-cat-title="Streaming Tech" data-json="streaming-tech.json">
       <div class="section-head">
-        <h2>Broadcast Graphics</h2>
-        <a class="view-all" href="broadcast-graphics.html">View all</a>
+        <h2>Streaming Tech</h2>
+        <a class="view-all" href="streaming-tech.html">View all</a>
       </div>
-      <div class="card-grid" id="grid-onair-graphics"></div>
+      <div class="card-grid" id="grid-streaming-tech"></div>
     </section>
 
     <!-- Newsroom & NRCS -->
@@ -130,26 +109,22 @@
     </section>
   </main>
 
-  <!-- ===== FOOTER ===== -->
+  <!-- FOOTER (your light version) -->
   <footer class="site-footer">
     <div class="footer-grid">
       <div class="foot-col">
-        <div class="foot-brand">
-          <img src="assets/logo.svg" alt="Streamic" />
-        </div>
+        <div class="foot-brand"><img src="assets/logo.svg" alt="Streamic" /></div>
         <p>An independent resource for systems architects and media technologists. Tracking the migration of signal flow to software‑defined environments.</p>
       </div>
-
       <div class="foot-col">
         <h4>Navigation</h4>
-        <a href="broadcast-graphics.html">Broadcast Graphics</a>
+        <a href="streaming-tech.html">Streaming Tech</a>
         <a href="newsroom.html">Newsroom &amp; NRCS</a>
         <a href="playout.html">Playout &amp; Automation</a>
         <a href="ip-video.html">IP / SMPTE 2110</a>
         <a href="cloud.html">Cloud &amp; AI</a>
         <a href="audio.html">Audio Technology</a>
       </div>
-
       <div class="foot-col">
         <h4>Company &amp; Legal</h4>
         <a href="about.html">About</a>
@@ -165,7 +140,7 @@
     <p class="footer-note">© 2026 The Streamic — All rights reserved.</p>
   </footer>
 
-  <!-- Your existing home-page loader (unchanged) -->
+  <!-- your home loader script (unchanged) -->
   <script src="app.js"></script>
 </body>
 </html>
