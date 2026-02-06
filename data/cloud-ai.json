@@ -58,5 +58,17 @@
     "link": "https://aws.amazon.com/blogs/media/agentic-ai-headlines-aws-reinvent-2025-across-media-and-entertainment/",
     "source": "AWS Media",
     "image": ""
+  },
+  {
+    "title": "ARD ensures content provenance with C2PA and AWS",
+    "link": "https://aws.amazon.com/blogs/media/ard-ensures-content-provenance-with-c2pa-and-aws/",
+    "source": "AWS Media",
+    "image": ""
+  },
+  {
+    "title": "Optimizing TV and radio media buying using SmartSpot360 on AWS",
+    "link": "https://aws.amazon.com/blogs/media/optimizing-tv-and-radio-media-buying-using-smartspot360-on-aws/",
+    "source": "AWS Media",
+    "image": ""
   }
 ]
