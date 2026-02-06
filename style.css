@@ -175,3 +175,49 @@ body{
   .card-image img{ transition:none!important; }
   #loadMoreBtn, #loadMore-3d, #loadMore-edit, #loadMore-hw{ transition:none!important; }
 }
+/* =========================================================
+   Edit & Post — segmented control + brand chips
+   ========================================================= */
+.tabs-wrap{
+  max-width:1100px; margin:26px auto 0; padding:0 10px;
+  display:flex; flex-direction:column; gap:14px;
+}
+
+.segmented{
+  display:inline-flex; align-items:center; gap:6px;
+  background:rgba(0,0,0,.06); padding:6px; border-radius:14px;
+}
+@media (prefers-color-scheme: dark){
+  .segmented{ background:rgba(255,255,255,.08); }
+}
+
+.seg-btn{
+  appearance:none; border:0; cursor:pointer;
+  padding:8px 14px; border-radius:10px;
+  font-size:14px; font-weight:600; letter-spacing:.2px;
+  color:#1d1d1f; background:transparent;
+  transition:background .2s,color .2s;
+}
+.seg-btn.is-active{
+  background:#fff; color:#000; box-shadow:0 1px 2px rgba(0,0,0,.08);
+}
+@media (prefers-color-scheme: dark){
+  .seg-btn{ color:#f2f2f2; }
+  .seg-btn.is-active{ background:#1a1a1a; color:#fff; }
+}
+
+.chips{
+  display:flex; flex-wrap:wrap; gap:8px;
+}
+.chip{
+  appearance:none; border:1px solid #d7d7d7; background:#fff; color:#111;
+  padding:6px 12px; font-size:13px; border-radius:999px; cursor:pointer;
+  transition:background .2s, border-color .2s, color .2s;
+}
+.chip.is-on{
+  background:#000; color:#fff; border-color:#000;
+}
+@media (prefers-color-scheme: dark){
+  .chip{ background:#0e0e0e; color:#f2f2f2; border-color:#2a2a2a; }
+  .chip.is-on{ background:#fff; color:#000; border-color:#fff; }
+}
