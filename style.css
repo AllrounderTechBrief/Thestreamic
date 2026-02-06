@@ -1,117 +1,57 @@
 /* =========================================================
-   STREAMIC — Visual System (Apple-style, smooth and fast)
-   - View Transitions (native, with graceful fallback)
-   - IntersectionObserver fade-in (cards enter viewport)
-   - GPU parallax for card images (only visible cards)
-   - Hover tilt / parallax (pointer:fine only)
-   - Respects prefers-reduced-motion
+   APPLE‑STYLE TOP NAVIGATION
    ========================================================= */
-(() => {
-  const prefersReduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  const hasFinePointer = window.matchMedia('(pointer:fine)').matches;
 
-  /* -------------------- View Transitions -------------------- */
-  (function enableViewTransitions() {
-    if (!('startViewTransition' in document) || prefersReduced) return;
-    // Intercept same-origin navigations for a subtle transition
-    document.addEventListener('click', (ev) => {
-      const a = ev.target.closest('a');
-      if (!a) return;
-      const url = new URL(a.href, location.href);
-      if (a.target === '_blank' || a.hasAttribute('download') || url.origin !== location.origin) return;
-      if (url.pathname === location.pathname && url.hash) return; // same page anchor
-      ev.preventDefault();
-      document.startViewTransition(() => { location.href = a.href; });
-    }, { capture: true });
-  })();
+.site-nav {
+  background: #ffffff;
+  border-bottom: 1px solid #e6e6e6;
+  height: 56px;
+  display: flex;
+  align-items: center;
+}
 
-  /* -------------------- Fade-in on reveal & Parallax -------------------- */
-  const visible = new Set();
-  let rafScheduled = false;
+.nav-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
-  function scheduleParallax() {
-    if (rafScheduled || prefersReduced) return;
-    rafScheduled = true;
-    requestAnimationFrame(applyParallax);
-  }
+/* Logo aligned perfectly */
+.nav-logo img {
+  height: 24px;
+  display: block;
+}
 
-  function applyParallax() {
-    rafScheduled = false;
-    const vh = window.innerHeight || 800;
-    visible.forEach((card) => {
-      const img = card.querySelector('.card-image img');
-      if (!img) return;
-      const rect = card.getBoundingClientRect();
-      const progress = (rect.top + rect.height / 2 - vh / 2) / vh;  // -0.5..0.5-ish
-      const translate = Math.max(-12, Math.min(12, -progress * 24)); // clamp ±12px
-      img.style.setProperty('--py', prefersReduced ? '0px' : translate.toFixed(2) + 'px');
-    });
-  }
+/* Navigation links — Apple style */
+.nav-links {
+  display: flex;
+  gap: 26px;                      /* Apple-like spacing */
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 
-  const io = new IntersectionObserver((entries) => {
-    entries.forEach((en) => {
-      const card = en.target;
-      if (en.isIntersecting) {
-        card.classList.add('in-view');       // triggers CSS fade-in
-        visible.add(card);
-      } else {
-        visible.delete(card);
-      }
-    });
-    scheduleParallax();
-  }, { rootMargin: '0px 0px -10% 0px', threshold: 0.15 });
+.nav-links a {
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: .3px;           /* subtle tracking */
+  color: #1d1d1f;                 /* Apple text color */
+  padding: 4px 0;
+  transition: color .2s;
+}
 
-  window.addEventListener('scroll', scheduleParallax, { passive: true });
-  window.addEventListener('resize', scheduleParallax, { passive: true });
+/* Hover effect — soft tint */
+.nav-links a:hover {
+  color: #0071e3;                 /* Apple blue hover */
+}
 
-  /* -------------------- Hover tilt (pointer:fine only) -------------------- */
-  function attachTilt(card) {
-    if (!hasFinePointer || prefersReduced) return;
-    let raf = 0;
-
-    function onMove(e) {
-      if (raf) return;
-      const { clientX: x, clientY: y } = e;
-      raf = requestAnimationFrame(() => {
-        raf = 0;
-        const r = card.getBoundingClientRect();
-        const dx = (x - r.left) / r.width - 0.5;
-        const dy = (y - r.top) / r.height - 0.5;
-        const max = 6; // degrees
-        card.classList.add('tilting');
-        card.style.setProperty('--ry', (-dx * max).toFixed(2) + 'deg');
-        card.style.setProperty('--rx', ( dy * max).toFixed(2) + 'deg');
-      });
-    }
-    function onLeave() {
-      if (raf) cancelAnimationFrame(raf);
-      card.classList.remove('tilting');
-      card.style.removeProperty('--rx');
-      card.style.removeProperty('--ry');
-    }
-    card.addEventListener('mousemove', onMove, { passive: true });
-    card.addEventListener('mouseleave', onLeave, { passive: true });
-  }
-
-  /* -------------------- Public API for other scripts -------------------- */
-  function attachVisualEffects(card) {
-    // For safety, only observe if it's a .card element
-    if (!card || !card.classList || !card.classList.contains('card')) return;
-    io.observe(card);
-    attachTilt(card);
-  }
-
-  // Attach to any cards already in the DOM (e.g., server-rendered)
-  function attachExisting() {
-    document.querySelectorAll('.card').forEach(attachVisualEffects);
-  }
-
-  // Expose for app.js & category.js
-  window.StreamicVisuals = { attach: attachVisualEffects };
-  window.__streamicBindCardEnhancements = attachVisualEffects; // backward compatibility
-
-  // Init on first load and BFCache restores
-  if (document.readyState !== 'loading') attachExisting();
-  else document.addEventListener('DOMContentLoaded', attachExisting);
-  window.addEventListener('pageshow', () => { attachExisting(); scheduleParallax(); }, { passive: true });
-})();
+/* Remove all underlines, borders */
+.nav-sep,
+.nav-toggle {
+  display: none !important;
+}
