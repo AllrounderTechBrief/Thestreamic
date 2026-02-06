@@ -1,1 +1,85 @@
-:root{--border:#e5e5e5;--soft:#f5f5f7;--text:#0b0d17}body{margin:0;font-family:Inter,system-ui,-apple-system,sans-serif;color:var(--text)}.site-nav{height:58px;background:#fff;border-bottom:1px solid var(--border)}.site-nav.normal{position:relative}.nav-inner{max-width:1200px;margin:0 auto;height:58px;display:flex;align-items:center;justify-content:space-between;padding:0 22px}.nav-logo img{height:22px}.nav-links{display:flex;gap:32px;list-style:none;margin:0;padding:0}.nav-links a{text-decoration:none;color:#111;font-weight:500;letter-spacing:.5px;padding-bottom:6px}.nav-links a:hover{border-bottom:1px solid #111}.page-hero{background:var(--soft);position:relative;padding:56px 20px}.page-hero::before{content:"";position:absolute;inset:0;background-image:repeating-linear-gradient(45deg, rgba(0,0,0,.02) 0, rgba(0,0,0,.02) 1px, transparent 1px, transparent 14px)}.hero-inner{max-width:1000px;margin:0 auto}.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:28px;padding:24px 20px}.card{background:#fff;border-radius:16px;padding:16px;box-shadow:0 2px 4px rgba(0,0,0,.06);cursor:pointer;transition:transform .25s ease, box-shadow .25s ease}.card:hover{transform:translateY(-6px);box-shadow:0 6px 20px rgba(0,0,0,.12)}.card-image img{width:100%;height:180px;object-fit:cover;border-radius:12px;background:#f1f1f1}.card-body{padding-top:10px}.card-body h3{font-size:16px;margin:0 0 4px}.site-footer{background:#0b0b0b;color:#ddd;padding:50px 20px;margin-top:40px}.footer-grid{max-width:1200px;margin:0 auto;display:grid;gap:30px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}.footer-note{text-align:center;opacity:.75}.cookie-bar{position:fixed;left:20px;right:20px;bottom:20px;background:#fff;border:1px solid var(--border);border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.12);padding:14px 16px;display:flex;align-items:center;justify-content:space-between;gap:14px}.cookie-bar[hidden]{display:none !important}.cookie-bar.is-hidden{display:none !important}.btn{background:#111;color:#fff;border:0;border-radius:8px;padding:10px 16px;cursor:pointer}.btn-ghost{background:#fff;color:#111;border:1px solid var(--border)}.about-wrap{max-width:1100px;margin:40px auto;padding:0 20px;display:grid;grid-template-columns:2fr 1fr;gap:32px}.about-section{background:#fff;border:1px solid var(--border);border-radius:12px;padding:20px;box-shadow:0 2px 6px rgba(0,0,0,.06)}.about-aside{position:sticky;top:90px;align-self:start}.contact-card{background:#0b0d17;color:#fff;border-radius:12px;padding:22px;box-shadow:0 10px 22px rgba(0,0,0,.25)}.contact-card .btn{background:#fff;color:#0b0d17}
+:root{--border:#e5e5e5;--soft:#f5f5f7;--text:#0b0d17}body{margin:0;font-family:Inter,system-ui,-apple-system,sans-serif;color:var(--text)}.site-nav{height:58px;background:#fff;border-bottom:1px solid var(--border)}.site-nav.normal{position:relative}.nav-inner{max-width:1200px;margin:0 auto;height:58px;display:flex;align-items:center;justify-content:space-between;padding:0 22px}.nav-logo img{height:22px}.nav-links{display:flex;gap:32px;list-style:none;margin:0;padding:0}.nav-links a{text-decoration:none;color:#111;font-weight:500;letter-spacing:.5px;padding-bottom:6px}.nav-links a:hover{border-bottom:1px solid #111}.page-hero{background:var(--soft);position:relative;padding:56px 20px}.page-hero::before{content:"";position:absolute;inset:0;background-image:repeating-linear-gradient(45deg, rgba(0,0,0,.02) 0, rgba(0,0,0,.02) 1px, transparent 1px, transparent 14px)}.hero-inner{max-width:1000px;margin:0 auto}.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:28px;padding:24px 20px}.card{background:#fff;border-radius:16px;padding:16px;box-shadow:0 2px 4px rgba(0,0,0,.06);cursor:pointer;transition:transform .25s ease, box-shadow .25s ease}.card:hover{transform:translateY(-6px);box-shadow:0 6px 20px rgba(0,0,0,.12)}.card-image img{width:100%;height:180px;object-fit:cover;border-radius:12px;background:#f1f1f1}.card-body{padding-top:10px}.card-body h3{font-size:16px;margin:0 0 4px}.site-footer{background:#0b0b0b;color:#ddd;padding:50px 20px;margin-top:40px}.footer-grid{max-width:1200px;margin:0 auto;display:grid;gap:30px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}.footer-note{text-align:center;opacity:.75}.cookie-bar{position:fixed;left:20px;right:20px;bottom:20px;background:#fff;border:1px solid var(--border);border-radius:12px;box-shadow:0 6px 20px rgba(0,0,0,.12);padding:14px 16px;display:flex;align-items:center;justify-content:space-between;gap:14px}.cookie-bar[hidden]{display:none !important}.cookie-bar.is-hidden{display:none !important}.btn{background:#111;color:#fff;border:0;border-radius:8px;padding:10px 16px;cursor:pointer}.btn-ghost{background:#fff;color:#111;border:1px solid var(--border)}.about-wrap{max-width:1100px;margin:40px auto;padding:0 20px;display:grid;grid-template-columns:2fr 1fr;gap:32px}.about-section{background:#fff;border:1px solid var(--border);border-radius:12px;padding:20px;box-shadow:0 2px 6px rgba(0,0,0,.06)}.about-aside{position:sticky;top:90px;align-self:start}.contact-card{background:#0b0d17;color:#fff;border-radius:12px;padding:22px;box-shadow:0 10px 22px rgba(0,0,0,.25)}.contact-card .btn{background:#fff;color:#0b0d17}/* ===== Footer: Light Grey, Smaller, Clean ===== */
+
+.site-footer {
+    background: var(--soft);         /* #f5f5f7 */
+    color: #253240;                  /* dark slate text */
+    padding: 44px 20px;              /* slightly tighter than before */
+    margin-top: 40px;
+    border-top: 1px solid var(--border);
+}
+
+/* Layout: keep your grid but make spacing match the right screenshot */
+.footer-grid {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    gap: 40px;                       /* a bit more breathing room */
+    grid-template-columns: 2fr 1fr 1fr; /* brand wider, columns tighter */
+}
+
+/* Brand block */
+.foot-brand img {
+    height: 22px;                    /* keep logo compact on light bg */
+    display: block;
+    margin-bottom: 12px;
+}
+
+/* Section titles: small, uppercase, muted */
+.site-footer h4 {
+    margin: 0 0 10px;
+    font-size: 0.85rem;              /* smaller than body */
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: #5a6773;                  /* subtle heading color */
+    text-transform: uppercase;
+}
+
+/* Body text + links: smaller, clean, consistent color */
+.site-footer p,
+.site-footer a {
+    font-size: 0.9rem;               /* smaller overall */
+    line-height: 1.6;
+    color: #253240;
+}
+
+/* Ensure visited links are not purple on light background */
+.site-footer a:link,
+.site-footer a:visited {
+    color: #253240;
+    text-decoration: none;
+}
+
+/* Hover state: subtle blue (adjust if you have a brand color) */
+.site-footer a:hover,
+.site-footer a:focus {
+    color: #0f5cc0;
+    text-decoration: underline;
+}
+
+/* Stack links vertically with compact spacing (no need to change HTML) */
+.site-footer .foot-col a {
+    display: block;
+    padding: 2px 0;
+    margin: 0;                       /* remove default gaps */
+}
+
+/* Footer note: small + muted */
+.footer-note {
+    text-align: center;
+    margin-top: 28px;
+    font-size: 0.8rem;
+    color: #66727f;
+    opacity: 1;                      /* ensure readable on light bg */
+}
+
+/* Responsive: single column on small screens */
+@media (max-width: 720px) {
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+    .site-footer {
+        padding: 28px 18px;
+    }
+}
+``
