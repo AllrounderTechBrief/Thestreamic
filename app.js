@@ -1,95 +1,142 @@
 /* =========================================================
-   STREAMIC — App bootstrap (home loader + shared renderer)
-   - NO BLUR: simple transitions only
-   - Reuses three JSON outputs from build.py:
-       out-3d-vfx.json, out-editing.json, out-hardware.json
+   THE STREAMIC — Homepage Loader
+   Loads 10 items per category section on the homepage
 ========================================================= */
+
 (() => {
-  /* ---------- Shared Card Renderer (no blur) ---------- */
+  /* ---------- Card Renderer ---------- */
   function renderCard(item) {
     const a = document.createElement('a');
     a.className = 'card';
     a.href = item.link || '#';
     a.target = '_blank';
-    a.rel = 'noopener';
-
-    // Image area (always present to keep aspect-ratio stable)
+    a.rel = 'noopener noreferrer';
+    
+    // Image
     const fig = document.createElement('figure');
     fig.className = 'card-image';
-
     const img = document.createElement('img');
-    img.alt = item.source ? ('Image from ' + item.source) : 'News image';
+    img.alt = item.source ? `Image from ${item.source}` : 'News image';
     img.loading = 'lazy';
     img.src = item.image || 'assets/fallback.jpg';
-
-    // If real image fails, the fallback stays
-    img.addEventListener('error', () => { img.src = 'assets/fallback.jpg'; });
-
+    img.addEventListener('error', () => { 
+      img.src = 'assets/fallback.jpg'; 
+    });
     fig.appendChild(img);
     a.appendChild(fig);
-
+    
     // Body
     const body = document.createElement('div');
     body.className = 'card-body';
-    const h = document.createElement('h3'); h.textContent = item.title || 'Untitled';
-    const s = document.createElement('span'); s.className = 'source'; s.textContent = item.source || '';
-    body.appendChild(h); body.appendChild(s);
+    
+    const h3 = document.createElement('h3');
+    h3.textContent = item.title || 'Untitled';
+    
+    const source = document.createElement('span');
+    source.className = 'source';
+    source.textContent = item.source || '';
+    
+    body.appendChild(h3);
+    body.appendChild(source);
     a.appendChild(body);
-
-    // Gentle tilt/parallax (light)
+    
+    // Subtle hover effect
     a.addEventListener('pointermove', (e) => {
-      const r = a.getBoundingClientRect();
-      const px = (e.clientX - r.left) / r.width - 0.5;
-      const py = (e.clientY - r.top) / r.height - 0.5;
-      const rx = Math.max(-4, Math.min(4, py * 4));
-      const ry = Math.max(-4, Math.min(4, -px * 4));
-      a.style.transform = `translateY(-2px) rotateX(${rx}deg) rotateY(${ry}deg)`;
+      const rect = a.getBoundingClientRect();
+      const x = (e.clientX - rect.left) / rect.width - 0.5;
+      const y = (e.clientY - rect.top) / rect.height - 0.5;
+      const rotateX = Math.max(-3, Math.min(3, y * 3));
+      const rotateY = Math.max(-3, Math.min(3, -x * 3));
+      a.style.transform = `translateY(-4px) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
     });
-    a.addEventListener('pointerleave', () => { a.style.transform = ''; });
-
+    
+    a.addEventListener('pointerleave', () => {
+      a.style.transform = '';
+    });
+    
     return a;
   }
+  
+  // Export for use in category pages
   window.__streamicRenderCard = renderCard;
-
-  /* ---------- Normalizer ---------- */
-  const norm = (it) => ({
-    title:  it.title || it.headline || 'Untitled',
-    link:   it.link || it.url || '#',
-    source: it.source || it.site || '',
-    image:  it.image || it.imageUrl || it.thumbnail || ''
+  
+  /* ---------- Normalize Item ---------- */
+  const normalize = (item) => ({
+    title: item.title || item.headline || 'Untitled',
+    link: item.link || item.url || '#',
+    source: item.source || item.site || '',
+    image: item.image || item.imageUrl || item.thumbnail || ''
   });
-
-  /* ---------- Map 6 homepage sections → 3 JSON files ---------- */
-  const SOURCE_MAP = {
-    'streaming-tech': 'data/out-hardware.json', // closest fit
-    'newsroom':       'data/out-editing.json',
-    'playout':        'data/out-hardware.json',
-    'ip-video':       'data/out-3d-vfx.json',
-    'cloud-ai':       'data/out-editing.json',
-    'audio':          'data/out-hardware.json'
+  
+  /* ---------- Category to JSON File Mapping ---------- */
+  const FEED_MAP = {
+    'streaming-tech': 'data/streaming-tech.json',
+    'newsroom': 'data/newsroom.json',
+    'playout': 'data/playout.json',
+    'ip-video': 'data/ip-video.json',
+    'cloud-ai': 'data/cloud-ai.json',
+    'audio': 'data/audio.json'
   };
-
-  /* ---------- Home sections loader ---------- */
-  function loadHome() {
-    document.querySelectorAll('.home-section').forEach((sec) => {
-      const id = (sec.querySelector('.card-grid')?.id || '').replace('grid-',''); // e.g., grid-streaming-tech → streaming-tech
-      const src = SOURCE_MAP[id];
-      const grid = sec.querySelector('.card-grid');
-      if (!src || !grid) return;
-
-      fetch(src)
-        .then(r => r.json())
+  
+  /* ---------- Load Homepage Sections ---------- */
+  function loadHomepage() {
+    document.querySelectorAll('.home-section').forEach((section) => {
+      const grid = section.querySelector('.card-grid');
+      if (!grid || !grid.id) return;
+      
+      // Extract category from grid ID (e.g., "grid-streaming-tech" -> "streaming-tech")
+      const categoryId = grid.id.replace('grid-', '');
+      const feedUrl = FEED_MAP[categoryId];
+      
+      if (!feedUrl) {
+        console.warn(`No feed mapping for category: ${categoryId}`);
+        return;
+      }
+      
+      // Fetch and render
+      fetch(feedUrl)
+        .then(response => response.json())
         .then(items => {
-          (items || []).slice(0, 10).map(norm).forEach((it) => {
-            grid.appendChild(renderCard(it));
+          if (!Array.isArray(items)) {
+            console.error(`Invalid data format for ${feedUrl}`);
+            return;
+          }
+          
+          // Take first 10 items for homepage
+          items.slice(0, 10).map(normalize).forEach(item => {
+            grid.appendChild(renderCard(item));
           });
         })
-        .catch(() => { /* silent fail */ });
+        .catch(error => {
+          console.error(`Failed to load ${feedUrl}:`, error);
+        });
     });
   }
-
+  
+  /* ---------- Mobile Navigation Toggle ---------- */
+  function initMobileNav() {
+    const toggle = document.querySelector('.nav-toggle');
+    const links = document.querySelector('.nav-links');
+    
+    if (toggle && links) {
+      toggle.addEventListener('click', () => {
+        const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
+        toggle.setAttribute('aria-expanded', !isExpanded);
+        links.classList.toggle('active');
+      });
+    }
+  }
+  
+  /* ---------- Initialize ---------- */
   if (document.querySelector('.home')) {
-    if (document.readyState !== 'loading') loadHome();
-    else document.addEventListener('DOMContentLoaded', loadHome);
+    if (document.readyState !== 'loading') {
+      loadHomepage();
+      initMobileNav();
+    } else {
+      document.addEventListener('DOMContentLoaded', () => {
+        loadHomepage();
+        initMobileNav();
+      });
+    }
   }
 })();

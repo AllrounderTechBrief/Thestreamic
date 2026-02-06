@@ -1,93 +1,744 @@
 /* =========================================================
-   APPLE‑STYLE TOP NAVIGATION
+   THE STREAMIC — Apple-Inspired Design System
+   5 cards per row, clean typography, minimal animations
    ========================================================= */
 
+/* =========== RESET & BASE =========== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --apple-blue: #0071e3;
+  --apple-text: #1d1d1f;
+  --apple-gray: #6e6e73;
+  --apple-light-gray: #f5f5f7;
+  --apple-border: #d2d2d7;
+  --card-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  --card-hover-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", Arial, sans-serif;
+  color: var(--apple-text);
+  background: #fff;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* =========== NAVIGATION (Apple Style) =========== */
 .site-nav {
-  background: #ffffff;
-  border-bottom: 1px solid #e6e6e6;
-  height: 56px;
-  display: flex;
-  align-items: center;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: saturate(180%) blur(20px);
+  border-bottom: 1px solid var(--apple-border);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  height: 48px;
 }
 
 .nav-inner {
   max-width: 1400px;
   margin: 0 auto;
-  width: 100%;
   padding: 0 22px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  height: 100%;
 }
 
-/* Logo aligned perfectly */
+.nav-logo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
 .nav-logo img {
   height: 24px;
-  display: block;
+  width: auto;
 }
 
-/* Navigation links — Apple style */
+.nav-logo-text {
+  color: var(--apple-blue);
+  font-weight: 700;
+}
+
 .nav-links {
   display: flex;
-  gap: 26px;                      /* Apple-like spacing */
+  gap: 24px;
   list-style: none;
-  margin: 0;
-  padding: 0;
+  align-items: center;
 }
 
 .nav-links a {
-  text-decoration: none;
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 500;
-  letter-spacing: .3px;           /* subtle tracking */
-  color: #1d1d1f;                 /* Apple text color */
+  letter-spacing: 0.3px;
+  color: var(--apple-text);
+  transition: color 0.2s ease;
   padding: 4px 0;
-  transition: color .2s;
 }
 
-/* Hover effect — soft tint */
 .nav-links a:hover {
-  color: #0071e3;                 /* Apple blue hover */
+  color: var(--apple-blue);
 }
 
-/* Remove all underlines, borders */
-.nav-sep,
+.nav-sep {
+  display: none;
+}
+
 .nav-toggle {
-  display: none !important;
-}
-/* =========================================================
-   APPLE-STYLE PRODUCT CARD TYPOGRAPHY
-   ========================================================= */
-
-/* Card Title — Apple’s bold, clean, airy look */
-.card-body h3 {
-  font-size: 18px;           /* bigger, bolder for a premium feel */
-  font-weight: 600;
-  line-height: 1.25;         /* tighter Apple-style line spacing */
-  margin: 0 0 6px;
-  color: #111;
-  letter-spacing: -.015em;   /* subtle optical tightening */
+  display: none;
 }
 
-/* Source / metadata text — subtle, soft, reduced emphasis */
-.card-body .source {
-  font-size: 14px;
+/* Mobile Navigation */
+@media (max-width: 1024px) {
+  .nav-links {
+    gap: 16px;
+  }
+  
+  .nav-links a {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav-toggle {
+    display: block;
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: var(--apple-text);
+  }
+  
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: 48px;
+    left: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.98);
+    backdrop-filter: saturate(180%) blur(20px);
+    flex-direction: column;
+    gap: 0;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--apple-border);
+  }
+  
+  .nav-links.active {
+    display: flex;
+  }
+  
+  .nav-links li {
+    width: 100%;
+  }
+  
+  .nav-links a {
+    display: block;
+    padding: 12px 22px;
+  }
+}
+
+/* =========== HERO SECTION =========== */
+.page-hero {
+  background: linear-gradient(135deg, #f5f5f7 0%, #ffffff 100%);
+  padding: 80px 22px 60px;
+  text-align: center;
+  border-bottom: 1px solid var(--apple-border);
+}
+
+.hero-inner {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.hero-inner h1 {
+  font-size: 56px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 16px;
+  line-height: 1.1;
+  color: var(--apple-text);
+}
+
+.hero-inner p {
+  font-size: 21px;
+  color: var(--apple-gray);
   line-height: 1.4;
   font-weight: 400;
-  color: rgba(0,0,0,0.55);    /* soft Apple-like grey */
+}
+
+@media (max-width: 768px) {
+  .page-hero {
+    padding: 50px 22px 40px;
+  }
+  
+  .hero-inner h1 {
+    font-size: 36px;
+  }
+  
+  .hero-inner p {
+    font-size: 18px;
+  }
+}
+
+/* =========== MAIN CONTENT SECTIONS =========== */
+main {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 22px;
+}
+
+.home-section {
+  padding: 60px 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.home-section:last-child {
+  border-bottom: none;
+}
+
+.section-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.section-head h2 {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--apple-text);
+}
+
+.section-head a {
+  font-size: 17px;
+  color: var(--apple-blue);
+  font-weight: 500;
+  transition: opacity 0.2s ease;
+}
+
+.section-head a:hover {
+  opacity: 0.7;
+}
+
+.section-head a::after {
+  content: ' →';
+}
+
+/* =========== CARD GRID (5 CARDS PER ROW) =========== */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+}
+
+/* Responsive breakpoints */
+@media (max-width: 1280px) {
+  .card-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+@media (max-width: 1024px) {
+  .card-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .card-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* =========== CARD STYLING (Apple Product Card Style) =========== */
+.card {
   display: block;
-  margin-top: 2px;
+  background: #fff;
+  border-radius: 18px;
+  overflow: hidden;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  border: 1px solid #e8e8ed;
+  box-shadow: var(--card-shadow);
 }
 
-/* Optional: match Apple’s balanced paragraph rhythm */
-.card-body p {
-  margin: 4px 0 0;
-  font-size: 15px;
-  line-height: 1.45;
-  color: #333;
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--card-hover-shadow);
+  border-color: #d2d2d7;
 }
 
-/* Give breathing room around text like Apple Store */
+.card-image {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  background: var(--apple-light-gray);
+  overflow: hidden;
+}
+
+.card-image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.card:hover .card-image img {
+  transform: scale(1.05);
+}
+
 .card-body {
-  padding: 18px 16px 20px;
+  padding: 20px 18px 22px;
 }
+
+.card-body h3 {
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.3;
+  margin: 0 0 8px;
+  color: var(--apple-text);
+  letter-spacing: -0.015em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-body .source {
+  font-size: 13px;
+  color: var(--apple-gray);
+  font-weight: 400;
+  display: block;
+  margin-top: 6px;
+}
+
+/* =========== CATEGORY PAGE =========== */
+.category-wrap {
+  padding: 60px 0;
+  min-height: 60vh;
+}
+
+.load-more-wrap {
+  text-align: center;
+  margin-top: 48px;
+}
+
+.btn {
+  background: var(--apple-blue);
+  color: #fff;
+  border: none;
+  border-radius: 980px;
+  padding: 12px 32px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.btn:hover {
+  background: #0077ED;
+  transform: scale(1.02);
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+/* =========== ABOUT PAGE =========== */
+.about-container {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 60px 22px 80px;
+}
+
+.about-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.about-header h1 {
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 16px;
+  color: var(--apple-text);
+}
+
+.about-header .subtitle {
+  font-size: 24px;
+  color: var(--apple-gray);
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.about-section {
+  margin-bottom: 60px;
+}
+
+.about-section h2 {
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  margin-bottom: 20px;
+  color: var(--apple-text);
+}
+
+.about-section h3 {
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 32px 0 16px;
+  color: var(--apple-text);
+}
+
+.about-section p {
+  font-size: 17px;
+  line-height: 1.6;
+  color: #424245;
+  margin-bottom: 16px;
+}
+
+.feature-box {
+  background: var(--apple-light-gray);
+  border-radius: 18px;
+  padding: 32px;
+  margin: 32px 0;
+  border-left: 4px solid var(--apple-blue);
+}
+
+.feature-box h3 {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.feature-box .icon {
+  font-size: 24px;
+}
+
+/* =========== CONTACT PAGE =========== */
+.contact-container {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 60px 22px 80px;
+}
+
+.contact-box {
+  background: #fff;
+  border: 1px solid var(--apple-border);
+  border-radius: 18px;
+  padding: 40px;
+  text-align: center;
+  box-shadow: var(--card-shadow);
+}
+
+.contact-box h2 {
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: var(--apple-text);
+}
+
+.contact-box p {
+  font-size: 17px;
+  color: var(--apple-gray);
+  margin-bottom: 24px;
+  line-height: 1.6;
+}
+
+.contact-email {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--apple-blue);
+  color: #fff;
+  padding: 14px 28px;
+  border-radius: 980px;
+  font-size: 17px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.contact-email:hover {
+  background: #0077ED;
+  transform: scale(1.02);
+}
+
+.contact-email .icon {
+  font-size: 20px;
+}
+
+/* =========== LEGAL PAGES =========== */
+.legal-container {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 60px 22px 80px;
+}
+
+.legal-container h1 {
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 12px;
+  color: var(--apple-text);
+}
+
+.legal-container .last-updated {
+  font-size: 15px;
+  color: var(--apple-gray);
+  margin-bottom: 40px;
+}
+
+.legal-container h2 {
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  margin: 40px 0 16px;
+  color: var(--apple-text);
+}
+
+.legal-container h3 {
+  font-size: 21px;
+  font-weight: 600;
+  margin: 28px 0 12px;
+  color: var(--apple-text);
+}
+
+.legal-container p {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #424245;
+  margin-bottom: 16px;
+}
+
+.legal-container ul, .legal-container ol {
+  margin: 16px 0 16px 24px;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #424245;
+}
+
+.legal-container li {
+  margin-bottom: 8px;
+}
+
+.legal-container a {
+  color: var(--apple-blue);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.legal-container a:hover {
+  border-bottom-color: var(--apple-blue);
+}
+
+/* =========== COOKIE CONSENT =========== */
+.cookie-consent {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.95);
+  backdrop-filter: saturate(180%) blur(20px);
+  color: #fff;
+  padding: 20px;
+  z-index: 2000;
+  transform: translateY(100%);
+  transition: transform 0.3s ease;
+}
+
+.cookie-consent.show {
+  transform: translateY(0);
+}
+
+.cookie-consent-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.cookie-consent p {
+  font-size: 15px;
+  margin: 0;
+  flex: 1;
+}
+
+.cookie-consent a {
+  color: var(--apple-blue);
+  text-decoration: underline;
+}
+
+.cookie-buttons {
+  display: flex;
+  gap: 12px;
+}
+
+.cookie-btn {
+  background: #fff;
+  color: #000;
+  border: none;
+  border-radius: 980px;
+  padding: 10px 24px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.cookie-btn.reject {
+  background: transparent;
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.cookie-btn:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+  .cookie-consent-inner {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .cookie-buttons {
+    width: 100%;
+  }
+  
+  .cookie-btn {
+    flex: 1;
+  }
+}
+
+/* =========== FOOTER (Apple Style) =========== */
+.site-footer {
+  background: var(--apple-light-gray);
+  border-top: 1px solid var(--apple-border);
+  padding: 48px 0 24px;
+  margin-top: 80px;
+}
+
+.footer-grid {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 22px;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 60px;
+  margin-bottom: 32px;
+}
+
+.foot-col h4 {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: var(--apple-gray);
+  margin-bottom: 16px;
+}
+
+.foot-col a {
+  display: block;
+  font-size: 14px;
+  color: var(--apple-gray);
+  margin-bottom: 10px;
+  transition: color 0.2s ease;
+}
+
+.foot-col a:hover {
+  color: var(--apple-text);
+}
+
+.foot-brand {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.foot-brand img {
+  height: 28px;
+  width: auto;
+}
+
+.foot-brand-text {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--apple-blue);
+}
+
+.foot-col p {
+  font-size: 14px;
+  color: var(--apple-gray);
+  line-height: 1.5;
+}
+
+.footer-note {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 24px 22px 0;
+  text-align: center;
+  border-top: 1px solid var(--apple-border);
+  font-size: 13px;
+  color: var(--apple-gray);
+}
+
+@media (max-width: 1024px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+}
+
+/* =========== UTILITY CLASSES =========== */
+.text-center {
+  text-align: center;
+}
+
+.mt-1 { margin-top: 8px; }
+.mt-2 { margin-top: 16px; }
+.mt-3 { margin-top: 24px; }
+.mt-4 { margin-top: 32px; }
+
+.mb-1 { margin-bottom: 8px; }
+.mb-2 { margin-bottom: 16px; }
+.mb-3 { margin-bottom: 24px; }
+.mb-4 { margin-bottom: 32px; }

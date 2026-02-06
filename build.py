@@ -1,7 +1,6 @@
 # build.py
-# Streamic: simple RSS/HTML -> JSON builder (no external deps)
-# Writes normalized lists your front-end already expects:
-#   title, link, source, image
+# The Streamic: RSS aggregator for broadcast technology news
+# Fetches from industry-leading sources and generates JSON feeds
 
 import json, sys, time, urllib.request, urllib.error, xml.etree.ElementTree as ET
 from html import unescape
@@ -11,36 +10,44 @@ USER_AGENT = ("Mozilla/5.0 (X11; Linux x86_64) "
               "Chrome/122.0 Safari/537.36")
 
 def fetch(url, timeout=20):
+    """Fetch URL with custom user agent"""
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read()
 
-def try_text(n, path, default=""):
-    el = n.find(path)
+def try_text(node, path, default=""):
+    """Safely extract text from XML element"""
+    el = node.find(path)
     return (el.text or "").strip() if el is not None and el.text else default
 
 def find_image_rss(item):
-    # Try media thumbnails
-    img = None
-    # Common media namespaces
+    """Extract image URL from RSS item (multiple methods)"""
+    # Try media:thumbnail
     media = "{http://search.yahoo.com/mrss/}"
-    if item.find(f"{media}thumbnail") is not None:
-        img = item.find(f"{media}thumbnail").get("url")
-        if img: return img
-    if item.find(f"{media}content") is not None:
-        img = item.find(f"{media}content").get("url")
-        if img: return img
-    # enclosure
+    thumb = item.find(f"{media}thumbnail")
+    if thumb is not None and thumb.get("url"):
+        return thumb.get("url")
+    
+    # Try media:content
+    content = item.find(f"{media}content")
+    if content is not None and content.get("url"):
+        url = content.get("url")
+        if content.get("type", "").startswith("image/"):
+            return url
+    
+    # Try enclosure
     enc = item.find("enclosure")
     if enc is not None and enc.get("type", "").startswith("image/"):
         return enc.get("url")
-    # content:encoded with <img>
-    content = item.find("{http://purl.org/rss/1.0/modules/content/}encoded")
-    if content is not None and content.text:
-        txt = content.text
+    
+    # Try content:encoded or description for <img> tags
+    content_encoded = item.find("{http://purl.org/rss/1.0/modules/content/}encoded")
+    if content_encoded is not None and content_encoded.text:
+        txt = content_encoded.text
     else:
         txt = try_text(item, "description", "")
-    # crude img src pull
+    
+    # Parse HTML for img src
     if txt:
         txt = unescape(txt)
         lower = txt.lower()
@@ -53,20 +60,20 @@ def find_image_rss(item):
                     end = txt.find(quote, src_pos+5)
                     if end != -1:
                         return txt[src_pos+5:end]
+    
     return ""
 
 def parse_rss(xml_bytes):
-    # Try RSS or Atom
+    """Parse RSS or Atom feed"""
     items = []
     try:
         root = ET.fromstring(xml_bytes)
     except ET.ParseError:
         return items
 
-    # Namespaces
     atom = "{http://www.w3.org/2005/Atom}"
 
-    # RSS
+    # RSS 2.0
     chan = root.find("channel")
     if chan is not None:
         source_title = try_text(chan, "title", "Source")
@@ -91,7 +98,6 @@ def parse_rss(xml_bytes):
             for l in it.findall(f"{atom}link"):
                 if l.get("rel") in (None, "alternate"):
                     link = l.get("href", "") or link
-            # images not standardized in Atom; skip
             items.append({
                 "title": title,
                 "link": link,
@@ -102,82 +108,120 @@ def parse_rss(xml_bytes):
 
     return items
 
-def normalize_and_trim(items, dedupe=True, limit=50):
-    # dedupe by link
+def normalize_and_trim(items, dedupe=True, limit=60):
+    """Remove duplicates and limit items"""
     if dedupe:
         seen, out = set(), []
         for it in items:
-            lk = it.get("link","")
+            lk = it.get("link", "")
             if lk and lk not in seen:
-                seen.add(lk); out.append(it)
+                seen.add(lk)
+                out.append(it)
         items = out
     return items[:limit]
 
 def build_feed(out_file, sources):
     """
-    sources: list of dicts {type, url, label}
-      type='rss' -> fetch & parse RSS
-      type='openrss' -> fetch generated RSS from Open RSS
+    Build a JSON feed from multiple RSS sources
+    sources: list of dicts with 'url' and optional 'label'
     """
     all_items = []
     for src in sources:
         url = src["url"]
         try:
+            print(f"Fetching: {url}")
             data = fetch(url)
             items = parse_rss(data)
-            # If generator feed provides no title, force label
+            
+            # Override source name if label provided
             if src.get("label"):
                 for x in items:
                     x["source"] = src["label"]
+            
             all_items.extend(items)
-            time.sleep(0.3)
-        except urllib.error.URLError:
+            print(f"  → Got {len(items)} items")
+            time.sleep(0.5)  # Be polite
+            
+        except urllib.error.URLError as e:
+            print(f"  ✗ URL Error: {e}")
             continue
-        except Exception:
+        except Exception as e:
+            print(f"  ✗ Error: {e}")
             continue
 
     all_items = normalize_and_trim(all_items, limit=60)
+    
     with open(out_file, "w", encoding="utf-8") as f:
         json.dump(all_items, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {out_file} ({len(all_items)} items)")
+    
+    print(f"✓ Wrote {out_file} ({len(all_items)} items)\n")
 
 def main():
-    # ---------- 3D & VFX (Maxon + Autodesk) ----------
-    # Maxon News has no public RSS → use Open RSS generator
-    # Ref: Maxon News hub; Open RSS makes a standards feed from any site. 
-    # (If Maxon later exposes an official feed, drop it here.)
-    three_d_vfx_sources = [
-        {"type": "openrss",
-         "label": "Maxon News",
-         "url": "https://openrss.org/www.maxon.net/en/news"},
-        {"type": "rss",
-         "label": "Autodesk Design & Make",
-         "url": "https://www.autodesk.com/design-make/rss"}
+    """Main build process"""
+    
+    # ========== STREAMING TECHNOLOGY ==========
+    # Focus: OTT, streaming protocols, CDN, video delivery
+    streaming_sources = [
+        {"url": "https://www.streamingmedia.com/RSS/RSSFeed.aspx", "label": "Streaming Media"},
+        {"url": "https://www.tvtechnology.com/rss.xml", "label": "TV Technology"},
+        {"url": "https://www.broadcastingcable.com/feeds/all", "label": "Broadcasting & Cable"},
     ]
-
-    # ---------- Editing & Post (Adobe + Frame.io) ----------
-    # Adobe Blog “News” doesn’t publish a straightforward RSS; prefer Newsroom if Adobe publishes one later.
-    # Using Frame.io’s official RSS plus Adobe Blog page via Open RSS for now.
-    edit_post_sources = [
-        {"type": "openrss",
-         "label": "Adobe Blog – News",
-         "url": "https://openrss.org/blog.adobe.com/en/topics/news"},
-        {"type": "rss",
-         "label": "Frame.io Insider",
-         "url": "https://blog.frame.io/feed/"}
+    
+    # ========== NEWSROOM & NRCS ==========
+    # Focus: Newsroom systems, rundown automation, graphics integration
+    newsroom_sources = [
+        {"url": "https://www.tvtechnology.com/rss.xml", "label": "TV Technology"},
+        {"url": "https://www.broadcastingcable.com/feeds/all", "label": "Broadcasting & Cable"},
+        {"url": "https://www.sportsvideo.org/feed/", "label": "Sports Video Group"},
     ]
-
-    # ---------- Hardware/IT (TV Technology) ----------
-    # TVTechnology site confirmed; if native feed not exposed, use Open RSS safely.
-    hw_it_sources = [
-        {"type": "openrss",
-         "label": "TVTechnology",
-         "url": "https://openrss.org/www.tvtechnology.com"}
+    
+    # ========== PLAYOUT & AUTOMATION ==========
+    # Focus: Master control, channel playout, scheduling systems
+    playout_sources = [
+        {"url": "https://www.tvtechnology.com/rss.xml", "label": "TV Technology"},
+        {"url": "https://www.broadcastingcable.com/feeds/all", "label": "Broadcasting & Cable"},
+        {"url": "https://www.ibc.org/rss", "label": "IBC"},
     ]
-
-    build_feed("data/out-3d-vfx.json", three_d_vfx_sources)
-    build_feed("data/out-editing.json", edit_post_sources)
-    build_feed("data/out-hardware.json", hw_it_sources)
+    
+    # ========== IP VIDEO / SMPTE 2110 ==========
+    # Focus: IP workflows, SMPTE standards, uncompressed IP video
+    ip_video_sources = [
+        {"url": "https://www.tvtechnology.com/rss.xml", "label": "TV Technology"},
+        {"url": "https://www.sportsvideo.org/feed/", "label": "Sports Video Group"},
+        {"url": "https://www.ibc.org/rss", "label": "IBC"},
+    ]
+    
+    # ========== CLOUD & AI ==========
+    # Focus: Cloud production, AI/ML in broadcast, remote production
+    cloud_ai_sources = [
+        {"url": "https://www.tvtechnology.com/rss.xml", "label": "TV Technology"},
+        {"url": "https://www.broadcastingcable.com/feeds/all", "label": "Broadcasting & Cable"},
+        {"url": "https://www.ibc.org/rss", "label": "IBC"},
+    ]
+    
+    # ========== AUDIO TECHNOLOGY ==========
+    # Focus: Audio mixing, monitoring, Dante, audio over IP
+    audio_sources = [
+        {"url": "https://www.tvtechnology.com/rss.xml", "label": "TV Technology"},
+        {"url": "https://www.sportsvideo.org/feed/", "label": "Sports Video Group"},
+        {"url": "https://www.prosoundnetwork.com/feed", "label": "Pro Sound Network"},
+    ]
+    
+    # Build all feeds
+    print("=" * 60)
+    print("THE STREAMIC - Building RSS Feeds")
+    print("=" * 60 + "\n")
+    
+    build_feed("data/streaming-tech.json", streaming_sources)
+    build_feed("data/newsroom.json", newsroom_sources)
+    build_feed("data/playout.json", playout_sources)
+    build_feed("data/ip-video.json", ip_video_sources)
+    build_feed("data/cloud-ai.json", cloud_ai_sources)
+    build_feed("data/audio.json", audio_sources)
+    
+    print("=" * 60)
+    print("✓ All feeds built successfully!")
+    print("=" * 60)
 
 if __name__ == "__main__":
     main()

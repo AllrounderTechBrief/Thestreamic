@@ -1,123 +1,141 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>The Streamic</title>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  https://www.thestreamic.in
-  style.css
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="The Streamic - Your independent hub for global broadcast technology updates. Track streaming tech, newsroom systems, cloud AI, and more.">
+  <meta name="keywords" content="broadcast technology, streaming, SMPTE 2110, IP video, newsroom, playout, cloud production, AI">
+  <title>The Streamic - Inside Broadcast Technology</title>
+  <link rel="canonical" href="https://www.thestreamic.in/">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-  <!-- Header -->
-  <nav class="site-nav normal">
+  
+  <!-- Navigation -->
+  <nav class="site-nav">
     <div class="nav-inner">
-      index.html
-        assets/logo.svg
+      <a class="nav-logo" href="index.html" aria-label="The Streamic home">
+        <img src="assets/logo.png" alt="Streamic">
+        <span class="nav-logo-text">Streamic</span>
       </a>
+      <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
       <ul class="nav-links">
-        <li>streaming-tech.htmlSTREAMING TECH</a></li>
-        <li>newsroom.htmlNEWSROOM &amp; NRCS</a></li>
-        <li>playout.htmlPLAYOUT &amp; AUTOMATION</a></li>
-        <li>ip-video.htmlIP / SMPTE 2110</a></li>
-        <li>cloud-ai.htmlCLOUD &amp; AI</a></li>
-        <li>audio.htmlAUDIO TECHNOLOGY</a></li>
-        <li>about.htmlABOUT</a></li>
-        <li>contact.htmlCONTACT</a></li>
+        <li><a href="streaming-tech.html">STREAMING TECH</a></li>
+        <li><a href="newsroom.html">NEWSROOM &amp; NRCS</a></li>
+        <li><a href="playout.html">PLAYOUT &amp; AUTOMATION</a></li>
+        <li><a href="ip-video.html">IP / SMPTE 2110</a></li>
+        <li><a href="cloud-ai.html">CLOUD &amp; AI</a></li>
+        <li><a href="audio.html">AUDIO TECHNOLOGY</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
       </ul>
     </div>
   </nav>
-
-  <!-- Hero -->
+  
+  <!-- Hero Section -->
   <header class="page-hero">
     <div class="hero-inner">
       <h1>Inside Broadcast Technology</h1>
       <p>The definitive platform for media engineers. Tracking signal flow, cloud workflows, and AI infrastructure.</p>
     </div>
   </header>
-
-  <!-- Home sections (IDs used by app.js to map → 3 JSONs) -->
+  
+  <!-- Main Content -->
   <main class="home">
-    <section class="home-section" data-cat-title="Streaming Tech">
+    
+    <!-- Streaming Tech Section -->
+    <section class="home-section">
       <div class="section-head">
         <h2>Streaming Tech</h2>
-        streaming-tech.htmlView all</a>
+        <a href="streaming-tech.html">View all</a>
       </div>
       <div class="card-grid" id="grid-streaming-tech"></div>
     </section>
-
-    <section class="home-section" data-cat-title="Newsroom &amp; NRCS">
+    
+    <!-- Newsroom & NRCS Section -->
+    <section class="home-section">
       <div class="section-head">
         <h2>Newsroom &amp; NRCS</h2>
-        newsroom.htmlView all</a>
+        <a href="newsroom.html">View all</a>
       </div>
       <div class="card-grid" id="grid-newsroom"></div>
     </section>
-
-    <section class="home-section" data-cat-title="Playout &amp; Automation">
+    
+    <!-- Playout & Automation Section -->
+    <section class="home-section">
       <div class="section-head">
         <h2>Playout &amp; Automation</h2>
-        playout.htmlView all</a>
+        <a href="playout.html">View all</a>
       </div>
       <div class="card-grid" id="grid-playout"></div>
     </section>
-
-    <section class="home-section" data-cat-title="IP / SMPTE 2110">
+    
+    <!-- IP / SMPTE 2110 Section -->
+    <section class="home-section">
       <div class="section-head">
         <h2>IP / SMPTE 2110</h2>
-        ip-video.htmlView all</a>
+        <a href="ip-video.html">View all</a>
       </div>
       <div class="card-grid" id="grid-ip-video"></div>
     </section>
-
-    <section class="home-section" data-cat-title="Cloud &amp; AI">
+    
+    <!-- Cloud & AI Section -->
+    <section class="home-section">
       <div class="section-head">
         <h2>Cloud &amp; AI</h2>
-        cloud-ai.htmlView all</a>
+        <a href="cloud-ai.html">View all</a>
       </div>
       <div class="card-grid" id="grid-cloud-ai"></div>
     </section>
-
-    <section class="home-section" data-cat-title="Audio Technology">
+    
+    <!-- Audio Technology Section -->
+    <section class="home-section">
       <div class="section-head">
         <h2>Audio Technology</h2>
-        audio.htmlView all</a>
+        <a href="audio.html">View all</a>
       </div>
       <div class="card-grid" id="grid-audio"></div>
     </section>
+    
   </main>
-
-  <!-- Footer (keep your existing markup if you prefer) -->
+  
+  <!-- Footer -->
   <footer class="site-footer">
     <div class="footer-grid">
       <div class="foot-col">
-        <div class="foot-brand">assets/logo.svg</div>
-        <p>An independent resource for systems architects and media technologists.</p>
+        <div class="foot-brand">
+          <img src="assets/logo.png" alt="Streamic">
+          <span class="foot-brand-text">Streamic</span>
+        </div>
+        <p>An independent resource for systems architects and media technologists. Tracking the migration of signal flow to software‑defined environments.</p>
       </div>
       <div class="foot-col">
         <h4>Navigation</h4>
-        streaming-tech.htmlStreaming Tech</a>
-        newsroom.htmlNewsroom &amp; NRCS</a>
-        playout.htmlPlayout &amp; Automation</a>
-        ip-video.htmlIP / SMPTE 2110</a>
-        cloud-ai.htmlCloud &amp; AI</a>
-        audio.htmlAudio Technology</a>
+        <a href="streaming-tech.html">Streaming Tech</a>
+        <a href="newsroom.html">Newsroom &amp; NRCS</a>
+        <a href="playout.html">Playout &amp; Automation</a>
+        <a href="ip-video.html">IP / SMPTE 2110</a>
+        <a href="cloud-ai.html">Cloud &amp; AI</a>
+        <a href="audio.html">Audio Technology</a>
       </div>
       <div class="foot-col">
         <h4>Company &amp; Legal</h4>
-        about.htmlAbout</a>
-        privacy.htmlPrivacy Policy</a>
-        terms.htmlTerms &amp; Conditions</a>
-        cookies.htmlCookie Policy</a>
-        disclaimer.htmlDisclaimer</a>
-        copyright.htmlCopyright Notice</a>
-        rss-policy.htmlRSS Policy</a>
-        contact.htmlContact</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms &amp; Conditions</a>
+        <a href="cookies.html">Cookie Policy</a>
+        <a href="disclaimer.html">Disclaimer</a>
+        <a href="copyright.html">Copyright Notice</a>
+        <a href="rss-policy.html">RSS Policy</a>
       </div>
     </div>
     <p class="footer-note">© 2026 The Streamic — All rights reserved.</p>
   </footer>
-
-  app.js</script>
+  
+  <!-- Scripts -->
+  <script src="app.js"></script>
+  <script src="cookies.js"></script>
+  
 </body>
 </html>
