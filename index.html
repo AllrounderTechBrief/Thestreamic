@@ -1,59 +1,111 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <title>Inside Broadcast Technology – The Streamic</title>
+  <meta name="description" content="The Streamic is an independent broadcast technology news aggregator covering signal flow, newsroom systems, IP video, cloud workflows, and AI media infrastructure.">
+  
 <meta charset="UTF-8">
-<title>Inside Broadcast Technology – The Streamic</title>
-
-<meta name="description" content="The Streamic is an independent broadcast technology news aggregator covering signal flow, newsroom systems, IP video, cloud workflows, and AI media infrastructure.">
-
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
 <link rel="canonical" href="https://www.thestreamic.in">
-
-<meta property="og:title" content="Inside Broadcast Technology – The Streamic">
-<meta property="og:description" content="The definitive platform for media engineers. Tracking signal flow, cloud workflows, and AI infrastructure.">
+<meta name="theme-color" content="#ffffff">
 <meta property="og:type" content="website">
-
+<meta property="og:site_name" content="The Streamic">
 <link rel="stylesheet" href="style.css">
+
+  <meta property="og:title" content="Inside Broadcast Technology – The Streamic">
+  <meta property="og:description" content="The definitive platform for media engineers. Tracking signal flow, cloud workflows, and AI infrastructure.">
 </head>
-
 <body>
+  
+<nav class="site-nav">
+  <div class="nav-inner">
+    <a class="nav-logo" href="index.html" aria-label="Streamic home">
+      <img src="assets/logo.svg" alt="Streamic logo" />
+      <span>STREAMIC</span>
+    </a>
+    <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">☰</button>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="broadcast-graphics.html">BROADCAST GRAPHICS</a></li>
+      <li><a href="newsroom.html">NEWSROOM &amp; NRCS</a></li>
+      <li><a href="playout.html">PLAYOUT &amp; AUTOMATION</a></li>
+      <li><a href="ip-video.html">IP / SMPTE 2110</a></li>
+      <li><a href="cloud.html">CLOUD &amp; AI</a></li>
+      <li><a href="audio.html">AUDIO TECHNOLOGY</a></li>
+      <li class="nav-sep"></li>
+      <li><a href="about.html">ABOUT</a></li>
+      <li><a href="contact.html">CONTACT</a></li>
+    </ul>
+  </div>
+</nav>
 
-<header class="hero">
-  <h1>Inside Broadcast Technology</h1>
-  <p>The definitive platform for media engineers. Tracking signal flow, cloud workflows, and AI infrastructure.</p>
-</header>
-
-<main id="content"></main>
-
-<footer>
+  <header class="page-hero"><div class="hero-inner"><h1>Inside Broadcast Technology</h1><p>The definitive platform for media engineers. Tracking signal flow, cloud workflows, and AI infrastructure.</p></div></header>
+  <main class="home">
+    <section class="home-section" data-cat-title="Broadcast Graphics" data-json="onair-graphics.json">
+      <div class="section-head"><h2>Broadcast Graphics</h2><a class="view-all" href="broadcast-graphics.html">View all</a></div>
+      <div class="card-grid" id="grid-onair-graphics"></div>
+    </section>
+    <section class="home-section" data-cat-title="Newsroom &amp; NRCS" data-json="newsroom.json">
+      <div class="section-head"><h2>Newsroom &amp; NRCS</h2><a class="view-all" href="newsroom.html">View all</a></div>
+      <div class="card-grid" id="grid-newsroom"></div>
+    </section>
+    <section class="home-section" data-cat-title="Playout &amp; Automation" data-json="playout.json">
+      <div class="section-head"><h2>Playout &amp; Automation</h2><a class="view-all" href="playout.html">View all</a></div>
+      <div class="card-grid" id="grid-playout"></div>
+    </section>
+    <section class="home-section" data-cat-title="IP / SMPTE 2110" data-json="ip-video.json">
+      <div class="section-head"><h2>IP / SMPTE 2110</h2><a class="view-all" href="ip-video.html">View all</a></div>
+      <div class="card-grid" id="grid-ip-video"></div>
+    </section>
+    <section class="home-section" data-cat-title="Cloud &amp; AI" data-json="cloud-ai.json">
+      <div class="section-head"><h2>Cloud &amp; AI</h2><a class="view-all" href="cloud.html">View all</a></div>
+      <div class="card-grid" id="grid-cloud-ai"></div>
+    </section>
+    <section class="home-section" data-cat-title="Audio Technology" data-json="audio.json">
+      <div class="section-head"><h2>Audio Technology</h2><a class="view-all" href="audio.html">View all</a></div>
+      <div class="card-grid" id="grid-audio"></div>
+    </section>
+  </main>
+  
+<footer class="site-footer">
   <div class="footer-grid">
-    <div>
-      <h4>Streamic</h4>
-      <p>Independent aggregation of broadcast and media-technology news.</p>
+    <div class="foot-col">
+      <div class="foot-brand">
+        <img src="assets/logo.svg" alt="Streamic logo" />
+        <span>STREAMIC</span>
+      </div>
+      <p>Independent aggregation of broadcast &amp; media‑technology news. Inside signal flow, cloud workflows, newsroom systems, IP video, and AI infrastructure.</p>
     </div>
-
-    <div>
-      <h4>Newsletter</h4>
-      <form action="https://buttondown.email/api/emails/embed/YOUR_BUTTONDOWN_NAME" method="post" target="popupwindow">
-        <input type="email" name="email" placeholder="Your email" required>
-        <button type="submit">Subscribe</button>
-      </form>
+    <div class="foot-col">
+      <h4>Navigation</h4>
+      <a href="broadcast-graphics.html">Broadcast Graphics</a>
+      <a href="newsroom.html">Newsroom &amp; NRCS</a>
+      <a href="playout.html">Playout &amp; Automation</a>
+      <a href="ip-video.html">IP / SMPTE 2110</a>
+      <a href="cloud.html">Cloud &amp; AI</a>
+      <a href="audio.html">Audio Technology</a>
     </div>
-
-    <div>
-      <h4>Company & Legal</h4>
-      <a href="about.html">About Streamic</a>
+    <div class="foot-col">
+      <h4>Company &amp; Legal</h4>
+      <a href="about.html">About</a>
       <a href="privacy.html">Privacy Policy</a>
-      <a href="terms.html">Terms of Service</a>
-      <a href="copyright.html">Copyrights</a>
-      <a href="rss.html">RSS Policy</a>
+      <a href="terms.html">Terms &amp; Conditions</a>
+      <a href="cookies.html">Cookie Policy</a>
+      <a href="disclaimer.html">Disclaimer</a>
+      <a href="copyright.html">Copyright Notice</a>
+      <a href="rss-policy.html">RSS Policy</a>
+      <a href="contact.html">Contact</a>
     </div>
   </div>
-
-  <p class="footer-note">© 2026 The Streamic</p>
+  <p class="footer-note">© 2026 The Streamic — All rights reserved.</p>
 </footer>
+<div id="cookieBar" class="cookie-bar" role="region" aria-label="Cookie consent" hidden>
+  <p>We use essential cookies to improve your experience. See our <a href="cookies.html">Cookie Policy</a>.</p>
+  <div class="cookie-actions">
+    <button id="cookieAccept" class="btn">Accept all</button>
+    <button id="cookieEssential" class="btn btn-ghost">Necessary only</button>
+  </div>
+</div>
 
-<script src="app.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>

@@ -30,19 +30,20 @@ os.makedirs("data", exist_ok=True)
 for cat, sources in feeds.items():
  items = []
  for name, url in sources.items():
-  feed = feedparser.parse(url)
-  for e in feed.entries[:10]:
-   image = ""
-   if "media_content" in e and e.media_content:
-    image = e.media_content[0].get("url", "")
-   items.append({
-    "title": e.title,
-    "link": e.link,
-    "source": name,
-    "image": image
-   })
-
- with open(f"data/{cat}.json", "w") as f:
-  json.dump(items, f, indent=2)
-
+  try:
+   feed = feedparser.parse(url)
+   for e in feed.entries[:10]:
+    image = ""
+    if hasattr(e, 'media_content') and e.media_content:
+     image = e.media_content[0].get("url", "")
+    items.append({
+     "title": getattr(e, 'title', ''),
+     "link": getattr(e, 'link', ''),
+     "source": name,
+     "image": image
+    })
+  except Exception:
+   pass
+ with open(f"data/{cat}.json", "w", encoding='utf-8') as f:
+  json.dump(items, f, ensure_ascii=False, indent=2)
  print(f"Wrote {len(items)} items to {cat}.json")
