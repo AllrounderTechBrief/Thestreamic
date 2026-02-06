@@ -1,38 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>The Streamic</title>
   <meta charset="UTF-8" />
+  <title>The Streamic</title>
+
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="light dark" />
   <link rel="canonical" href="https://www.thestreamic.in" />
+
+  <!-- Global styles (Apple-style header, cards, animations, dark mode, etc.) -->
   <link rel="stylesheet" href="style.css" />
 </head>
-
 <body>
 
-  <!-- FIXED CLEAN HEADER (No duplicate STREAMIC, no hamburger, no separators) -->
+  <!-- =========================
+       HEADER (Apple-style)
+  ========================== -->
   <nav class="site-nav normal">
     <div class="nav-inner">
-
       <a class="nav-logo" href="index.html" aria-label="Streamic home">
         <img src="assets/logo.svg" alt="Streamic" />
       </a>
 
-      <ul class="nav-links">
+      <ul class="nav-links" id="navLinks">
+        <li><a href="edit-post.html">EDIT &amp; POST</a></li>
         <li><a href="streaming-tech.html">STREAMING TECH</a></li>
-        <li><a href="newsroom.html">NEWSROOM & NRCS</a></li>
-        <li><a href="playout.html">PLAYOUT & AUTOMATION</a></li>
+        <li><a href="newsroom.html">NEWSROOM &amp; NRCS</a></li>
+        <li><a href="playout.html">PLAYOUT &amp; AUTOMATION</a></li>
         <li><a href="ip-video.html">IP / SMPTE 2110</a></li>
-        <li><a href="cloud.html">CLOUD & AI</a></li>
+        <li><a href="cloud.html">CLOUD &amp; AI</a></li>
         <li><a href="audio.html">AUDIO TECHNOLOGY</a></li>
         <li><a href="about.html">ABOUT</a></li>
         <li><a href="contact.html">CONTACT</a></li>
       </ul>
-
     </div>
   </nav>
 
-  <!-- HERO -->
+  <!-- =========================
+       HERO
+  ========================== -->
   <header class="page-hero">
     <div class="hero-inner">
       <h1>Inside Broadcast Technology</h1>
@@ -40,51 +46,69 @@
     </div>
   </header>
 
-  <!-- HOME SECTIONS -->
+  <!-- =========================
+       HOME – Apple-style sections
+       (Each section auto-loads cards from /data/*.json via app.js)
+  ========================== -->
   <main class="home">
 
+    <!-- Edit & Post (pulls from your new RSS-built JSON) -->
+    <section class="home-section" data-cat-title="Edit &amp; Post" data-json="out-editing.json">
+      <div class="section-head" style="padding:0 20px;">
+        <h2>Edit &amp; Post</h2>
+        <a class="view-all" href="edit-post.html">View all</a>
+      </div>
+      <div class="card-grid" id="grid-edit-post"></div>
+    </section>
+
+    <!-- Streaming Tech -->
     <section class="home-section" data-cat-title="Streaming Tech" data-json="streaming-tech.json">
-      <div class="section-head">
+      <div class="section-head" style="padding:0 20px;">
         <h2>Streaming Tech</h2>
         <a class="view-all" href="streaming-tech.html">View all</a>
       </div>
       <div class="card-grid" id="grid-streaming-tech"></div>
     </section>
 
-    <section class="home-section" data-cat-title="Newsroom & NRCS" data-json="newsroom.json">
-      <div class="section-head">
-        <h2>Newsroom & NRCS</h2>
+    <!-- Newsroom & NRCS -->
+    <section class="home-section" data-cat-title="Newsroom &amp; NRCS" data-json="newsroom.json">
+      <div class="section-head" style="padding:0 20px;">
+        <h2>Newsroom &amp; NRCS</h2>
         <a class="view-all" href="newsroom.html">View all</a>
       </div>
       <div class="card-grid" id="grid-newsroom"></div>
     </section>
 
-    <section class="home-section" data-cat-title="Playout & Automation" data-json="playout.json">
-      <div class="section-head">
-        <h2>Playout & Automation</h2>
+    <!-- Playout & Automation -->
+    <section class="home-section" data-cat-title="Playout &amp; Automation" data-json="playout.json">
+      <div class="section-head" style="padding:0 20px;">
+        <h2>Playout &amp; Automation</h2>
         <a class="view-all" href="playout.html">View all</a>
       </div>
       <div class="card-grid" id="grid-playout"></div>
     </section>
 
+    <!-- IP / SMPTE 2110 -->
     <section class="home-section" data-cat-title="IP / SMPTE 2110" data-json="ip-video.json">
-      <div class="section-head">
+      <div class="section-head" style="padding:0 20px;">
         <h2>IP / SMPTE 2110</h2>
         <a class="view-all" href="ip-video.html">View all</a>
       </div>
       <div class="card-grid" id="grid-ip-video"></div>
     </section>
 
-    <section class="home-section" data-cat-title="Cloud & AI" data-json="cloud-ai.json">
-      <div class="section-head">
-        <h2>Cloud & AI</h2>
+    <!-- Cloud & AI -->
+    <section class="home-section" data-cat-title="Cloud &amp; AI" data-json="cloud-ai.json">
+      <div class="section-head" style="padding:0 20px;">
+        <h2>Cloud &amp; AI</h2>
         <a class="view-all" href="cloud.html">View all</a>
       </div>
       <div class="card-grid" id="grid-cloud-ai"></div>
     </section>
 
+    <!-- Audio Technology -->
     <section class="home-section" data-cat-title="Audio Technology" data-json="audio.json">
-      <div class="section-head">
+      <div class="section-head" style="padding:0 20px;">
         <h2>Audio Technology</h2>
         <a class="view-all" href="audio.html">View all</a>
       </div>
@@ -93,7 +117,9 @@
 
   </main>
 
-  <!-- FOOTER -->
+  <!-- =========================
+       FOOTER (light, Apple-style)
+  ========================== -->
   <footer class="site-footer">
     <div class="footer-grid">
       <div class="foot-col">
@@ -103,11 +129,34 @@
 
       <div class="foot-col">
         <h4>Navigation</h4>
+        <a href="edit-post.html">Edit &amp; Post</a>
         <a href="streaming-tech.html">Streaming Tech</a>
-        <a href="newsroom.html">Newsroom & NRCS</a>
-        <a href="playout.html">Playout & Automation</a>
+        <a href="newsroom.html">Newsroom &amp; NRCS</a>
+        <a href="playout.html">Playout &amp; Automation</a>
         <a href="ip-video.html">IP / SMPTE 2110</a>
-        <a href="cloud.html">Cloud & AI</a>
+        <a href="cloud.html">Cloud &amp; AI</a>
         <a href="audio.html">Audio Technology</a>
       </div>
 
+      <div class="foot-col">
+        <h4>Company &amp; Legal</h4>
+        <a href="about.html">About</a>
+        <a href="privacy.html">Privacy Policy</a>
+        <a href="terms.html">Terms &amp; Conditions</a>
+        <a href="cookies.html">Cookie Policy</a>
+        <a href="disclaimer.html">Disclaimer</a>
+        <a href="copyright.html">Copyright Notice</a>
+        <a href="rss-policy.html">RSS Policy</a>
+        <a href="contact.html">Contact</a>
+      </div>
+    </div>
+    <p class="footer-note">© 2026 The Streamic — All rights reserved.</p>
+  </footer>
+
+  <!-- =========================
+       Scripts
+       (defer = non-blocking; smooth transitions + effects)
+  ========================== -->
+  <script src="app.js" defer></script>
+</body>
+</html>
