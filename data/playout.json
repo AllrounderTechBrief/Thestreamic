@@ -1,6 +1,54 @@
 [
   {
-    "title": "Broadcasters Gather in DC for NAB State Leadership Conference",
+    "title": "IAB Unveils Significant Updates to Multi-State Privacy Agreement",
+    "link": "https://www.tvtechnology.com/regulatory-legal/iab-release-significant-update-to-multi-state-privacy-agreement",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/nRa3CmXta9qY5fGzkhJi26-1280-80.jpg"
+  },
+  {
+    "title": "Ziff Davis to Sell Connectivity Division to Accenture for $1.2 Billion",
+    "link": "https://www.tvtechnology.com/business/mergers-acquisitions/ziff-davis-to-sell-connectivity-division-to-accenture-for-usd1-2-billion",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/DPNQxWt4kXGtQUb7NstqE6-1280-80.png"
+  },
+  {
+    "title": "Scripps to Acquire WTVQ for $15.8 million",
+    "link": "https://www.tvtechnology.com/business/mergers-acquisitions/scripps-to-acquire-wtvq-for-usd15-8-million",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/GAiyQ47aZqiqMUTrFEJYKh-1280-80.png"
+  },
+  {
+    "title": "NEP Unveils Modernized EU-03 OB Unit",
+    "link": "https://www.tvtechnology.com/production/nep-unveils-modernized-eu-03-ob-unit",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/4QNTmQvs5ACQMctwJ37YWk-1280-80.jpg"
+  },
+  {
+    "title": "Net Insight Nimbra Edge, Nimbra 400 Receive YouTube Live Encoder Verification",
+    "link": "https://www.tvtechnology.com/platform/streaming/net-insight-nimbra-edge-nimbra-400-receive-youtube-live-encoder-verification",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/hDjJpJpWfwcoStDeTAXc8U-1280-80.png"
+  },
+  {
+    "title": "FCC Adopts Consent Decree with Multimedia Holdings, Renews KNAZ License",
+    "link": "https://www.tvtechnology.com/regulatory-legal/fcc-adopts-consent-decree-with-multimedia-holdings-renews-knaz-license",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/qMvMMK6tBs2UwtznybRPwL-1280-80.jpeg"
+  },
+  {
+    "title": "Haivision’s Annual Broadcast Report Prioritizes Remote Production Tech",
+    "link": "https://www.tvtechnology.com/insights/trends/haivisions-annual-broadcast-report-prioritizes-remote-production-tech",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/UZQSjFimYmfNtxgQNnoDFZ-1280-80.jpg"
+  },
+  {
+    "title": "APTS Announces Public Broadcast Leadership, Advocacy Awards",
+    "link": "https://www.tvtechnology.com/events/apts-announces-public-broadcast-leadership-advocacy-awards",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/JPHbeVhHwMoxuHfTQYL28Z-1280-80.jpg"
+  },
+  {
+    "title": "Broadcasters Gather in D.C. for NAB State Leadership Conference",
     "link": "https://www.tvtechnology.com/regulatory-legal/broadcasters-gather-in-dc-for-nab-state-leadership-conference",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/KRLEL4YiHNnpLvBLD4yh7M-1280-80.jpeg"
@@ -72,16 +120,28 @@
     "image": "https://cdn.mos.cms.futurecdn.net/AbCAeA6J6BmLd3mmU5gsoG-1280-80.jpg"
   },
   {
-    "title": "NAB Show Leverages Revitalized LVCC To Reflect M&E Transformation",
-    "link": "https://www.tvtechnology.com/events/nab-show-leverages-revitalized-lvcc-to-reflect-m-and-e-transformation",
+    "title": "Long-Awaited ATSC 3.0 Rulemaking Overshadows NAB Show Expectations",
+    "link": "https://www.tvtechnology.com/platform/broadcast/long-awaited-atsc-3-0-rulemaking-overshadows-nab-show-expectations",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/xyFnbFq8mecCbv4kw3Chk5-1280-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/K6GhxzGFJahFKaVRSUVk4j-1280-80.jpg"
   },
   {
     "title": "Live Production Over IP in 2026: Software-Defined Everything",
     "link": "https://www.tvtechnology.com/production/live-production/live-production-over-ip-in-2026-software-defined-everything",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/sm8goR5qwLwNLCAS6qKsLn-1280-80.jpg"
+  },
+  {
+    "title": "Rise Brings Mentoring, Leadership and Advocacy to 2026 NAB Show",
+    "link": "https://www.tvtechnology.com/business/rise-brings-mentoring-leadership-and-advocacy-to-2026-nab-show",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/TFuNnV7VGWnvWv7mHcTir5-1280-80.jpg"
+  },
+  {
+    "title": "Making AI Make Sense at NAB Show",
+    "link": "https://www.tvtechnology.com/insights/analysis/making-ai-make-sense-at-nab-show",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/HZReWh2qFFtcUYn5cTEXxJ-1280-80.jpg"
   },
   {
     "title": "IP’s Impact on Imaging Tech on Full Display at NAB Show",
@@ -102,22 +162,10 @@
     "image": "https://cdn.mos.cms.futurecdn.net/dnt2ikgXaaoDBsAtZgQEdK-1280-80.jpg"
   },
   {
-    "title": "Long-Awaited ATSC 3.0 Rulemaking Overshadows NAB Show Expectations",
-    "link": "https://www.tvtechnology.com/platform/broadcast/long-awaited-atsc-3-0-rulemaking-overshadows-nab-show-expectations",
+    "title": "NAB Show Leverages Revitalized LVCC To Reflect M&E Transformation",
+    "link": "https://www.tvtechnology.com/events/nab-show-leverages-revitalized-lvcc-to-reflect-m-and-e-transformation",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/K6GhxzGFJahFKaVRSUVk4j-1280-80.jpg"
-  },
-  {
-    "title": "Rise Brings Mentoring, Leadership and Advocacy to 2026 NAB Show",
-    "link": "https://www.tvtechnology.com/business/rise-brings-mentoring-leadership-and-advocacy-to-2026-nab-show",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/TFuNnV7VGWnvWv7mHcTir5-1280-80.jpg"
-  },
-  {
-    "title": "Making AI Make Sense at NAB Show",
-    "link": "https://www.tvtechnology.com/insights/analysis/making-ai-make-sense-at-nab-show",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/HZReWh2qFFtcUYn5cTEXxJ-1280-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/xyFnbFq8mecCbv4kw3Chk5-1280-80.jpg"
   },
   {
     "title": "NAB Rolls Out Campaign To Celebrate Role of TV, Radio In U.S. History",
@@ -250,54 +298,6 @@
     "link": "https://www.tvtechnology.com/business/samba-essentials-utilities-tally-most-ad-impressions-in-2nd-half-2025",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/PhiSHTCoRohS7nWd6t6Rk8-1280-80.jpg"
-  },
-  {
-    "title": "Updated: Paramount Wins Bidding War for Warner Bros. Discovery",
-    "link": "https://www.tvtechnology.com/business/mergers-acquisitions/warner-bros-discovery-says-revised-paramount-proposal-is-superior",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/3V7ZAbGtKLiaZmrrYHLsWk-1280-80.jpg"
-  },
-  {
-    "title": "ATSC Appoints Anil Bhardwaj Tech, Strategy Director For India",
-    "link": "https://www.tvtechnology.com/business/people/atsc-appoints-anil-bhardwaj-director-of-technology-and-strategy-for-india-and-emerging-markets",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/v8WzCCBqMTP7Z8mzFadx5N-1280-80.png"
-  },
-  {
-    "title": "Chyron Releases Weather 2.3 With New Data and Automation Features",
-    "link": "https://www.tvtechnology.com/production/chyron-releases-weather-2-3-with-new-data-and-automation-features",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/phjRU7s747UyRtSSQnvLiH-1280-80.jpg"
-  },
-  {
-    "title": "Telestream Unveils Production-Ready AI Capabilities Across Its Product Portfolio",
-    "link": "https://www.tvtechnology.com/production/telestream-unveils-production-ready-ai-capabilities-across-its-product-portfolio",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/vZ3XJbbcYCvDyvLUrtDdqG-1280-80.png"
-  },
-  {
-    "title": "Survey: 88% of Sports Execs Bullish on Industry’s Prospects",
-    "link": "https://www.tvtechnology.com/insights/analysis/survey-88-percent-of-sports-execs-bullish-on-industrys-prospects",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/BKx82fyDA6rzLEFsxsojHA-1280-80.png"
-  },
-  {
-    "title": "Scripps to Reacquire 23 ION Stations",
-    "link": "https://www.tvtechnology.com/business/mergers-acquisitions/scripps-to-reacquire-23-ion-stations",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/GAiyQ47aZqiqMUTrFEJYKh-1280-80.png"
-  },
-  {
-    "title": "Atomos Introduces Ninja RAW HDR Monitor-Recorder At CP+ Trade Show",
-    "link": "https://www.tvtechnology.com/production/atomos-introduces-ninja-raw-hdr-monitor-recorder-at-cp-trade-show",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/vcJWA6YvEbs37xoJ7nHLXm-1280-80.png"
-  },
-  {
-    "title": "Imagine’s Steve Reynolds Discusses Impact of Pixel Power Acquisition",
-    "link": "https://www.tvtechnology.com/platform/imagines-steve-reynolds-discusses-impact-of-pixel-power-acquisition",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/uHGZnjePgqsyo73h9dcmMK-1280-80.jpg"
   },
   {
     "title": "B+C Hall of Fame Honors the Class of 2025",
