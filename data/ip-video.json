@@ -1,5 +1,23 @@
 [
   {
+    "title": "GlobalM to Showcase Live IP Media Transport at 2026 NAB Show",
+    "link": "https://www.tvtechnology.com/infrastructure/ip-networking/globalm-to-showcase-live-ip-media-transport-at-2026-nab-show",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/PUVYgUxpGyB3oscEuKZyZM-1280-80.png"
+  },
+  {
+    "title": "Study: Applied AI Moving Into Core Media Workflows",
+    "link": "https://www.tvtechnology.com/platform/streaming/study-applied-ai-moving-into-core-media-workflows",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/nbVx449QhhPtDCratA4dxN-1280-80.jpg"
+  },
+  {
+    "title": "Gray Media, Dish Trade Barbs Over Dropped Stations in Retrans Dispute",
+    "link": "https://www.tvtechnology.com/regulatory-legal/gray-media-dish-trade-barbs-over-dropped-stations-in-retrans-dispute",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/AUHEYkoTKDiTK6qn94kwBa-1280-80.jpg"
+  },
+  {
     "title": "FCC to Commemorate 30th Anniversary of the Telecommunications Act of 1996",
     "link": "https://www.tvtechnology.com/regulatory-legal/fcc-to-commemorate-30th-anniversary-of-the-telecommunications-act-of-1996",
     "source": "TV Technology",
@@ -282,80 +300,62 @@
     "image": "https://cdn.mos.cms.futurecdn.net/v6AAMG5a33tSPYKZfFkA39-1280-80.png"
   },
   {
-    "title": "Cloud Workflows Are Redefining Live Sports Production",
-    "link": "https://www.tvtechnology.com/insights/opinion/cloud-workflows-are-redefining-live-sports-production",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/G87pH5ih9Qz26vvR9Y7dCJ-1280-80.jpg"
-  },
-  {
-    "title": "Tedial to Highlight AI-Fueled Media Lifecycle at 2026 NAB Show",
-    "link": "https://www.tvtechnology.com/infrastructure/cloud/tedial-to-focus-on-ai-fueled-media-lifecycle-at-2026-nab-show",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/eN5FMKnggPzcoV4K2PDnhC-1280-80.png"
-  },
-  {
-    "title": "ESPN to Air Animated Version of Capitals vs. Rangers NHL Game",
-    "link": "https://www.tvtechnology.com/production/sports-production/espn-to-air-animated-version-of-capitals-vs-rangers-nhl-game",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/9epr2N4zZqKL9An25J4NG-1280-80.jpg"
-  },
-  {
-    "title": "PGA TOUR’s Michael Raimondo on New Innovations at PLAYERS Championship",
-    "link": "https://www.sportsvideo.org/2026/03/12/pga-tours-michael-raimondo-on-new-innovations-at-players-championship/",
-    "source": "Sports Video Group",
-    "image": "https://media.static.sportsvideo.org/spio/ret_img,q_cdnize,to_webp,s_webp/www.sportsvideo.org/wp-content/uploads/2026/03/IMG_2490.jpeg"
-  },
-  {
-    "title": "Golf Channel ‘Live From,” Early Round Coverage Delivers for PLAYERS Championship",
-    "link": "https://www.sportsvideo.org/2026/03/12/golf-channel-live-from-early-round-coverage-delivers-for-players-championship/",
-    "source": "Sports Video Group",
-    "image": "https://media.static.sportsvideo.org/spio/ret_img,q_cdnize,to_webp,s_webp/www.sportsvideo.org/wp-content/uploads/2026/03/Golf-Channel.jpg"
-  },
-  {
-    "title": "X Games Launches New Era With First League Draft at Cosm L.A.",
-    "link": "https://www.sportsvideo.org/2026/03/12/x-games-launches-new-era-with-first-league-draft-at-cosm-l-a/",
-    "source": "Sports Video Group",
-    "image": "https://media.static.sportsvideo.org/spio/ret_img,q_cdnize,to_webp,s_webp/www.sportsvideo.org/wp-content/uploads/2026/03/IMG_0938-950x535.jpg"
-  },
-  {
-    "title": "With 70+ Unilateral Cameras, NBC Sports Is Ready To Tell the Story of PLAYERS Championship",
-    "link": "https://www.sportsvideo.org/2026/03/12/nbc-sports-coverage-of-players-set-to-take-ar-to-new-heights-with-drones/",
-    "source": "Sports Video Group",
-    "image": "https://media.static.sportsvideo.org/spio/ret_img,q_cdnize,to_webp,s_webp/www.sportsvideo.org/wp-content/uploads/2026/03/20260312_092853.jpg"
-  },
-  {
-    "title": "Sky Sports’ New Rights Cycle for PGA TOUR Reshapes Production Operations",
-    "link": "https://www.sportsvideo.org/2026/03/12/sky-sports-new-rights-cycle-for-pga-tour-reshapes-production-operations/",
-    "source": "Sports Video Group",
-    "image": "https://media.static.sportsvideo.org/spio/ret_img,q_cdnize,to_webp,s_webp/www.sportsvideo.org/wp-content/uploads/2026/03/20260311_123346-scaled.jpg"
-  },
-  {
-    "title": "Ross Video’s Kevin Dresser on Powering Graphics for Major Sporting Events Throughout a Busy February",
-    "link": "https://www.sportsvideo.org/2026/03/12/ross-videos-kevin-dresser-on-powering-graphics-for-major-sporting-events-throughout-a-busy-february/",
+    "title": "Ratings Roundup: FOX Smashes WBC Records, ESPN Nets Best College Hoops Audience in 10+ Years",
+    "link": "https://www.sportsvideo.org/2026/03/13/ratings-roundup-fox-smashes-wbc-records-espn-nets-best-college-hoops-audience-in-10-years/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Xfinity To Stream THE PLAYERS Championship in RealTime4K; Debut Multiview and Fan View Features",
-    "link": "https://www.sportsvideo.org/2026/03/12/xfinity-to-stream-the-players-championship-in-realtime4k-debut-multiview-and-fan-view-features/",
+    "title": "NAB 2026: Calrec to Showcase IP Ecosystem and Plethora of New Products",
+    "link": "https://www.sportsvideo.org/2026/03/13/nab-2026-calrec-to-showcase-ip-ecosystem-and-plethora-of-new-products/",
+    "source": "Sports Video Group",
+    "image": "https://media.static.sportsvideo.org/spio/ret_img,q_cdnize,to_webp,s_webp/www.sportsvideo.org/wp-content/uploads/2026/03/Calrec-ImPulseV-DSP-processing-in-the-cloud-757x535.jpg"
+  },
+  {
+    "title": "NEP PGA TOUR Studios, Remote-Production Unit Take Full Advantage of Total Facility Control",
+    "link": "https://www.sportsvideo.org/2026/03/13/nep-pga-tour-studioes-remote-production-unit-take-full-advantage-of-total-facility-control/",
+    "source": "Sports Video Group",
+    "image": "https://media.static.sportsvideo.org/spio/ret_img,q_cdnize,to_webp,s_webp/www.sportsvideo.org/wp-content/uploads/2026/03/IMG_2504.jpeg"
+  },
+  {
+    "title": "Overtime Partners with Metro by T-Mobile for OTE and Overtime Select Basketball Leagues",
+    "link": "https://www.sportsvideo.org/2026/03/13/overtime-partners-with-metro-by-t-mobile-for-ote-and-overtime-select-basketball-leagues/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "On-Course Drones Coupled With AR Prove Powerful Duo at PLAYERS Championship",
-    "link": "https://www.sportsvideo.org/2026/03/12/on-course-drones-coupled-with-ar-prove-powerful-duo-at-players-championship/",
+    "title": "It’s Showtime! Production Pros Bring Awards Shows, Festivals, and Other Events to Life",
+    "link": "https://www.sportsvideo.org/2026/03/13/its-showtime-production-pros-bring-awards-shows-festivals-and-other-events-to-life/",
     "source": "Sports Video Group",
-    "image": "https://media.static.sportsvideo.org/spio/ret_img,q_cdnize,to_webp,s_webp/www.sportsvideo.org/wp-content/uploads/2026/03/20260311_130159-scaled.jpg"
+    "image": "https://vhx.imgix.net/sportsvideogroup/assets/2e30f8d8-183d-4362-8c0d-da33dbae90a5.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280"
   },
   {
-    "title": "SVG Students To Watch: Jack Rinaldi, University of Notre Dame",
-    "link": "https://www.sportsvideo.org/2026/03/12/svg-students-to-watch-jack-rinaldi-university-of-notre-dame/",
+    "title": "NAB 2026: Telestream Launches UP, a Cloud-Native Ingest and Monitoring Solution",
+    "link": "https://www.sportsvideo.org/2026/03/13/nab-2026-telestream-launches-up-a-cloud-native-ingest-and-monitoring-solution/",
     "source": "Sports Video Group",
-    "image": "https://media.static.sportsvideo.org/spio/ret_img,q_cdnize,to_webp,s_webp/www.sportsvideo.org/wp-content/uploads/2026/03/StudentsToWatch_Rinaldi_2.jpg"
+    "image": ""
   },
   {
-    "title": "Apple TV Further Integrating iPhones into ‘Friday Night Baseball’ Camera Lineup This Season",
-    "link": "https://www.sportsvideo.org/2026/03/12/apple-tv-to-further-integrate-iphones-into-friday-night-baseball-camera-lineup-this-season/",
+    "title": "Riedel Communications Appoints Jan Schaffner as VP of Managed Technology Americas",
+    "link": "https://www.sportsvideo.org/2026/03/13/riedel-communications-appoints-jan-schaffner-as-vp-of-managed-technology-americas/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "NAB 2026: Harmonic Takes Wraps Off Spectrum X Plus Media Server",
+    "link": "https://www.sportsvideo.org/2026/03/13/nab-2026-harmonic-takes-wraps-off-spectrum-x-plus-media-server/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "NAB 2026: Net Insight Introduces Nimbra 520 Media Processing Node",
+    "link": "https://www.sportsvideo.org/2026/03/13/nab-2026-net-insight-introduces-nimbra-520-media-processing-node/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "ESPN’s Andy Jacobson on Pushing the Envelope to Debut ‘MNF Playbook’",
+    "link": "https://www.sportsvideo.org/2026/03/13/espns-andy-jacobson-on-pushing-the-envelope-to-debut-mnf-playbook/",
     "source": "Sports Video Group",
     "image": ""
   }
