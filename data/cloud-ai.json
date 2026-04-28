@@ -1,18 +1,54 @@
 [
   {
+    "title": "Pinterest Makes a Major Push into CTV Advertising",
+    "link": "https://www.tvtechnology.com/business/pinterest-makes-a-major-push-into-ctv-advertising",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/n6Hy2yZDqY75hEiktw7vcd-1280-80.png"
+  },
+  {
+    "title": "Sencore’s VB440 Monitoring, Analysis Tool Debuts at NAB Show",
+    "link": "https://www.tvtechnology.com/infrastructure/sencores-vb440-monitoring-analysis-tool-debuts-at-nab-show",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/bKCkEKts9kivvZwKCXMRwS-1280-80.jpg"
+  },
+  {
+    "title": "Nielsen Introduces ‘Predictive Sales Lift’ Tool",
+    "link": "https://www.tvtechnology.com/business/nielsen-introduces-predictive-sales-lift",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/fRSxQXYPGafGrDn7dvM633-1280-80.jpg"
+  },
+  {
+    "title": "Sinclair’s Chief Compliance Officer Jeff Lewis to Retire",
+    "link": "https://www.tvtechnology.com/regulatory-legal/sinclairs-chief-compliance-officer-jeff-lewis-to-retire",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/962dunQjVZpxJDSMZXQUgM-1280-80.jpeg"
+  },
+  {
+    "title": "Nexstar Media Charitable Foundation Sets ‘30 Days of Giving’",
+    "link": "https://www.tvtechnology.com/business/people/nexstar-media-charitable-foundation-announces-30-days-of-giving",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/SNwEzqB4wFhkpeio2aRxPZ-1280-80.png"
+  },
+  {
+    "title": "Study: Local TV Political Ad Spend to Top $4 Billion in 2026",
+    "link": "https://www.tvtechnology.com/business/study-local-tv-political-ad-spent-to-top-usd4-billion-in-2026",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/8e6iAa8koWKoFdDCd2MJn-1280-80.jpg"
+  },
+  {
     "title": "DoubleVerify Earns MRC Accreditation for TikTok Video Viewability Reporting",
     "link": "https://www.tvtechnology.com/business/doubleverify-earns-mrc-accreditation-for-tiktok-video-viewability-reporting",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/24iE65hcbrXgwrhWQtjT9f-1280-80.jpeg"
   },
   {
-    "title": "Analysts: Non-Sports Programming Is Becoming `Irrelevant’ to Broadcast TV Viewership",
+    "title": "Analysts: Non-Sports Programming Is Becoming ‘Irrelevant’ to Broadcast TV Viewership",
     "link": "https://www.tvtechnology.com/business/analysts-non-sports-programming-is-becoming-irrelevant-to-broadcast-tv-viewership",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/pKpGNeMw7fvT5V4vp8VE5-1280-80.webp"
   },
   {
-    "title": "WNBA Offers Free Streaming of all Preseason Games",
+    "title": "WNBA to Stream All Preseason Games for Free",
     "link": "https://www.tvtechnology.com/platform/streaming/wnba-offers-free-streaming-of-all-preseason-games",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/DNggUXjozYUZ3mR9BdEqVL-1280-80.png"
@@ -162,40 +198,16 @@
     "image": "https://cdn.mos.cms.futurecdn.net/pq8V9fSrDZhS8VWgg7FW2S-1280-80.png"
   },
   {
-    "title": "Audio Systems Get Boost From Cloud and AI",
-    "link": "https://www.tvtechnology.com/events/audio-systems-get-boost-from-cloud-and-ai",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/VuoQNaMbSitdrpWB5YD2a5-1280-80.jpg"
-  },
-  {
-    "title": "Video Podcasting  Leaps in Popularity",
-    "link": "https://www.tvtechnology.com/events/video-podcasting-leaps-in-popularity",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/FhrWxiAxgGENr8v7WoE4o8-1280-80.jpg"
-  },
-  {
-    "title": "AWS Demos AI Tools to Deliver Vertical Video",
-    "link": "https://www.tvtechnology.com/events/aws-demos-ai-tools-to-deliver-vertical-video",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/WSZZkSk6HrDB55VqdeYncM-1280-80.jpg"
-  },
-  {
-    "title": "Why Broadcast Is Well-Positioned to Safeguard Freedom of Speech",
-    "link": "https://www.tvtechnology.com/regulatory-legal/why-broadcast-is-well-positioned-to-safeguard-freedom-of-speech",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/eA8WizbhmeBnvuXdkaFcB3-1280-80.jpg"
-  },
-  {
     "title": "MS NOW Uses Community to Build Up Its Brand",
     "link": "https://www.tvtechnology.com/events/ms-now-uses-community-to-build-up-its-brand",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/iFTNV4wC8qMxxtj8eEMuP-1280-80.jpg"
   },
   {
-    "title": "Live Event Technology Expands Fan Engagement",
-    "link": "https://www.tvtechnology.com/events/live-event-technology-expands-fan-engagement",
+    "title": "ATSC Celebrates 3.0’s Global Expansion",
+    "link": "https://www.tvtechnology.com/events/atsc-celebrates-3-0s-global-expansion",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/uapNjJ6knTQdTHRJwUqt65-1280-80.png"
+    "image": "https://cdn.mos.cms.futurecdn.net/RQ7YpScpxEPvrnhM4dCdjM-1280-80.jpg"
   },
   {
     "title": "Cinematic Feel Makes ‘Survivor’ Built to Last",
@@ -204,10 +216,34 @@
     "image": "https://cdn.mos.cms.futurecdn.net/2h5UnAFYom6ex4w64ySi7e-1280-80.jpg"
   },
   {
-    "title": "ATSC Celebrates 3.0’s Global Expansion",
-    "link": "https://www.tvtechnology.com/events/atsc-celebrates-3-0s-global-expansion",
+    "title": "Live Event Technology Expands Fan Engagement",
+    "link": "https://www.tvtechnology.com/events/live-event-technology-expands-fan-engagement",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/RQ7YpScpxEPvrnhM4dCdjM-1280-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/uapNjJ6knTQdTHRJwUqt65-1280-80.png"
+  },
+  {
+    "title": "Why Broadcast Is Well-Positioned to Safeguard Freedom of Speech",
+    "link": "https://www.tvtechnology.com/regulatory-legal/why-broadcast-is-well-positioned-to-safeguard-freedom-of-speech",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/eA8WizbhmeBnvuXdkaFcB3-1280-80.jpg"
+  },
+  {
+    "title": "AWS Demos AI Tools to Deliver Vertical Video",
+    "link": "https://www.tvtechnology.com/events/aws-demos-ai-tools-to-deliver-vertical-video",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/WSZZkSk6HrDB55VqdeYncM-1280-80.jpg"
+  },
+  {
+    "title": "Video Podcasting  Leaps in Popularity",
+    "link": "https://www.tvtechnology.com/events/video-podcasting-leaps-in-popularity",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/FhrWxiAxgGENr8v7WoE4o8-1280-80.jpg"
+  },
+  {
+    "title": "Audio Systems Get Boost From Cloud and AI",
+    "link": "https://www.tvtechnology.com/events/audio-systems-get-boost-from-cloud-and-ai",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/VuoQNaMbSitdrpWB5YD2a5-1280-80.jpg"
   },
   {
     "title": "FCC Commissioner Trusty Explores `That Elusive Angel of the Public Interest’",
@@ -262,42 +298,6 @@
     "link": "https://www.tvtechnology.com/events/corporate-creators-all-companies-are-media-companies-now",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/zQgji6bWyPKr655gNJJAXg-1280-80.jpg"
-  },
-  {
-    "title": "Virtual Production Finds Its Footing",
-    "link": "https://www.tvtechnology.com/events/virtual-production-finds-its-footing",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/f5AHWrTfjocVSK5k3dfp4n-1280-80.jpg"
-  },
-  {
-    "title": "Beyond the ‘Lift and Shift’: Cloud Migration’s New Mandate",
-    "link": "https://www.tvtechnology.com/events/beyond-the-lift-and-shift-cloud-migrations-new-mandate",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/4q3giaV2vx2Bv2KBbHtkNK-1280-80.jpg"
-  },
-  {
-    "title": "Creators Go All in on AI, Niche Content",
-    "link": "https://www.tvtechnology.com/production/creators-go-all-in-on-ai-niche-content",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/MLbbVZPtCRaQKoFVfLiq95-1280-80.png"
-  },
-  {
-    "title": "NBC Sports’ Jon Miller: Broadcast Is ‘Having a Moment’",
-    "link": "https://www.tvtechnology.com/business/nbc-sports-jon-miller-broadcast-is-having-a-moment",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/Lpd4SfYYGMaMrbQqqbkpR3-1280-80.png"
-  },
-  {
-    "title": "Google Cloud Embraces the Rise of Agentic Production",
-    "link": "https://www.tvtechnology.com/infrastructure/google-cloud-embraces-the-rise-of-agentic-production",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/Nt98DAeHehXZ5dTLbQgvxD-1280-80.png"
-  },
-  {
-    "title": "Why Primal Fear Outperforms Spectacle",
-    "link": "https://www.tvtechnology.com/production/why-primal-fear-outperforms-spectacle",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/MKK7wdYHHxS5zAt7Bn3TFS-1280-80.png"
   },
   {
     "title": "B+C Hall of Fame Honors the Class of 2025",

@@ -1,18 +1,54 @@
 [
   {
+    "title": "Pinterest Makes a Major Push into CTV Advertising",
+    "link": "https://www.tvtechnology.com/business/pinterest-makes-a-major-push-into-ctv-advertising",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/n6Hy2yZDqY75hEiktw7vcd-1280-80.png"
+  },
+  {
+    "title": "Sencore’s VB440 Monitoring, Analysis Tool Debuts at NAB Show",
+    "link": "https://www.tvtechnology.com/infrastructure/sencores-vb440-monitoring-analysis-tool-debuts-at-nab-show",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/bKCkEKts9kivvZwKCXMRwS-1280-80.jpg"
+  },
+  {
+    "title": "Nielsen Introduces ‘Predictive Sales Lift’ Tool",
+    "link": "https://www.tvtechnology.com/business/nielsen-introduces-predictive-sales-lift",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/fRSxQXYPGafGrDn7dvM633-1280-80.jpg"
+  },
+  {
+    "title": "Sinclair’s Chief Compliance Officer Jeff Lewis to Retire",
+    "link": "https://www.tvtechnology.com/regulatory-legal/sinclairs-chief-compliance-officer-jeff-lewis-to-retire",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/962dunQjVZpxJDSMZXQUgM-1280-80.jpeg"
+  },
+  {
+    "title": "Nexstar Media Charitable Foundation Sets ‘30 Days of Giving’",
+    "link": "https://www.tvtechnology.com/business/people/nexstar-media-charitable-foundation-announces-30-days-of-giving",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/SNwEzqB4wFhkpeio2aRxPZ-1280-80.png"
+  },
+  {
+    "title": "Study: Local TV Political Ad Spend to Top $4 Billion in 2026",
+    "link": "https://www.tvtechnology.com/business/study-local-tv-political-ad-spent-to-top-usd4-billion-in-2026",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/8e6iAa8koWKoFdDCd2MJn-1280-80.jpg"
+  },
+  {
     "title": "DoubleVerify Earns MRC Accreditation for TikTok Video Viewability Reporting",
     "link": "https://www.tvtechnology.com/business/doubleverify-earns-mrc-accreditation-for-tiktok-video-viewability-reporting",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/24iE65hcbrXgwrhWQtjT9f-1280-80.jpeg"
   },
   {
-    "title": "Analysts: Non-Sports Programming Is Becoming `Irrelevant’ to Broadcast TV Viewership",
+    "title": "Analysts: Non-Sports Programming Is Becoming ‘Irrelevant’ to Broadcast TV Viewership",
     "link": "https://www.tvtechnology.com/business/analysts-non-sports-programming-is-becoming-irrelevant-to-broadcast-tv-viewership",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/pKpGNeMw7fvT5V4vp8VE5-1280-80.webp"
   },
   {
-    "title": "WNBA Offers Free Streaming of all Preseason Games",
+    "title": "WNBA to Stream All Preseason Games for Free",
     "link": "https://www.tvtechnology.com/platform/streaming/wnba-offers-free-streaming-of-all-preseason-games",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/DNggUXjozYUZ3mR9BdEqVL-1280-80.png"
@@ -162,40 +198,16 @@
     "image": "https://cdn.mos.cms.futurecdn.net/pq8V9fSrDZhS8VWgg7FW2S-1280-80.png"
   },
   {
-    "title": "Audio Systems Get Boost From Cloud and AI",
-    "link": "https://www.tvtechnology.com/events/audio-systems-get-boost-from-cloud-and-ai",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/VuoQNaMbSitdrpWB5YD2a5-1280-80.jpg"
-  },
-  {
-    "title": "Video Podcasting  Leaps in Popularity",
-    "link": "https://www.tvtechnology.com/events/video-podcasting-leaps-in-popularity",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/FhrWxiAxgGENr8v7WoE4o8-1280-80.jpg"
-  },
-  {
-    "title": "AWS Demos AI Tools to Deliver Vertical Video",
-    "link": "https://www.tvtechnology.com/events/aws-demos-ai-tools-to-deliver-vertical-video",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/WSZZkSk6HrDB55VqdeYncM-1280-80.jpg"
-  },
-  {
-    "title": "Why Broadcast Is Well-Positioned to Safeguard Freedom of Speech",
-    "link": "https://www.tvtechnology.com/regulatory-legal/why-broadcast-is-well-positioned-to-safeguard-freedom-of-speech",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/eA8WizbhmeBnvuXdkaFcB3-1280-80.jpg"
-  },
-  {
     "title": "MS NOW Uses Community to Build Up Its Brand",
     "link": "https://www.tvtechnology.com/events/ms-now-uses-community-to-build-up-its-brand",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/iFTNV4wC8qMxxtj8eEMuP-1280-80.jpg"
   },
   {
-    "title": "Live Event Technology Expands Fan Engagement",
-    "link": "https://www.tvtechnology.com/events/live-event-technology-expands-fan-engagement",
+    "title": "ATSC Celebrates 3.0’s Global Expansion",
+    "link": "https://www.tvtechnology.com/events/atsc-celebrates-3-0s-global-expansion",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/uapNjJ6knTQdTHRJwUqt65-1280-80.png"
+    "image": "https://cdn.mos.cms.futurecdn.net/RQ7YpScpxEPvrnhM4dCdjM-1280-80.jpg"
   },
   {
     "title": "Cinematic Feel Makes ‘Survivor’ Built to Last",
@@ -204,10 +216,34 @@
     "image": "https://cdn.mos.cms.futurecdn.net/2h5UnAFYom6ex4w64ySi7e-1280-80.jpg"
   },
   {
-    "title": "ATSC Celebrates 3.0’s Global Expansion",
-    "link": "https://www.tvtechnology.com/events/atsc-celebrates-3-0s-global-expansion",
+    "title": "Live Event Technology Expands Fan Engagement",
+    "link": "https://www.tvtechnology.com/events/live-event-technology-expands-fan-engagement",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/RQ7YpScpxEPvrnhM4dCdjM-1280-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/uapNjJ6knTQdTHRJwUqt65-1280-80.png"
+  },
+  {
+    "title": "Why Broadcast Is Well-Positioned to Safeguard Freedom of Speech",
+    "link": "https://www.tvtechnology.com/regulatory-legal/why-broadcast-is-well-positioned-to-safeguard-freedom-of-speech",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/eA8WizbhmeBnvuXdkaFcB3-1280-80.jpg"
+  },
+  {
+    "title": "AWS Demos AI Tools to Deliver Vertical Video",
+    "link": "https://www.tvtechnology.com/events/aws-demos-ai-tools-to-deliver-vertical-video",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/WSZZkSk6HrDB55VqdeYncM-1280-80.jpg"
+  },
+  {
+    "title": "Video Podcasting  Leaps in Popularity",
+    "link": "https://www.tvtechnology.com/events/video-podcasting-leaps-in-popularity",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/FhrWxiAxgGENr8v7WoE4o8-1280-80.jpg"
+  },
+  {
+    "title": "Audio Systems Get Boost From Cloud and AI",
+    "link": "https://www.tvtechnology.com/events/audio-systems-get-boost-from-cloud-and-ai",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/VuoQNaMbSitdrpWB5YD2a5-1280-80.jpg"
   },
   {
     "title": "FCC Commissioner Trusty Explores `That Elusive Angel of the Public Interest’",
@@ -264,98 +300,62 @@
     "image": "https://cdn.mos.cms.futurecdn.net/zQgji6bWyPKr655gNJJAXg-1280-80.jpg"
   },
   {
-    "title": "Virtual Production Finds Its Footing",
-    "link": "https://www.tvtechnology.com/events/virtual-production-finds-its-footing",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/f5AHWrTfjocVSK5k3dfp4n-1280-80.jpg"
-  },
-  {
-    "title": "Beyond the ‘Lift and Shift’: Cloud Migration’s New Mandate",
-    "link": "https://www.tvtechnology.com/events/beyond-the-lift-and-shift-cloud-migrations-new-mandate",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/4q3giaV2vx2Bv2KBbHtkNK-1280-80.jpg"
-  },
-  {
-    "title": "Creators Go All in on AI, Niche Content",
-    "link": "https://www.tvtechnology.com/production/creators-go-all-in-on-ai-niche-content",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/MLbbVZPtCRaQKoFVfLiq95-1280-80.png"
-  },
-  {
-    "title": "NBC Sports’ Jon Miller: Broadcast Is ‘Having a Moment’",
-    "link": "https://www.tvtechnology.com/business/nbc-sports-jon-miller-broadcast-is-having-a-moment",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/Lpd4SfYYGMaMrbQqqbkpR3-1280-80.png"
-  },
-  {
-    "title": "Google Cloud Embraces the Rise of Agentic Production",
-    "link": "https://www.tvtechnology.com/infrastructure/google-cloud-embraces-the-rise-of-agentic-production",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/Nt98DAeHehXZ5dTLbQgvxD-1280-80.png"
-  },
-  {
-    "title": "Why Primal Fear Outperforms Spectacle",
-    "link": "https://www.tvtechnology.com/production/why-primal-fear-outperforms-spectacle",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/MKK7wdYHHxS5zAt7Bn3TFS-1280-80.png"
-  },
-  {
-    "title": "Van Wagner Brings Warhol-Inspired Pop Art Vision to NFL Draft Videoboard Production",
-    "link": "https://www.sportsvideo.org/2026/04/24/van-wagner-brings-warhol-inspired-pop-art-vision-to-nfl-draft-videoboard-production/",
+    "title": "Sound for the NFL Draft Show Balances Often Conflicting Goals",
+    "link": "https://www.sportsvideo.org/2026/04/27/sound-for-the-nfl-draft-show-balances-often-conflicting-goals/",
     "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/04/processed-D7628705-FAFF-47CA-9245-DF1CA53E4D33.jpeg"
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/04/Rafael.jpg"
   },
   {
-    "title": "SVG GameDay, Ep. 12: Detroit Lions’ Jessica Shlemon — Motor City Football at Ford Field",
-    "link": "https://www.sportsvideo.org/2026/04/23/svg-gameday-ep-12-detroit-lions-jessica-shlemon-motor-city-football-at-ford-field/",
-    "source": "Sports Video Group",
-    "image": "https://vhx.imgix.net/sportsvideogroup/assets/18a60dfc-44b3-4ba3-956c-b89a63ca9ffd.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280"
-  },
-  {
-    "title": "ESPN/ABC, NFL Network Prepare for Record-Setting NFL Draft Presentation From Pittsburgh",
-    "link": "https://www.sportsvideo.org/2026/04/23/espn-abc-nfl-network-prepare-for-record-setting-nfl-draft-presentation-from-pittsburgh/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/04/IMG_8913.jpeg"
-  },
-  {
-    "title": "Sportradar Report: ‘The Viewing Experience Is the Product’ as Sports Media Enters New Era of Personalization, Data-Driven Storytelling",
-    "link": "https://www.sportsvideo.org/2026/04/23/sportradar-report-the-viewing-experience-is-the-product-as-sports-media-enters-new-era-of-personalization-data-driven-storytelling/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-11.38.01-AM-378x535.jpg"
-  },
-  {
-    "title": "Bleacher Report’s Live NFL Draft Stream Builds on Record-Breaking Audience With Player-Driven, Interactive Production",
-    "link": "https://www.sportsvideo.org/2026/04/23/bleacher-reports-live-nfl-draft-stream-builds-on-record-breaking-audience-with-player-driven-interactive-production/",
+    "title": "NAB Show 2026 In Review: Our Complete Collection of Video Interviews with Industry Thought Leaders",
+    "link": "https://www.sportsvideo.org/2026/04/27/nab-show-2026-in-review-our-complete-collection-of-video-interviews-with-industry-thought-leaders/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Ratings Roundup: NHL Sees Best Regular Season Average Since 2013; CBS Sports Secures Most Watched Final Round Masters",
-    "link": "https://www.sportsvideo.org/2026/04/23/ratings-roundup-nhl-sees-best-regular-season-average-since-2013-cbs-sports-secures-most-watched-final-round-masters/",
+    "title": "On the Show Floor, the Microphone Is Still the Place Where Audio Begins",
+    "link": "https://www.sportsvideo.org/2026/04/27/on-the-show-floor-the-microphone-is-still-the-place-where-audio-begins/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/04/AT_Broadcast_Mics.jpg"
+  },
+  {
+    "title": "Behind The Mic: Kenny Beecham to Launch NBA Radio Show on SiriusXM; Mike Tomlin to Join NBC Pregame Show",
+    "link": "https://www.sportsvideo.org/2026/04/27/behind-the-mic-kenny-beecham-to-launch-nba-radio-show-on-siriusxm-mike-tomlin-to-join-nbc-pregame-show/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "NAB Reports 58,000+ Registered Attendees at 2026 NAB Show, Up From 2025 but Down From 2024",
-    "link": "https://www.sportsvideo.org/2026/04/23/nab-reports-58000-registered-attendees-at-2026-nab-show-up-from-2025-but-down-from-2024/",
+    "title": "Audio Exhibitors Showcase New Platforms, Innovative Solutions for Complex Issues",
+    "link": "https://www.sportsvideo.org/2026/04/27/audio-exhibitors-showcase-new-platforms-innovative-solutions-for-complex-issues/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "NAB 2026: Clear-Com Announces Updates to Arcadia Central Station and Eclipse HX with New ARC Architecture",
-    "link": "https://www.sportsvideo.org/2026/04/23/nab-2026-clear-com-announces-updates-to-arcadia-central-station-and-eclipse-hx-with-new-arc-architecture/",
+    "title": "Thomas Riedel on Acquiring Arri and Bringing Cinematic Quality to Live Production",
+    "link": "https://www.svgeurope.org/blog/headlines/thomas-riedel-on-acquiring-arri-and-bringing-cinematic-quality-to-live-production/#new_tab",
+    "source": "Sports Video Group",
+    "image": "https://www.svgeurope.org/wp-content/blogs.dir/17/files/2026/04/Riedel-NAB-2026.jpeg"
+  },
+  {
+    "title": "NAB 2026: Encompass Focuses on Live Sport and Cloud Workflows to Drive Growth",
+    "link": "https://www.svgeurope.org/blog/news-roundup/encompass-focuses-on-live-sport-and-cloud-workflows-to-drive-growth/#new_tab",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "NAB Show 2026 Is In The Books! Our Coverage Continues at SVG’s SportsTech@NABShow Blog",
-    "link": "https://www.sportsvideo.org/category/blogs/nab-2026/#new_tab",
+    "title": "TBL Team Boxing League and MSG Networks Announce Broadcast Partnership",
+    "link": "https://www.sportsvideo.org/2026/04/27/tbl-team-boxing-league-and-msg-networks-announce-broadcast-partnership/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Diversified Continues Live Sports Expansion, Supports Mobile TV Group’ Ops Center Buildout",
-    "link": "https://www.sportsvideo.org/2026/04/23/diversified-continues-live-sports-expansion-supports-mobile-tv-group-ops-center-buildout/",
+    "title": "DIRECTV Launches on Meta Quest Headsets as Sports Season Heats Up",
+    "link": "https://www.sportsvideo.org/2026/04/27/directv-launches-on-meta-quest-headsets-as-sports-season-heats-up/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "NAB 2026: NAB Show Announces 2026 Project and Product of the Year Award Winners",
+    "link": "https://www.sportsvideo.org/2026/04/27/nab-2026-nab-show-announces-2026-project-and-product-of-the-year-award-winners/",
     "source": "Sports Video Group",
     "image": ""
   }
