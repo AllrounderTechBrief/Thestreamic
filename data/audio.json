@@ -1,5 +1,101 @@
 [
   {
+    "title": "Gerald \"Jerry\" Pierce, Architect of Modern Digital Cinema, Dies at 73",
+    "link": "https://www.tvtechnology.com/business/people/gerald-jerry-pierce-architect-of-modern-digital-cinema-dies-at-73",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/qy6yYdFcxULzCiYVaEb4Xf-1280-80.png"
+  },
+  {
+    "title": "Studio Technologies Introduces Model 385 Beltpack",
+    "link": "https://www.tvtechnology.com/production/live-production/studio-technologies-introduces-model-385-beltpack",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/sSQu5M2cCJBLj6k9DNpctC-1280-80.jpg"
+  },
+  {
+    "title": "FCC Sets Deadlines for Comments in ABC License Renewals",
+    "link": "https://www.tvtechnology.com/regulatory-legal/fcc-sets-deadlines-for-comments-in-abc-license-renewals",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/WurCM7wF57bq4M2NtuBxdK-1280-80.jpg"
+  },
+  {
+    "title": "Cliff Jones Named Lab Chief of FCC’s Office of Engineering and Technology",
+    "link": "https://www.tvtechnology.com/regulatory-legal/fccs-office-of-engineering-and-technology-names-new-lab-chief",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/PW8VPS4UY4vAoYXmG8Vmu3-1280-80.jpg"
+  },
+  {
+    "title": "Roku Launches the Roku Soccer Zone",
+    "link": "https://www.tvtechnology.com/platform/streaming/roku-launches-the-roku-soccer-zone",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/8zmsyjBp5HjqqzWVVmAinU-1280-80.png"
+  },
+  {
+    "title": "Scripps Stations Go Dark on DirecTV",
+    "link": "https://www.tvtechnology.com/regulatory-legal/scripps-stations-go-dark-on-directv",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/WPMkNK6qsM35vAC2T3Q9Qn-1280-80.jpeg"
+  },
+  {
+    "title": "ASG Advances Joe Marchitto to Western Regional CTO",
+    "link": "https://www.tvtechnology.com/business/people/asg-advances-joe-marchitto-to-western-regional-cto",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/KuZCW3KEw5RVf2wTDACjLn-1280-80.jpg"
+  },
+  {
+    "title": "Broadcasters Reveal What Makes C-Band Alternatives Right for Them",
+    "link": "https://www.tvtechnology.com/insights/opinion/broadcasters-reveal-what-makes-c-band-alternatives-right-for-them",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/YnyaWwRaUxJTjY48Hbdefc-1280-80.jpg"
+  },
+  {
+    "title": "Big Lift Brings Dielectric Antennas to the Top of Chicago’s Willis Tower",
+    "link": "https://www.tvtechnology.com/insights/case-studies/big-lift-brings-dielectric-antennas-to-the-top-of-chicagos-willis-tower",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/e6N9huLMFSZib64iEn3sh4-1280-80.jpg"
+  },
+  {
+    "title": "ATSC 3.0 at NAB Show Focused on Brazil, Low-Cost Receivers",
+    "link": "https://www.tvtechnology.com/insights/opinion/atsc-3-0-at-nab-show-focused-on-brazil-low-cost-receivers",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/bHJR3c6Szkob8EiojTdM6k-1280-80.jpg"
+  },
+  {
+    "title": "Securing the Hybrid Cloud in the Age of AI",
+    "link": "https://www.tvtechnology.com/insights/opinion/securing-the-hybrid-cloud-in-the-age-of-ai",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/dLWuQ7cUd3ibWcsMMtGwCR-1280-80.jpg"
+  },
+  {
+    "title": "Agentic AI and the Future of the Byline",
+    "link": "https://www.tvtechnology.com/insights/opinion/agentic-ai-and-the-future-of-the-byline",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/sroiN8thggkNJPGN2Dy9zW-1280-80.jpg"
+  },
+  {
+    "title": "Broadcasters Prepare for Nation’s 250th Birthday Bash",
+    "link": "https://www.tvtechnology.com/production/live-production/broadcasters-prepare-for-nations-250th-birthday-bash",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/tm5NLJpVTrtbne2xnqwQJQ-1280-80.png"
+  },
+  {
+    "title": "U.S. Broadcasters Ready for Most Complex FIFA World Cup Ever",
+    "link": "https://www.tvtechnology.com/production/sports-production/u-s-broadcasters-ready-for-most-complex-fifa-world-cup-ever",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/FnH9nGFPKY54sU8BMF89xY-1280-80.jpg"
+  },
+  {
+    "title": "Broadcasters Hit by Mounting AI Costs in Shift to Hybrid Cloud Production",
+    "link": "https://www.tvtechnology.com/infrastructure/cloud/broadcasters-hit-by-mounting-ai-costs-in-shift-to-hybrid-cloud-production",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/HQyQhSZR48JLtTk7BGMwPY-1280-80.jpg"
+  },
+  {
+    "title": "Haivision Delivers Live Remote Rugby Coverage From Dubai to Manchester",
+    "link": "https://www.tvtechnology.com/insights/case-studies/haivision-delivers-live-remote-rugby-coverage-from-dubai-to-manchester",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/ZwYnNSve3T7w8hRJtZYthh-1280-80.jpg"
+  },
+  {
     "title": "NewsNation Launches New Podcasting Studio and Podcasts",
     "link": "https://www.tvtechnology.com/platform/streaming/newsnation-launches-new-podcasts-new-podcasting-studio",
     "source": "TV Technology",
@@ -204,100 +300,22 @@
     "image": "https://cdn.mos.cms.futurecdn.net/BmRn8yodiQb3Unp4Eih4Qa-1280-80.jpg"
   },
   {
-    "title": "Matrox Video Marks 50 Year Milestone",
-    "link": "https://www.tvtechnology.com/business/matrox-video-marks-50-year-milestone",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/EQbs7CqXkPZ9T7dKwCc6QG-1280-80.jpg"
+    "title": "LiveU Readies Its ‘Most Ambitious Deployment Yet’ for Busy Summer of Soccer",
+    "link": "https://www.sportsvideo.org/2026/06/01/liveu-readies-its-most-ambitious-deployment-yet-for-busy-summer-of-soccer/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/06/Phillip-Broaddus.jpg"
   },
   {
-    "title": "FCC Seeks Public Comments on ‘The View’ as a ‘Bona Fide’ News Show",
-    "link": "https://www.tvtechnology.com/regulatory-legal/fcc-asks-for-public-comments-on-whether-the-view-is-a-bona-fide-news-interview-program",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/hiP9vLXDYiY4RGeGWzmEfT-1280-80.png"
+    "title": "SVG Sit-Down: Stats Perform’s Charles Kaplan on 30 Years of Opta, a Busy Summer of Soccer, What’s Next",
+    "link": "https://www.sportsvideo.org/2026/06/01/svg-sit-down-stats-performs-charles-kaplan-on-30-years-of-opta-a-busy-summer-of-soccer-whats-next/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/06/Charles-K-1.jpg"
   },
   {
-    "title": "Spectrum Launches Ultra-Low Latency Internet",
-    "link": "https://www.tvtechnology.com/business/spectrum-launches-ultra-low-latency-internet",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/t2AEjpgNzz8AfdoAREstvg-1280-80.png"
-  },
-  {
-    "title": "Nexstar to 9th Circuit: Blocking Tegna Deal Causes ‘Severe Harm’",
-    "link": "https://www.tvtechnology.com/regulatory-legal/nexstar-tells-ninth-circuit-that-injunction-blocking-tegna-deal-causes-severe-harm",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/qMvMMK6tBs2UwtznybRPwL-1280-80.jpeg"
-  },
-  {
-    "title": "Lawo to Showcase Edge One, Efficient IP Workflows at InfoComm 2026",
-    "link": "https://www.tvtechnology.com/infrastructure/lawo-to-showcase-edge-one-and-efficient-ip-workflows-at-infocomm-2026",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/3sBsZRreCtrfnBk82WzchH-1280-80.jpg"
-  },
-  {
-    "title": "New CIMM Paper Urges Industry to Rethink How Media Is Evaluated",
-    "link": "https://www.tvtechnology.com/insights/analysis/new-cimm-paper-urges-industry-to-rethink-how-media-is-evaluated",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/3TsypUY7VhRnFFMfYmQxc-1280-80.jpg"
-  },
-  {
-    "title": "Hearst Television Promotes Andrea Stahlman to President, GM of WLKY-TV",
-    "link": "https://www.tvtechnology.com/business/people/hearst-television-promotes-andrea-stahlman-to-president-gm-of-wlky-tv",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/a5JthP55hBNtYbcZXPTE3-1280-80.jpg"
-  },
-  {
-    "title": "Gray Media Names New Station General Managers",
-    "link": "https://www.tvtechnology.com/business/people/gray-media-names-new-station-general-managers",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/UdAswspZbSFQnoRWHgAL4E-1280-80.png"
-  },
-  {
-    "title": "Fox Commits $500,000 to FIFA World Cup 2026 Community Impact Initiatives",
-    "link": "https://www.tvtechnology.com/business/people/fox-commits-usd500-000-to-fifa-world-cup-2026-community-impact-initiatives",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/wXiKym32jNzqdPiqXY3rwU-1280-80.jpg"
-  },
-  {
-    "title": "FCC Votes to Update Disaster Information Reporting System",
-    "link": "https://www.tvtechnology.com/regulatory-legal/fcc-votes-to-update-disaster-information-reporting-system",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/TdC5sxqXqQCUTXeTcXFvPA-1280-80.png"
-  },
-  {
-    "title": "Torneos Upgrades Multichannel Playout with Imagine’s Versio",
-    "link": "https://www.tvtechnology.com/infrastructure/torneos-upgrades-multichannel-playout-with-imagines-versio",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/WwovFBBbpyhYFPtMKNLq7S-1280-80.png"
-  },
-  {
-    "title": "Ross Video to Invest C$122.5 Million to Expand Manufacturing and R&D",
-    "link": "https://www.tvtechnology.com/business/ross-video-to-invest-c-usd122-5-million-to-expand-manufacturing-and-r-and-d",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/69RkPFnHNFchNy6zjMzgQa-1280-80.jpg"
-  },
-  {
-    "title": "Fuse Media Taps iSpot as Official Measurement Provider for Fast and CTV Inventory",
-    "link": "https://www.tvtechnology.com/business/fuse-media-taps-ispot-as-official-measurement-provider-for-fast-and-ctv-inventory",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/wwpkgH7iApzmrwiwhQWrDK-1280-80.jpg"
-  },
-  {
-    "title": "All-IP Didn’t Simplify Broadcast — It Shifted the Complexity",
-    "link": "https://www.tvtechnology.com/insights/opinion/all-ip-didnt-simplify-broadcast-it-shifted-the-complexity",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/vcLnAonkU8s368dCrmbSkR-1280-80.jpg"
-  },
-  {
-    "title": "Study: Sports Content Is Fastest-Growing Portion of Top Global SVOD Catalogs",
-    "link": "https://www.tvtechnology.com/platform/streaming/study-sports-content-is-fastest-growing-portion-of-top-global-svod-catalogs",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/SEgqjNCPV5DTtFXtD4RFvi-1280-80.jpg"
-  },
-  {
-    "title": "NAB Show Makes 200+ Sessions Available on Demand",
-    "link": "https://www.tvtechnology.com/events/nab-show-makes-200-sessions-available-on-demand",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/55ngfqk6eiyDCjjv5o9i2A-1280-80.jpg"
+    "title": "AudioShake Launches End-to-End Copyright Compliance System for Mixed-Media Audio",
+    "link": "https://www.sportsvideo.org/2026/06/01/audioshake-launches-end-to-end-copyright-compliance-system-for-mixed-media-audio/",
+    "source": "Sports Video Group",
+    "image": ""
   },
   {
     "title": "Ratings Roundup: NBA, NHL Playoffs and Indy 500 Photo Finish Power a Record-Setting Week",
@@ -340,23 +358,5 @@
     "link": "https://www.sportsvideo.org/2026/05/29/college-sports-production-community-gathers-in-atlanta-for-2026-svg-college-summit/",
     "source": "Sports Video Group",
     "image": "https://www.sportsvideo.org/wp-content/uploads/2026/05/College26_2-960x376.jpg"
-  },
-  {
-    "title": "Comcast Business Supports Advanced Technology Infrastructure at Levi’s Stadium for Fan Experience, Venue Operations",
-    "link": "https://www.sportsvideo.org/2026/05/29/comcast-business-supports-advanced-technology-infrastructure-at-levis-stadium-for-fan-experience-venue-operations/",
-    "source": "Sports Video Group",
-    "image": ""
-  },
-  {
-    "title": "DAZN Brings The Canadian Football League’s <i>Saturday Night Football</i> to the Masses in New Media Rights Deal",
-    "link": "https://www.sportsvideo.org/2026/05/29/dazn-brings-the-canadian-football-leagues-saturday-night-football-to-the-masses-in-new-media-rights-deal/",
-    "source": "Sports Video Group",
-    "image": ""
-  },
-  {
-    "title": "Arizona’s Family Sports Debuts Direct-to-Consumer Streaming App",
-    "link": "https://www.sportsvideo.org/2026/05/29/arizonas-family-sports-debuts-direct-to-consumer-streaming-app/",
-    "source": "Sports Video Group",
-    "image": ""
   }
 ]
