@@ -1,6 +1,42 @@
 [
   {
-    "title": "Nielsen Announces New Integrations for Improved Measurement",
+    "title": "Sky News Australia Taps Grass Valley for Cloud-First Newsroom Upgrade",
+    "link": "https://www.tvtechnology.com/production/live-production/sky-news-australia-taps-grass-valley-for-cloud-first-newsroom-upgrade",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/AC43Don6m29otNrUK3M5BS-1280-80.jpg"
+  },
+  {
+    "title": "Telycam Expands Broadcast PTZ Camera Lineup",
+    "link": "https://www.tvtechnology.com/production/telycam-expands-broadcast-ptz-camera-lineup",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/7Ub6DDzFdjgELkGDvD4Sgf-1280-80.jpg"
+  },
+  {
+    "title": "FCC to Vote on Strengthening Cybersecurity Rules for Emergency Alerts",
+    "link": "https://www.tvtechnology.com/regulatory-legal/fcc-to-vote-on-strengthening-cybersecurity-rules-for-emergency-alerts",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/6ij26v58WDrysCemifpp9d-1280-80.jpg"
+  },
+  {
+    "title": "Streaming Platform FIFA+ Launches on DAZN",
+    "link": "https://www.tvtechnology.com/platform/streaming/fifa-launches-on-dazn",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/Nta29cjoSM5x3RYjxVaSbX-1280-80.jpg"
+  },
+  {
+    "title": "APTS Urges Congress to Create a New Fund for Local Public Stations",
+    "link": "https://www.tvtechnology.com/regulatory-legal/legislation/apts-urges-congress-to-create-a-new-fund-for-local-public-stations",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/KRLEL4YiHNnpLvBLD4yh7M-1280-80.jpeg"
+  },
+  {
+    "title": "Peacock to Stream Telemundo’s World Cup Coverage in Dolby Vision, Atmos",
+    "link": "https://www.tvtechnology.com/platform/streaming/peacock-to-stream-telemundos-world-cup-coverage-in-dolby-vision-atmos",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/gexnNKsAChUwuQbYUMBNb4-1280-80.jpg"
+  },
+  {
+    "title": "Nielsen Adds New Audience Data Partnerships",
     "link": "https://www.tvtechnology.com/business/nielsen-announces-new-integrations-for-improved-measurement",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/fRSxQXYPGafGrDn7dvM633-1280-80.jpg"
@@ -240,24 +276,6 @@
     "image": "https://cdn.mos.cms.futurecdn.net/YnyaWwRaUxJTjY48Hbdefc-1280-80.jpg"
   },
   {
-    "title": "Haivision Delivers Live Remote Rugby Coverage From Dubai to Manchester",
-    "link": "https://www.tvtechnology.com/insights/case-studies/haivision-delivers-live-remote-rugby-coverage-from-dubai-to-manchester",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/ZwYnNSve3T7w8hRJtZYthh-1280-80.jpg"
-  },
-  {
-    "title": "Broadcasters Prepare for Nation’s 250th Birthday Bash",
-    "link": "https://www.tvtechnology.com/production/live-production/broadcasters-prepare-for-nations-250th-birthday-bash",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/tm5NLJpVTrtbne2xnqwQJQ-1280-80.png"
-  },
-  {
-    "title": "Broadcasters Hit by Mounting AI Costs in Shift to Hybrid Cloud Production",
-    "link": "https://www.tvtechnology.com/infrastructure/cloud/broadcasters-hit-by-mounting-ai-costs-in-shift-to-hybrid-cloud-production",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/HQyQhSZR48JLtTk7BGMwPY-1280-80.jpg"
-  },
-  {
     "title": "Agentic AI and the Future of the Byline",
     "link": "https://www.tvtechnology.com/insights/opinion/agentic-ai-and-the-future-of-the-byline",
     "source": "TV Technology",
@@ -270,16 +288,10 @@
     "image": "https://cdn.mos.cms.futurecdn.net/dLWuQ7cUd3ibWcsMMtGwCR-1280-80.jpg"
   },
   {
-    "title": "ATSC 3.0 at NAB Show Focused on Brazil, Low-Cost Receivers",
-    "link": "https://www.tvtechnology.com/insights/opinion/atsc-3-0-at-nab-show-focused-on-brazil-low-cost-receivers",
+    "title": "Broadcasters Prepare for Nation’s 250th Birthday Bash",
+    "link": "https://www.tvtechnology.com/production/live-production/broadcasters-prepare-for-nations-250th-birthday-bash",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/bHJR3c6Szkob8EiojTdM6k-1280-80.jpg"
-  },
-  {
-    "title": "Big Lift Brings Dielectric Antennas to the Top of Chicago’s Willis Tower",
-    "link": "https://www.tvtechnology.com/insights/case-studies/big-lift-brings-dielectric-antennas-to-the-top-of-chicagos-willis-tower",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/e6N9huLMFSZib64iEn3sh4-1280-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/tm5NLJpVTrtbne2xnqwQJQ-1280-80.png"
   },
   {
     "title": "U.S. Broadcasters Ready for Most Complex FIFA World Cup Ever",
@@ -288,74 +300,62 @@
     "image": "https://cdn.mos.cms.futurecdn.net/FnH9nGFPKY54sU8BMF89xY-1280-80.jpg"
   },
   {
-    "title": "NewsNation Launches New Podcasting Studio and Podcasts",
-    "link": "https://www.tvtechnology.com/platform/streaming/newsnation-launches-new-podcasts-new-podcasting-studio",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/dwMuJiWU8LGapcggn7hoUb-1280-80.jpg"
-  },
-  {
-    "title": "IAMT to Offer New Educational Sessions at InfoComm 2026",
-    "link": "https://www.tvtechnology.com/events/iamt-to-offer-new-educational-sessions-at-infocomm-2026",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/xfi3wuBsuxihZPDVtehGjS-1280-80.png"
-  },
-  {
-    "title": "Prime Video Caps First NBA Season With Sports Emmy Win, Carries In-House Production Into WNBA Campaign",
-    "link": "https://www.sportsvideo.org/2026/06/04/prime-video-caps-first-nba-season-with-sports-emmy-win-carries-in-house-production-into-wnba-campaign/",
+    "title": "Ratings Roundup: NBC’s Spurs-Thunder Game 7 Best Since 2016, ESPN’s Stanley Cup Final Opener Hits Seven-Year High",
+    "link": "https://www.sportsvideo.org/2026/06/05/ratings-roundup-nbcs-spurs-thunder-game-7-best-since-2016-espns-stanley-cup-final-opener-hits-seven-year-high/",
     "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/06/NBA-Prime-David-Faller-952x535.jpg"
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/06/top25-ratings-chart-1-442x535.jpg"
   },
   {
-    "title": "Grass Valley’s Ben Dolinky on Offering Teachable Technology to College Students Across the Country",
-    "link": "https://www.sportsvideo.org/2026/06/04/grass-valleys-ben-dolinky-on-offering-teachable-technology-to-college-students-across-the-country/",
+    "title": "FOX Returns to Saratoga Race Course for 158th Running of Belmont Stakes",
+    "link": "https://www.sportsvideo.org/2026/06/05/fox-returns-to-saratoga-race-course-for-158th-running-of-belmont-stakes/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Sports Broadcaster, Executive, and Author David J. Halberstam Dies",
-    "link": "https://www.sportsvideo.org/2026/06/04/sports-broadcaster-executive-and-author-david-j-halberstam-dies/",
+    "title": "Free Registration for SVG Regional Sports Production Summit Ends Today!",
+    "link": "https://www.sportsvideo.org/2026/06/05/free-registration-for-rsn-summit-ends-today/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/06/Screenshot-2026-06-05-at-12.15.07-PM.jpg"
+  },
+  {
+    "title": "ESPN Pivots From REMI to Full On-Site Production for UFL Playoff Game on Daytona’s ‘Blank Canvas’",
+    "link": "https://www.sportsvideo.org/2026/06/05/espn-pivots-from-remi-to-full-on-site-production-for-ufl-playoff-game-on-daytonas-blank-canvas/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/06/daytaon-compound-944x535.jpg"
+  },
+  {
+    "title": "Virtual Eye Powers Broadcast Graphics Across Golf Productions in Busy Three-Event Week",
+    "link": "https://www.sportsvideo.org/2026/06/05/virtual-eye-powers-broadcast-graphics-across-golf-productions-in-busy-three-event-week/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/06/49aaa602-b0bc-475c-b89c-71ec6b856645.jpg"
+  },
+  {
+    "title": "Inside SailGP New York: How Riedel Provides Tech Backbone for Challenging Production Effort",
+    "link": "https://www.sportsvideo.org/2026/06/05/inside-sailgp-new-york-how-riedel-provides-tech-backbone-for-challenging-production-effort/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/06/IMG_3074.jpeg"
+  },
+  {
+    "title": "Formula 1 Extends Las Vegas Grand Prix Through 2037",
+    "link": "https://www.sportsvideo.org/2026/06/05/formula-1-extends-las-vegas-grand-prix-through-2037/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "NESN Appoints Fahad Haider as Vice President of Operations and Engineering",
-    "link": "https://www.sportsvideo.org/2026/06/04/nesn-appoints-fahad-haider-as-vice-president-of-operations-and-engineering/",
+    "title": "Peacock to Stream Telemundo’s FIFA World Cup 2026 Coverage in Dolby Vision and Dolby Atmos",
+    "link": "https://www.sportsvideo.org/2026/06/05/peacock-to-stream-telemundos-fifa-world-cup-2026-coverage-in-dolby-vision-and-dolby-atmos/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "MASV Outlines Seven-Step Sports Analytics Workflow, Highlights File Transfer as Key Bottleneck",
-    "link": "https://www.sportsvideo.org/2026/06/04/masv-outlines-seven-step-sports-analytics-workflow-highlights-file-transfer-as-key-bottleneck/",
+    "title": "Telemundo Announces Group Stage Broadcast Schedule and Talent Assignments for FIFA World Cup 2026",
+    "link": "https://www.sportsvideo.org/2026/06/05/telemundo-announces-group-stage-broadcast-schedule-and-talent-assignments-for-fifa-world-cup-2026/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "MASV Case Study: How MASV Reduced Miami HEAT’s Road Game Video Transfer Times by 85%",
-    "link": "https://www.sportsvideo.org/2026/06/04/masv-case-study-how-masv-reduced-miami-heats-road-game-video-transfer-times-by-85/",
-    "source": "Sports Video Group",
-    "image": ""
-  },
-  {
-    "title": "Bell Media to Carry All 104 FIFA World Cup 2026 Matches Across TSN, RDS, and Streaming Platforms",
-    "link": "https://www.sportsvideo.org/2026/06/04/bell-media-to-carry-all-104-fifa-world-cup-2026-matches-across-tsn-rds-and-streaming-platforms/",
-    "source": "Sports Video Group",
-    "image": ""
-  },
-  {
-    "title": "KOKUSAI DENKI Electric America to Exhibit 4K and Remote Production Solutions at InfoComm 2026",
-    "link": "https://www.sportsvideo.org/2026/06/04/kokusai-denki-electric-america-to-exhibit-4k-and-remote-production-solutions-at-infocomm-2026/",
-    "source": "Sports Video Group",
-    "image": ""
-  },
-  {
-    "title": "Sony Announces RIALTO 65 Image Sensor Block for VENICE 2, Targeting 2027 Release",
-    "link": "https://www.sportsvideo.org/2026/06/04/sony-announces-rialto-65-image-sensor-block-for-venice-2-targeting-2027-release/",
-    "source": "Sports Video Group",
-    "image": ""
-  },
-  {
-    "title": "Telestream to Exhibit at InfoComm 2026 with Live Production and Media Workflow Demonstrations",
-    "link": "https://www.sportsvideo.org/2026/06/04/telestream-to-exhibit-at-infocomm-2026-with-live-production-and-media-workflow-demonstrations/",
+    "title": "FIFA+ Launches Exclusively on DAZN",
+    "link": "https://www.sportsvideo.org/2026/06/05/fifa-launches-exclusively-on-dazn/",
     "source": "Sports Video Group",
     "image": ""
   }
