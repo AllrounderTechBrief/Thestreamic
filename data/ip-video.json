@@ -1,12 +1,60 @@
 [
   {
+    "title": "Warner Bros.’ The Ranch Lot to Host LA28 International Broadcast Center",
+    "link": "https://www.tvtechnology.com/production/sports-production/warner-bros-the-ranch-lot-to-host-la28-international-broadcast-center",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/vDzjWBsEkWFHozMyGkrd9R-1280-80.jpg"
+  },
+  {
+    "title": "Half of Marketers Increased CTV Budgets, But Only 33% Fully Trust Performance Claims",
+    "link": "https://www.tvtechnology.com/insights/analysis/half-of-marketers-increased-ctv-budgets-but-only-33-percent-fully-trust-performance-claims",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/qYJEQ4GEmoQfU8NYpn2zcP-1280-80.jpg"
+  },
+  {
+    "title": "Sage Offers Guidance on EAS Password Changes",
+    "link": "https://www.tvtechnology.com/regulatory-legal/sage-offers-guidance-on-eas-password-changes",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/LqvVNDPe6DLMs7rt6ecD6H-1280-80.jpg"
+  },
+  {
+    "title": "Wedotv FAST Channels Launch on TiVo Platforms in Europe",
+    "link": "https://www.tvtechnology.com/platform/streaming/wedotv-fast-channels-launch-on-tivo-platforms-in-europe",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/F7AHUnpKCLJJyRg6CyVAYf-1280-80.jpg"
+  },
+  {
+    "title": "IAB Releases ‘Redefining Media Types’ Standard for Public Comment",
+    "link": "https://www.tvtechnology.com/standards/iab-releases-redefining-media-types-standard-for-public-comment",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/nRa3CmXta9qY5fGzkhJi26-1280-80.jpg"
+  },
+  {
+    "title": "Registration Opens for 2026 NAB Show New York",
+    "link": "https://www.tvtechnology.com/events/registration-opens-for-2026-nab-show-new-york",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/yVC9SKK2yu8ZjZfinYmywY-1280-80.jpg"
+  },
+  {
+    "title": "Chyron’s PRIME 5.4 Brings Template Experience to More Newsrooms",
+    "link": "https://www.tvtechnology.com/production/chyrons-prime-5-4-brings-template-experience-to-more-newsrooms",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/cAcr4f9R2GqzirbzGQcVph-1280-80.jpg"
+  },
+  {
+    "title": "ITV Taps Gravity Media for Innovative Reverse Remote Production of FIFA World Cup",
+    "link": "https://www.tvtechnology.com/production/sports-production/itv-taps-gravity-media-for-innovative-reverse-remote-production-of-fifa-world-cup",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/dWvrP2Tmh4EGXGTGxFFe2c-1280-80.png"
+  },
+  {
     "title": "Study: 43% of Younger Viewers Have Cancelled Subscriptions over Bad UX",
     "link": "https://www.tvtechnology.com/insights/analysis/study-43-percent-of-younger-viewers-have-cancelled-subscription-over-bad-ux",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/SE8G42VzgirqT3XqRdgCxX-1280-80.jpg"
   },
   {
-    "title": "New York State Broadcasters Association Selects Hall Of Fame Class Of 2026",
+    "title": "N.Y. State Broadcasters Association Selects Hall of Fame Class of 2026",
     "link": "https://www.tvtechnology.com/events/new-york-state-broadcasters-association-selects-hall-of-fame-class-of-2026",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/C2M4J5CZHoEHoWwdVeehGY-1280-80.jpg"
@@ -78,40 +126,10 @@
     "image": "https://cdn.mos.cms.futurecdn.net/nxj9TKu25mbHPbt7W27QYf-1280-80.png"
   },
   {
-    "title": "Rewriting the Control Room: How Broadcasters Are Going Remote",
-    "link": "https://www.tvtechnology.com/production/remote-production/rewriting-the-control-room-how-broadcasters-are-going-remote",
+    "title": "CS live Builds a Future-Ready OB Van With Riedel Control Systems",
+    "link": "https://www.tvtechnology.com/production/remote-production/cs-live-builds-a-future-ready-ob-van-with-riedel-control-systems",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/e3HntSrWKa4bm77kEPat5h-1280-80.jpg"
-  },
-  {
-    "title": "NAB Show Review Part 2: BEIT’s RF Road Map",
-    "link": "https://www.tvtechnology.com/platform/broadcast/nab-show-review-part-2-beits-rf-road-map",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/PRzzNv8JyPBuVoxGmzq6d5-1280-80.jpg"
-  },
-  {
-    "title": "Welcome to The Other Side",
-    "link": "https://www.tvtechnology.com/business/welcome-to-the-other-side",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/y6ZH5jqmzQy7JsJXkuv9Ga-1280-80.jpg"
-  },
-  {
-    "title": "Disagreements Abound Over the Adequacy of C-Band Replacements",
-    "link": "https://www.tvtechnology.com/platform/satellite/disagreements-abound-over-the-adequacy-of-c-band-replacements",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/85FTwFvgunYbR9zTQaQokS-1280-80.jpg"
-  },
-  {
-    "title": "Building a Future-Ready Facility for Tomorrow’s Broadcasters",
-    "link": "https://www.tvtechnology.com/platform/broadcast/building-a-future-ready-facility-for-tomorrows-broadcasters",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/TLWZ7My77kT6FxtYaKgsXM-1280-80.jpg"
-  },
-  {
-    "title": "NFL on TV: Time to Move the Regulatory Goal Posts?",
-    "link": "https://www.tvtechnology.com/regulatory-legal/nfl-on-tv-time-to-move-the-regulatory-goal-posts",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/fTpa7rViB2Shtdc5xTftDe-1280-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/LpGhoxqvdornV29vvkhpUf-1280-80.jpg"
   },
   {
     "title": "Cameras Become More Connected to Production Workflows",
@@ -120,10 +138,40 @@
     "image": "https://cdn.mos.cms.futurecdn.net/SNnhriDNLGPNrNzXdvFjDM-1280-80.jpg"
   },
   {
-    "title": "CS live Builds a Future-Ready OB Van With Riedel Control Systems",
-    "link": "https://www.tvtechnology.com/production/remote-production/cs-live-builds-a-future-ready-ob-van-with-riedel-control-systems",
+    "title": "NFL on TV: Time to Move the Regulatory Goal Posts?",
+    "link": "https://www.tvtechnology.com/regulatory-legal/nfl-on-tv-time-to-move-the-regulatory-goal-posts",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/LpGhoxqvdornV29vvkhpUf-1280-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/fTpa7rViB2Shtdc5xTftDe-1280-80.jpg"
+  },
+  {
+    "title": "Building a Future-Ready Facility for Tomorrow’s Broadcasters",
+    "link": "https://www.tvtechnology.com/platform/broadcast/building-a-future-ready-facility-for-tomorrows-broadcasters",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/TLWZ7My77kT6FxtYaKgsXM-1280-80.jpg"
+  },
+  {
+    "title": "Disagreements Abound Over the Adequacy of C-Band Replacements",
+    "link": "https://www.tvtechnology.com/platform/satellite/disagreements-abound-over-the-adequacy-of-c-band-replacements",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/85FTwFvgunYbR9zTQaQokS-1280-80.jpg"
+  },
+  {
+    "title": "Welcome to The Other Side",
+    "link": "https://www.tvtechnology.com/business/welcome-to-the-other-side",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/y6ZH5jqmzQy7JsJXkuv9Ga-1280-80.jpg"
+  },
+  {
+    "title": "NAB Show Review Part 2: BEIT’s RF Road Map",
+    "link": "https://www.tvtechnology.com/platform/broadcast/nab-show-review-part-2-beits-rf-road-map",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/PRzzNv8JyPBuVoxGmzq6d5-1280-80.jpg"
+  },
+  {
+    "title": "Rewriting the Control Room: How Broadcasters Are Going Remote",
+    "link": "https://www.tvtechnology.com/production/remote-production/rewriting-the-control-room-how-broadcasters-are-going-remote",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/e3HntSrWKa4bm77kEPat5h-1280-80.jpg"
   },
   {
     "title": "Versant to Acquire Sports Tech Company Full Swing for $530 Million",
@@ -252,110 +300,62 @@
     "image": "https://cdn.mos.cms.futurecdn.net/3j9cdRfCALZHJJFKAbsvf-1280-80.jpg"
   },
   {
-    "title": "ITV Taps MainStreaming to Support Delivery of ITVX Streaming Service",
-    "link": "https://www.tvtechnology.com/platform/streaming/itv-taps-mainstreaming-to-support-delivery-of-itvx-streaming-service",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/fKEFNXUAL7G3HZCZjRFtrQ-1280-80.jpg"
-  },
-  {
-    "title": "FCC Plans to Auction 160 MHZ of Midband Spectrum",
-    "link": "https://www.tvtechnology.com/regulatory-legal/fcc-plans-to-auction-160-mhz-of-mid-band-spectrum",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/85FTwFvgunYbR9zTQaQokS-1280-80.jpg"
-  },
-  {
-    "title": "IBCAP Opens New Anti-Piracy Lab in Denver",
-    "link": "https://www.tvtechnology.com/regulatory-legal/ibcap-opens-new-anti-piracy-lab-in-denver",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/Eo2rJybLkVydPQ8VZh2vkZ-1280-80.jpg"
-  },
-  {
-    "title": "NAB Leadership Foundation Announces 2026 Emerson Coleman Fellowship Class",
-    "link": "https://www.tvtechnology.com/business/people/nab-leadership-foundation-announces-2026-emerson-coleman-fellowship-class",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/HvqC7GtQQ4WQHApzZhepxJ-1280-80.jpg"
-  },
-  {
-    "title": "Adder Technology Names Neil Hillier as CEO",
-    "link": "https://www.tvtechnology.com/business/people/adder-technology-names-neil-hillier-as-ceo",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/2pir5TzcE65Dfapawh7BeS-1280-80.jpg"
-  },
-  {
-    "title": "A3SA Disputes Weigel Assertions that NextGen TV Threatens EAS",
-    "link": "https://www.tvtechnology.com/regulatory-legal/a3sa-disputes-weigel-assertions-that-nextgen-tv-threatens-eas",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/prnJ6sFTwWoZtm4btAWKV3-1280-80.png"
-  },
-  {
-    "title": "FOR-A America Adds Two Execs to U.S. Sales Team",
-    "link": "https://www.tvtechnology.com/business/people/for-a-america-adds-two-execs-to-u-s-sales-team",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/FdXKDJtUyE3D4jJnJiVVXV-1280-80.jpg"
-  },
-  {
-    "title": "Telemundo, Peacock See More Record Setting World Cup Audiences",
-    "link": "https://www.tvtechnology.com/insights/analysis/telemundo-peacock-see-more-record-setting-world-cup-audiences",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/GboeTDKMCTx7uLHA58FD8e-1280-80.jpg"
-  },
-  {
-    "title": "A Beacon on Biscayne Bay: Miami Heat Reflect on Ambitious Renovation at SVG Venues & Teams Summit",
-    "link": "https://www.sportsvideo.org/2026/07/08/a-beacon-on-biscayne-bay-miami-heat-reflect-on-ambitious-renovation-at-svg-venues-teams-summit/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/NEW-Featured-Image-Website-1-1-951x535.jpg"
-  },
-  {
-    "title": "Wrigley Field Revamp: Chicago Cubs Upgrade LED Videoboards To Match New 1080p Control Room",
-    "link": "https://www.sportsvideo.org/2026/07/08/wrigley-field-revamp-chicago-cubs-upgrade-led-videoboards-to-match-new-1080p-control-room/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/Construction.jpeg"
-  },
-  {
-    "title": "SVG Enterprise Launches Inaugural Enterprise Video Summit, Oct. 19 in New York",
-    "link": "https://www.sportsvideo.org/2026/07/08/svg-enterprise-launches-inaugural-enterprise-video-summit-oct-19-in-new-york/",
+    "title": "YES Network’s Mike Webb on Finding Opportunity for Innovation in Live Regional Sports Production",
+    "link": "https://www.sportsvideo.org/2026/07/09/yes-networks-mike-webb-on-finding-opportunity-for-innovation-in-live-regional-sports-production/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "T-Mobile Brings ABS Challenge System, 5G Batting Practice Cams to 2026 MLB All-Star Game in Philadelphia",
-    "link": "https://www.sportsvideo.org/2026/07/08/t-mobile-brings-abs-challenge-system-5g-batting-practice-cams-to-2026-mlb-all-star-game-in-philadelphia/",
+    "title": "DAZN to Broadcast Esports World Cup Free to Global Audiences",
+    "link": "https://www.sportsvideo.org/2026/07/09/dazn-to-broadcast-esports-world-cup-free-to-global-audiences/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Memphis Athletics, Learfield Continue Long-Term Partnership",
-    "link": "https://www.sportsvideo.org/2026/07/08/memphis-athletics-learfield-continue-long-term-partnership/",
+    "title": "Report: North American Broadcast Journalists Spend Up to 75% of Time on Technical Workflows",
+    "link": "https://www.sportsvideo.org/2026/07/09/report-north-american-broadcast-journalists-spend-up-to-75-of-time-on-technical-workflows/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Aqueduct Racetrack Goes Silent",
-    "link": "https://www.sportsvideo.org/2026/07/08/aqueduct-racetrack-goes-silent/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/NYRA.jpg"
-  },
-  {
-    "title": "Telemundo Deportes Taps GameDay Creative for FIFA World Cup 2026 Graphics, Virtual Set",
-    "link": "https://www.sportsvideo.org/2026/07/07/telemundo-deportes-taps-gameday-creative-for-fifa-world-cup-2026-graphics-virtual-set/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/Mexico-matchup-Telemundo-WC-GameDay-Creative-951x535.jpg"
-  },
-  {
-    "title": "SVG Executive Perspectives 2026: Industry Leaders Discuss Biz and Tech Trends for the Year Ahead",
-    "link": "https://www.sportsvideo.org/2026/07/07/svg-executive-perspectives-2026-industry-leaders-discuss-biz-and-tech-trends-for-the-year-ahead/",
+    "title": "Gravity Media Powers ITV’s FIFA World Cup Coverage with Three-Hub Remote Production",
+    "link": "https://www.sportsvideo.org/2026/07/09/gravity-media-powers-itvs-fifa-world-cup-coverage-with-three-hub-remote-production/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Mobile TV Group’s Nick Garvin on Success of MTVG Production Platform at New Mountain Media Center",
-    "link": "https://www.sportsvideo.org/2026/07/07/mobile-tv-groups-nick-garvin-on-success-of-mtvg-production-platform-at-new-mountain-media-center/",
+    "title": "Game Creek Video Purchases 10 Grass Valley K-Frame Switchers for Fleet Expansion",
+    "link": "https://www.sportsvideo.org/2026/07/09/game-creek-video-purchases-10-grass-valley-k-frame-switchers-for-fleet-expansion/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Rogers To Become 100% Owner of Maple Leaf Sports & Entertainment",
-    "link": "https://www.sportsvideo.org/2026/07/07/rogers-to-become-100-owner-of-maple-leaf-sports-entertainment/",
+    "title": "Thropic Games Raises Pre-Seed Round Led by The Famous Group",
+    "link": "https://www.sportsvideo.org/2026/07/09/thropic-games-raises-pre-seed-round-led-by-the-famous-group/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "NEP Europe Announces Multi-Year Agreement as Wimbledon Broadcast Services Provider",
+    "link": "https://www.sportsvideo.org/2026/07/09/nep-europe-announces-multi-year-agreement-as-wimbledon-broadcast-services-provider/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "Hong Kong Jockey Club Upgrades Intercom Infrastructure with Riedel Artist-1024 and 1200 Series SmartPanels",
+    "link": "https://www.sportsvideo.org/2026/07/09/hong-kong-jockey-club-upgrades-intercom-infrastructure-with-riedel-artist-1024-and-1200-series-smartpanels/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "Wynn Records Launches Direct-to-Consumer Streaming Platform Powered by Kiswe",
+    "link": "https://www.sportsvideo.org/2026/07/09/wynn-records-launches-direct-to-consumer-streaming-platform-powered-by-kiswe/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "Fox Television Stations, Extreme Reach, and LTN Complete Live Syndication of 25 Words or Less LIVE",
+    "link": "https://www.sportsvideo.org/2026/07/09/fox-television-stations-extreme-reach-and-ltn-complete-live-syndication-of-25-words-or-less-live/",
     "source": "Sports Video Group",
     "image": ""
   }
