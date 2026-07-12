@@ -174,30 +174,6 @@
     "image": "https://cdn.mos.cms.futurecdn.net/e3HntSrWKa4bm77kEPat5h-1280-80.jpg"
   },
   {
-    "title": "Building a Future-Ready Facility for Tomorrow’s Broadcasters",
-    "link": "https://www.tvtechnology.com/platform/broadcast/building-a-future-ready-facility-for-tomorrows-broadcasters",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/TLWZ7My77kT6FxtYaKgsXM-1280-80.jpg"
-  },
-  {
-    "title": "CS live Builds a Future-Ready OB Van With Riedel Control Systems",
-    "link": "https://www.tvtechnology.com/production/remote-production/cs-live-builds-a-future-ready-ob-van-with-riedel-control-systems",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/LpGhoxqvdornV29vvkhpUf-1280-80.jpg"
-  },
-  {
-    "title": "NFL on TV: Time to Move the Regulatory Goal Posts?",
-    "link": "https://www.tvtechnology.com/regulatory-legal/nfl-on-tv-time-to-move-the-regulatory-goal-posts",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/fTpa7rViB2Shtdc5xTftDe-1280-80.jpg"
-  },
-  {
-    "title": "Cameras Become More Connected to Production Workflows",
-    "link": "https://www.tvtechnology.com/production/cameras-become-more-connected-to-production-workflows",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/SNnhriDNLGPNrNzXdvFjDM-1280-80.jpg"
-  },
-  {
     "title": "NAB Show Review Part 2: BEIT’s RF Road Map",
     "link": "https://www.tvtechnology.com/platform/broadcast/nab-show-review-part-2-beits-rf-road-map",
     "source": "TV Technology",
@@ -214,6 +190,30 @@
     "link": "https://www.tvtechnology.com/platform/satellite/disagreements-abound-over-the-adequacy-of-c-band-replacements",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/85FTwFvgunYbR9zTQaQokS-1280-80.jpg"
+  },
+  {
+    "title": "Building a Future-Ready Facility for Tomorrow’s Broadcasters",
+    "link": "https://www.tvtechnology.com/platform/broadcast/building-a-future-ready-facility-for-tomorrows-broadcasters",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/TLWZ7My77kT6FxtYaKgsXM-1280-80.jpg"
+  },
+  {
+    "title": "NFL on TV: Time to Move the Regulatory Goal Posts?",
+    "link": "https://www.tvtechnology.com/regulatory-legal/nfl-on-tv-time-to-move-the-regulatory-goal-posts",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/fTpa7rViB2Shtdc5xTftDe-1280-80.jpg"
+  },
+  {
+    "title": "Cameras Become More Connected to Production Workflows",
+    "link": "https://www.tvtechnology.com/production/cameras-become-more-connected-to-production-workflows",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/SNnhriDNLGPNrNzXdvFjDM-1280-80.jpg"
+  },
+  {
+    "title": "CS live Builds a Future-Ready OB Van With Riedel Control Systems",
+    "link": "https://www.tvtechnology.com/production/remote-production/cs-live-builds-a-future-ready-ob-van-with-riedel-control-systems",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/LpGhoxqvdornV29vvkhpUf-1280-80.jpg"
   },
   {
     "title": "Versant to Acquire Sports Tech Company Full Swing for $530 Million",
@@ -300,6 +300,12 @@
     "image": "https://cdn.mos.cms.futurecdn.net/RgDRNXPXy52PE6KPURqiri-1280-80.jpg"
   },
   {
+    "title": "<i>MLBx</i> Graces Midsummer Classic Stage With 3-on-3 Home Run Derby-Style Event on Peacock",
+    "link": "https://www.sportsvideo.org/2026/07/11/imlbx-i-graces-midsummer-classic-stage-with-3-on-3-home-run-derby-style-event-on-mlb-network/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/London-2022-949x535.jpg"
+  },
+  {
     "title": "MLB Network Jumps Into the Production Driver Seat of MLB Draft at Pennsylvania Convention Center",
     "link": "https://www.sportsvideo.org/2026/07/10/mlb-network-jumps-into-the-production-driver-seat-of-mlb-draft-at-pennsylvania-convention-center/",
     "source": "Sports Video Group",
@@ -350,12 +356,6 @@
   {
     "title": "FIFA World Cup 2026: Taking a United Cross-Platform Approach and Bringing Innovations to BBC Sport’s Coverage",
     "link": "https://www.svgeurope.org/blog/headlines/fifa-world-cup-2026-taking-a-united-cross-platform-approach-and-bringing-innovations-to-bbc-sports-coverage/#new_tab",
-    "source": "Sports Video Group",
-    "image": ""
-  },
-  {
-    "title": "FIFA World Cup 2026: How BBC Sport Gets Match Feeds From Dallas to Salford",
-    "link": "https://www.svgeurope.org/blog/headlines/bbc-world-cup-2026-how-the-bbc-gets-match-feeds-from-dallas-to-salford/#new_tab",
     "source": "Sports Video Group",
     "image": ""
   }
