@@ -1,5 +1,47 @@
 [
   {
+    "title": "Paramount Agrees to Pause Warner Bros. Discovery Deal",
+    "link": "https://www.tvtechnology.com/regulatory-legal/paramount-agrees-to-pause-warner-bros-discovery",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/TxjMYbocPyCA8SXnUJ2RXR-1280-80.jpg"
+  },
+  {
+    "title": "Pebble To Address Future Of Media Operations At IBC 2026",
+    "link": "https://www.tvtechnology.com/infrastructure/pebble-to-address-future-of-media-operations-at-ibc-2026",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/R55NWj8hwur8ABTq8LMZ4R-1280-80.png"
+  },
+  {
+    "title": "Total YouTube Views for All FIFA World Cup Content Top 200 Billion",
+    "link": "https://www.tvtechnology.com/insights/analysis/total-youtube-views-for-all-fifa-world-cup-content-top-200-billion",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/eSeWXmGS3ikfJmkeSEGuXZ-1280-80.png"
+  },
+  {
+    "title": "SDVI to Showcase Rally Platform and New Integrations at IBC2026",
+    "link": "https://www.tvtechnology.com/infrastructure/sdvi-to-showcase-its-rally-platform-and-new-technology-integrations-at-ibc2026",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/Y6XMZiPhUVDCtCAe7zjqxM-1280-80.jpg"
+  },
+  {
+    "title": "Mark Bridges to Lead CableLabs",
+    "link": "https://www.tvtechnology.com/business/people/mark-bridges-to-lead-cablelabs",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/zQC7pBa6E6CGhynqZh54Q-1280-80.png"
+  },
+  {
+    "title": "Study: T-Mobile Remains Best Mobile and Fastest 5G Network",
+    "link": "https://www.tvtechnology.com/insights/analysis/study-t-mobile-remains-best-mobile-and-fastest-5g-network",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/XgsbGqmoaZyRhsmHQBf8iB-1280-80.jpg"
+  },
+  {
+    "title": "How Second-Half Goals Drove Advertising Peak at the World Cup",
+    "link": "https://www.tvtechnology.com/insights/how-second-half-goals-drove-advertising-peak-at-the-world-cup",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/RrLAC2ft2c2QcTfjK5sKtJ-1280-80.jpg"
+  },
+  {
     "title": "TiVo Ads, OpenGlass Launch Programmatic Access to the TV Homescreen",
     "link": "https://www.tvtechnology.com/business/tivo-ads-openglass-launch-programmatic-access-to-the-tv-homescreen",
     "source": "TV Technology",
@@ -258,45 +300,63 @@
     "image": "https://cdn.mos.cms.futurecdn.net/aCJzFNarWowcE6gS7oEf2e-1280-80.png"
   },
   {
-    "title": "NAB: NextGen TV Represents 'an Essential Investment in the Future of Free, Local Television'",
-    "link": "https://www.tvtechnology.com/regulatory-legal/legislation/nab-nextgen-tv-represents-an-essential-investment-in-the-future-of-free-local-television",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/AqfdXy36eovbLdG8wLxAsP-1280-80.png"
+    "title": "Ratings Roundup: World Cup Final Draws Largest Non-NFL U.S. TV Audience in Nearly 30 Years",
+    "link": "https://www.sportsvideo.org/2026/07/24/ratings-roundup-world-cup-final-draws-largest-non-nfl-u-s-tv-audience-in-nearly-30-years/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/download-481x535.png"
   },
   {
-    "title": "Hitomi Broadcast to Launch Spectra HDR Color Verification Tool at IBC2026",
-    "link": "https://www.tvtechnology.com/events/hitomi-broadcast-to-launch-spectra-hdr-color-verification-tool-at-ibc2026",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/4yKRRNMSZj8fn6v4YS2yhh-1280-80.png"
+    "title": "F1 Unveils Strategy Insight Graphic Powered by AWS at Hungarian Grand Prix",
+    "link": "https://www.sportsvideo.org/2026/07/24/f1-launches-strategy-insight-graphic-powered-by-aws-at-hungarian-grand-prix/",
+    "source": "Sports Video Group",
+    "image": ""
   },
   {
-    "title": "DMC Deploys Two ‘Reverse Remote Production’ Trucks From Broadcast Solutions",
-    "link": "https://www.tvtechnology.com/production/live-production/dmc-deploy-two-reverse-remote-production-trucks-from-broadcast-solutions",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/9qjTcbsZswEKRJh5ykQSCa-1280-80.jpg"
+    "title": "ESPN Leans Into Player Access, Referee Cam for WNBA All-Star Weekend in Chicago",
+    "link": "https://www.sportsvideo.org/2026/07/24/espn-leans-into-player-access-referee-cam-for-wnba-all-star-weekend-in-chicago/",
+    "source": "Sports Video Group",
+    "image": ""
   },
   {
-    "title": "AIMS Announces Second IPMX Product Testing and Certification Event",
-    "link": "https://www.tvtechnology.com/infrastructure/ip-networking/aims-announces-second-ipmx-product-testing-and-certification-event",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/weEGb5AtZKBRYxYzdiVL8V-1280-80.jpeg"
+    "title": "NBC Sports Prioritizes Data in Presentation of 113th Tour de France",
+    "link": "https://www.sportsvideo.org/2026/07/24/nbc-sports-prioritizes-data-in-presentation-of-113th-tour-de-france/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/Tour-de-France-data.jpeg"
   },
   {
-    "title": "Scripps Sports, Ion Score Women’s Volleyball Rights",
-    "link": "https://www.tvtechnology.com/business/scripps-sports-ion-score-u-s-media-rights-for-2027-fivb-womens-volleyball-world-cup",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/6pwFamsjVorwAJcL46MBxN-1280-80.jpg"
+    "title": "BBC Signals: How Future World Design Turned Wimbledon Data Into a Primary-Screen Experience",
+    "link": "https://www.svgeurope.org/blog/headlines/bbc-signals-how-future-world-design-turned-wimbledon-data-into-a-primary-screen-experience/#new_tab",
+    "source": "Sports Video Group",
+    "image": "https://www.svgeurope.org/wp-content/blogs.dir/17/files/2026/07/Signals-image-4-1-1024x576.png"
   },
   {
-    "title": "S&P Analysis: Three Quarters of Americans Watch Live Sports",
-    "link": "https://www.tvtechnology.com/insights/analysis/s-and-p-analysis-three-quarters-of-americans-watch-live-sports",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/WRntSUAYPYmKaeEheCsdQh-1280-80.jpg"
+    "title": "Chyron’s PRIME 5 Supported Telemundo’s FIFA World Cup 2026 Graphics Production",
+    "link": "https://www.sportsvideo.org/2026/07/24/chyrons-prime-5-supported-telemundos-fifa-world-cup-2026-graphics-production/",
+    "source": "Sports Video Group",
+    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png"
   },
   {
-    "title": "Colorado Wildfires Bring Close Call for Broadcasters",
-    "link": "https://www.tvtechnology.com/platform/broadcast/colorado-wildfires-bring-close-call-for-broadcasters",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/WNWE2Xi7Xuew9inGhzeB9o-1280-80.jpg"
+    "title": "Harvard Athletics Uses AJA Equipment for Collegiate Sports Production",
+    "link": "https://www.sportsvideo.org/2026/07/24/harvard-athletics-uses-aja-equipment-for-collegiate-sports-production/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "SiriusXM and WWE Launch WWE Radio on Channel 156",
+    "link": "https://www.sportsvideo.org/2026/07/24/siriusxm-and-wwe-launch-wwe-radio-on-channel-156/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "CazéTV Acquires Exclusive Brazilian WTA Tour Rights Through 2030",
+    "link": "https://www.sportsvideo.org/2026/07/24/cazetv-acquires-exclusive-brazilian-wta-tour-rights-through-2030/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "Stephen Arnold Music Creates Anthem for Fox Television Stations’ FIFA World Cup Coverage",
+    "link": "https://www.sportsvideo.org/2026/07/24/stephen-arnold-music-creates-anthem-for-fox-television-stations-fifa-world-cup-coverage/",
+    "source": "Sports Video Group",
+    "image": ""
   }
 ]
