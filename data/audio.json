@@ -1,12 +1,54 @@
 [
   {
+    "title": "Maryland Public Television Promotes Ling Ling Sun to CTO",
+    "link": "https://www.tvtechnology.com/business/people/maryland-public-television-promotes-ling-ling-sun-to-cto",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/QCBnzL4xMctQYEpnjqMJAP-1280-80.jpg"
+  },
+  {
+    "title": "OpenArt AI Partners with Novaland to Support Creation of Animated Kids' Content",
+    "link": "https://www.tvtechnology.com/production/openart-ai-partners-with-novaland-to-support-creation-of-animated-kids-content",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/snUXq4BcqKetrTSnUqMNMR-1280-80.png"
+  },
+  {
+    "title": "Study: TV Operating Systems Gain Influence Over Viewing",
+    "link": "https://www.tvtechnology.com/insights/analysis/study-tv-operating-systems-gain-influence-over-viewing",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/GZgjfGWTY437CjWKjvUzrD-1280-80.png"
+  },
+  {
+    "title": "Filmmakers Rely on Blackmagic Design For New Live Action Projection Mapping Project",
+    "link": "https://www.tvtechnology.com/production/filmmakers-rely-on-blackmagic-design-for-new-live-action-projection-mapping-project",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/RQpee4jz3nCThsrXswCtpf-1280-80.png"
+  },
+  {
+    "title": "NBCU Telemundo Turns To Chyron PRIME 5 For World Cup Graphics",
+    "link": "https://www.tvtechnology.com/production/sports-production/nbcu-telemundo-turns-to-chyron-prime-5-for-world-cup-graphics",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/6Xip6qCWQ7W4AB2f3gey8o-1280-80.jpg"
+  },
+  {
+    "title": "Brazilian Delegation Examines Advanced HDR By Technicolor Supply Chain",
+    "link": "https://www.tvtechnology.com/platform/broadcast/brazilian-delegation-examines-advanced-hdr-by-technicolor-supply-chain",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/XGu8bfbPNSMAHpZMAbKwF9-1280-80.jpg"
+  },
+  {
+    "title": "OBS Plans Expanded Cloud Services, AI-Ready Infrastructure for LA28",
+    "link": "https://www.tvtechnology.com/production/sports-production/obs-plans-expanded-cloud-services-ai-ready-infrastructure-for-la28",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/6UGNN78gUXyq3DXKkgcuWA-1280-80.jpg"
+  },
+  {
     "title": "Paramount Agrees to Pause Warner Bros. Discovery Deal",
     "link": "https://www.tvtechnology.com/regulatory-legal/paramount-agrees-to-pause-warner-bros-discovery",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/TxjMYbocPyCA8SXnUJ2RXR-1280-80.jpg"
   },
   {
-    "title": "Pebble To Address Future Of Media Operations At IBC 2026",
+    "title": "Pebble to Feature Virtualization, Cloud-Based Playout Tech at IBC",
     "link": "https://www.tvtechnology.com/infrastructure/pebble-to-address-future-of-media-operations-at-ibc-2026",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/R55NWj8hwur8ABTq8LMZ4R-1280-80.png"
@@ -30,7 +72,7 @@
     "image": "https://cdn.mos.cms.futurecdn.net/zQC7pBa6E6CGhynqZh54Q-1280-80.png"
   },
   {
-    "title": "Study: T-Mobile Remains Best Mobile and Fastest 5G Network",
+    "title": "T-Mobile Tops Ookla’s Mobile Network Rankings",
     "link": "https://www.tvtechnology.com/insights/analysis/study-t-mobile-remains-best-mobile-and-fastest-5g-network",
     "source": "TV Technology",
     "image": "https://cdn.mos.cms.futurecdn.net/XgsbGqmoaZyRhsmHQBf8iB-1280-80.jpg"
@@ -258,104 +300,62 @@
     "image": "https://cdn.mos.cms.futurecdn.net/37Kduk53U4BhDDFB3m3hF4-1280-80.jpg"
   },
   {
-    "title": "CatchLight, Sony Launch Initiative to Help Local Newsrooms",
-    "link": "https://www.tvtechnology.com/production/catchlight-sony-launch-initiative-to-help-local-newsrooms",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/togeJVoqF76SLXXm8Vbg7Y-1280-80.jpg"
-  },
-  {
-    "title": "Audio-Technica Unveils 20 Series USB Microphone Control Application for Elgato Stream Deck",
-    "link": "https://www.tvtechnology.com/production/audio-technica-unveils-20-series-usb-microphone-control-application-for-elgato-stream-deck",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/H9DVcRwy4xBT9SvSDDFQjd-1280-80.jpg"
-  },
-  {
-    "title": "Parks: Cable Broadband Sub Losses Slow Down",
-    "link": "https://www.tvtechnology.com/insights/analysis/parks-cable-broadband-sub-losses-slow-down",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/3RASheKoj2scfQt8ZoG9wQ-1280-80.jpg"
-  },
-  {
-    "title": "Cox Media Group Taps Waymark for AI Ad Creation Tools",
-    "link": "https://www.tvtechnology.com/business/cox-media-group-taps-waymark-for-ai-ad-creation-tools",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/ZXVD4uMYfxHi7sWzQYQKAN-1280-80.png"
-  },
-  {
-    "title": "SMPTE Kicks Off 110th Anniversary Campaign",
-    "link": "https://www.tvtechnology.com/standards/smpte-kicks-off-110th-anniversary-campaign",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/pgr3GihbRjyr7DXvowCdzK-1280-80.png"
-  },
-  {
-    "title": "ATSC Updates Industry Audio Loudness Guidance",
-    "link": "https://www.tvtechnology.com/standards/atsc-updates-industry-audio-loudness-guidance",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/uq7qLmPJJTVVdnG22LaidM-1280-80.png"
-  },
-  {
-    "title": "UPDATED: FCC to Vote on Replacing National Broadcast Ownership Cap",
-    "link": "https://www.tvtechnology.com/regulatory-legal/fcc-to-vote-on-replacing-national-broadcast-ownership-cap",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/aCJzFNarWowcE6gS7oEf2e-1280-80.png"
-  },
-  {
-    "title": "Ratings Roundup: World Cup Final Draws Largest Non-NFL U.S. TV Audience in Nearly 30 Years",
-    "link": "https://www.sportsvideo.org/2026/07/24/ratings-roundup-world-cup-final-draws-largest-non-nfl-u-s-tv-audience-in-nearly-30-years/",
+    "title": "PBR Goes Animated With BS: Bull Stories, Giving Its Bucking Bulls a Voice",
+    "link": "https://www.sportsvideo.org/2026/07/27/pbr-goes-animated-with-bs-bull-stories-giving-its-bucking-bulls-a-voice/",
     "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/download-481x535.png"
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/Cord-McCoy-Craig-Hummer-Kate-Harrison.jpg"
   },
   {
-    "title": "F1 Unveils Strategy Insight Graphic Powered by AWS at Hungarian Grand Prix",
-    "link": "https://www.sportsvideo.org/2026/07/24/f1-launches-strategy-insight-graphic-powered-by-aws-at-hungarian-grand-prix/",
+    "title": "Behind The Mic: CBS Sports Bolsters College Football Analyst Team",
+    "link": "https://www.sportsvideo.org/2026/07/27/behind-the-mic-cbs-sports-bolsters-college-football-analyst-team/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "ESPN Leans Into Player Access, Referee Cam for WNBA All-Star Weekend in Chicago",
-    "link": "https://www.sportsvideo.org/2026/07/24/espn-leans-into-player-access-referee-cam-for-wnba-all-star-weekend-in-chicago/",
+    "title": "Glasgow 2026: Inside TNT Sports’ Production of its First Commonwealth Games From Studio to Innovation",
+    "link": "https://www.svgeurope.org/blog/headlines/glasgow-2026-inside-the-tnt-sports-production-of-its-first-commonwealth-games-from-studio-to-innovations/#new_tab",
+    "source": "Sports Video Group",
+    "image": "https://www.svgeurope.org/wp-content/blogs.dir/17/files/2026/07/commonwealth-games-t_6a59152ca5811-1.jpg"
+  },
+  {
+    "title": "Two Weeks Away: 2026 SVG Venues & Teams Summit  at Miami’s Kaseya Center To Reunite In-Stadium Production Community",
+    "link": "https://www.sportsvideo.org/2026/07/27/two-weeks-away-2026-svg-venues-teams-summit-at-miamis-kaseya-center-to-reunite-in-stadium-production-community/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "NBC Sports Prioritizes Data in Presentation of 113th Tour de France",
-    "link": "https://www.sportsvideo.org/2026/07/24/nbc-sports-prioritizes-data-in-presentation-of-113th-tour-de-france/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/07/Tour-de-France-data.jpeg"
-  },
-  {
-    "title": "BBC Signals: How Future World Design Turned Wimbledon Data Into a Primary-Screen Experience",
-    "link": "https://www.svgeurope.org/blog/headlines/bbc-signals-how-future-world-design-turned-wimbledon-data-into-a-primary-screen-experience/#new_tab",
-    "source": "Sports Video Group",
-    "image": "https://www.svgeurope.org/wp-content/blogs.dir/17/files/2026/07/Signals-image-4-1-1024x576.png"
-  },
-  {
-    "title": "Chyron’s PRIME 5 Supported Telemundo’s FIFA World Cup 2026 Graphics Production",
-    "link": "https://www.sportsvideo.org/2026/07/24/chyrons-prime-5-supported-telemundos-fifa-world-cup-2026-graphics-production/",
-    "source": "Sports Video Group",
-    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/2122.png"
-  },
-  {
-    "title": "Harvard Athletics Uses AJA Equipment for Collegiate Sports Production",
-    "link": "https://www.sportsvideo.org/2026/07/24/harvard-athletics-uses-aja-equipment-for-collegiate-sports-production/",
+    "title": "NBCUniversal and YouTube Announce Multi-Year Global Partnership",
+    "link": "https://www.sportsvideo.org/2026/07/27/nbcuniversal-and-youtube-announce-multi-year-global-partnership/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "SiriusXM and WWE Launch WWE Radio on Channel 156",
-    "link": "https://www.sportsvideo.org/2026/07/24/siriusxm-and-wwe-launch-wwe-radio-on-channel-156/",
+    "title": "Roland-Garros 2026: Inside the FFT and Host Broadcaster Whisper’s Production for the Latest Installment of the French Open",
+    "link": "https://www.svgeurope.org/blog/headlines/roland-garros-2026-inside-the-fft-and-host-broadcaster-whispers-production-for-the-latest-instalment-of-the-french-open/#new_tab",
+    "source": "Sports Video Group",
+    "image": "https://www.svgeurope.org/wp-content/blogs.dir/17/files/2026/07/IMG_5825.jpg"
+  },
+  {
+    "title": "ESPN Acquires U.S. and International Rights to International Dance League",
+    "link": "https://www.sportsvideo.org/2026/07/27/espn-acquires-u-s-rights-to-international-dance-league/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "CazéTV Acquires Exclusive Brazilian WTA Tour Rights Through 2030",
-    "link": "https://www.sportsvideo.org/2026/07/24/cazetv-acquires-exclusive-brazilian-wta-tour-rights-through-2030/",
+    "title": "Eutelsat to Receive $504 Million in FCC Upper C-Band Transition Payments",
+    "link": "https://www.sportsvideo.org/2026/07/27/eutelsat-to-receive-504-million-in-fcc-upper-c-band-transition-payments/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Stephen Arnold Music Creates Anthem for Fox Television Stations’ FIFA World Cup Coverage",
-    "link": "https://www.sportsvideo.org/2026/07/24/stephen-arnold-music-creates-anthem-for-fox-television-stations-fifa-world-cup-coverage/",
+    "title": "Yahoo Sports and Cameo Integrate Celebrity Video Bookings into Yahoo Fantasy",
+    "link": "https://www.sportsvideo.org/2026/07/27/yahoo-sports-and-cameo-integrate-celebrity-video-bookings-into-yahoo-fantasy/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "ESPN and MEAC Reach Multi-Year Media Rights Agreement Through 2030-31",
+    "link": "https://www.sportsvideo.org/2026/07/27/espn-and-meac-reach-multi-year-media-rights-agreement-through-2030-31/",
     "source": "Sports Video Group",
     "image": ""
   }
