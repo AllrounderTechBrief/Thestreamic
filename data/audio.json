@@ -1,5 +1,41 @@
 [
   {
+    "title": "NOAA Taps Tomorrow.io for Improved U.S. Weather Forecasts",
+    "link": "https://www.tvtechnology.com/business/noaa-taps-tomorrow-io-for-improved-u-s-weather-forecasts",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/7J8AS45caJp9iz8Z9BYaPN-1920-80.jpg"
+  },
+  {
+    "title": "Element Launches New TiVo-Powered Smart TVs in the U.S.",
+    "link": "https://www.tvtechnology.com/platform/streaming/element-launches-new-smart-tvs-powered-by-tivo-in-the-u-s",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/mx7kR4kcYFihHekY8fHvVg-1920-80.jpeg"
+  },
+  {
+    "title": "Operative Launches Unified Platform for Advertising and Broadcast Management",
+    "link": "https://www.tvtechnology.com/infrastructure/operative-launches-unified-platform-for-advertising-and-broadcast-management",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/9HPmsDBjCmtzqNfYfanpE7-1920-80.png"
+  },
+  {
+    "title": "New TVU Pocket Offers Broadcast Features In Phone-Sized Unit",
+    "link": "https://www.tvtechnology.com/production/new-tvu-pocket-offers-broadcast-features-in-phone-sized-unit",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/kEuJJEHnTNEWhSBLhGXNzd-1920-80.png"
+  },
+  {
+    "title": "Ideastream Public Media, PBS Western Reserve Boards Vote To Merge",
+    "link": "https://www.tvtechnology.com/business/mergers-acquisitions/ideastream-public-media-pbs-western-reserve-boards-vote-to-merge",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/EcChmAPQWzG26e7hUQBgsm-1920-80.png"
+  },
+  {
+    "title": "FCC’s Media Bureau Grants Paramount's Foreign Ownership Waiver",
+    "link": "https://www.tvtechnology.com/regulatory-legal/fccs-media-bureau-grants-paramount-foreign-ownership-waiver",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/tS56zFUXUFPUeow5NVZiDB-1920-80.jpg"
+  },
+  {
     "title": "SWAC TV Expands Distribution With Dedicated FAST Channel",
     "link": "https://www.tvtechnology.com/platform/streaming/swac-tv-expands-distribution-with-dedicated-fast-channel",
     "source": "TV Technology",
@@ -264,99 +300,63 @@
     "image": "https://cdn.mos.cms.futurecdn.net/HuvtPL9XGhxAA2zm7SFhh3-1920-80.png"
   },
   {
-    "title": "Survey: Low Latency for Live Streaming Is Industry's Top Challenge",
-    "link": "https://www.tvtechnology.com/platform/streaming/survey-low-latency-for-live-streaming-is-industrys-top-challenge",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/E9YcvDU3cTht8GfxPi3qdD-1920-80.jpg"
-  },
-  {
-    "title": "Grass Valley Launches AVORA at IBC2026",
-    "link": "https://www.tvtechnology.com/production/live-production/grass-valley-launches-avora-at-ibc2026",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/UQStaL6vaErFaQh9j53yQ9-1920-80.png"
-  },
-  {
-    "title": "AWS Elemental To Showcase New Capabilities for AI, Personalization and Monetization at IBC2026",
-    "link": "https://www.tvtechnology.com/platform/aws-elemental-to-showcase-new-capabilities-for-ai-personalization-and-monetization-at-ibc2026",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/meLgG4oR38VcHLWbriqAwC-1920-80.jpg"
-  },
-  {
-    "title": "Tiger Group To Auction Equipment from a National Broadcasting Studio",
-    "link": "https://www.tvtechnology.com/events/tiger-group-to-auction-equipment-from-a-national-broadcasting-studio",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/VEZJdnjegaLygk3NRDgRDQ-1920-80.png"
-  },
-  {
-    "title": "Communications Industry Groups Back Thumann Severs Nomination to FCC",
-    "link": "https://www.tvtechnology.com/regulatory-legal/communications-industry-groups-back-thumann-severs-nomination-to-fcc",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/5n2Hzfu5sKyoezHcDPuCch-1920-80.png"
-  },
-  {
-    "title": "Remembering 9/11: 25 Years of TV Tech Coverage",
-    "link": "https://www.tvtechnology.com/business/people/remembering-9-11-25-years-of-tv-tech-coverage",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/4qMmP6vwVDDacgNnNBUtyZ-1920-80.jpg"
-  },
-  {
-    "title": "Home at Highmark Stadium: Buffalo Bills’ New Venue Drives Fan Experience With Exterior Tech Center, Internal IP-Powered Infrastructure",
-    "link": "https://www.sportsvideo.org/2026/09/17/home-at-highmark-stadium-buffalo-bills-new-venue-drives-fan-experience-with-exterior-tech-center-internal-ip-powered-infrastructure/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/09/Stadium-View-e1789659293288-949x535.jpg"
-  },
-  {
-    "title": "IBC Reveals 2026 Attendee and Exhibitor Numbers",
-    "link": "https://www.svgeurope.org/blog/headlines/ibc-reveals-2026-attendee-and-exhibitor-numbers/#new_tab",
+    "title": "SNS Wins IAMT Award For Addressing What Video Editors Need In The AI Era",
+    "link": "https://www.sportsvideo.org/2026/09/18/sns-wins-iamt-award-for-addressing-what-video-editors-need-in-the-ai-era/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "IBC 2026: MXL Wins Content Creation Category at IBC2026 Innovation Awards",
-    "link": "https://www.svgeurope.org/blog/headlines/mxl-wins-content-creation-category-at-ibc-2026-innovation-awards/#new_tab",
+    "title": "Ratings Roundup: NFL Week 1 Down 13% From Record 2025; ESPN Earns Its Best US Open Mens Final on Record",
+    "link": "https://www.sportsvideo.org/2026/09/18/ratings-roundup-nfl-week-1-down-13-from-record-2025-espn-hits-best-us-open-mens-final-to-date/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/09/top25-ratings-chart-sept7-13-555x535.png"
+  },
+  {
+    "title": "WTGL Announces Inaugural Season Schedule on ESPN, ABC, and ION",
+    "link": "https://www.sportsvideo.org/2026/09/18/wtgl-announces-inaugural-season-schedule-on-espn-abc-and-ion/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "SVG Europe Women Pushes the Agenda for Diversity at IBC2026",
-    "link": "https://www.svgeurope.org/blog/headlines/svg-europe-women-pushes-the-agenda-for-diversity-at-ibc2026/#new_tab",
+    "title": "Monumental+ Now Available on Prime Video",
+    "link": "https://www.sportsvideo.org/2026/09/18/monumental-now-available-on-prime-video/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "IBC 2026 in Review: All of Our Show Floor Video Interviews",
-    "link": "https://www.svgeurope.org/blog/headlines/ibc2026-in-review-all-of-our-show-floor-video-interviews/#new_tab",
+    "title": "Minnesota Lynx to Air Final Regular Season Local Broadcast on FOX 9+",
+    "link": "https://www.sportsvideo.org/2026/09/18/minnesota-lynx-to-air-final-regular-season-local-broadcast-on-fox-9/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "IBC 2026: A Golden Age of Complexity: DMF and MXL Dominate the Conversation",
-    "link": "https://www.svgeurope.org/blog/headlines/a-golden-age-of-complexity-dmf-and-mxl-dominate-the-conversation-at-ibc2026/#new_tab",
+    "title": "Apple TV Expands iPhone Camera Deployment for ‘Friday Night Baseball’ Finale at Dodger Stadium",
+    "link": "https://www.sportsvideo.org/2026/09/18/apple-tv-expands-iphone-camera-deployment-for-friday-night-baseball-finale-at-dodger-stadium/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "SVG Students to Watch: Adam Black, University of South Florida",
-    "link": "https://www.sportsvideo.org/2026/09/17/svg-students-to-watch-adam-black-university-of-south-florida/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/09/Black1-927x535.jpg"
-  },
-  {
-    "title": "Net Insight Establishes Pan-Asian Live Media Network for Nimbra 520 Trials",
-    "link": "https://www.sportsvideo.org/2026/09/17/net-insight-establishes-pan-asian-live-media-network-for-nimbra-520-trials/",
+    "title": "With New AM Radio Act, Live Sports Remain on the Air – and on the Road",
+    "link": "https://www.sportsvideo.org/2026/09/18/live-sports-remain-on-the-am-radio-air-on-the-road/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "LNK Group Migrates Five Networks to Grass Valley AMPP",
-    "link": "https://www.sportsvideo.org/2026/09/17/lnk-group-migrates-five-networks-to-grass-valley-ampp/",
+    "title": "Charlotte Hornets Name DAZN Exclusive Direct-to-Consumer Streaming Partner",
+    "link": "https://www.sportsvideo.org/2026/09/18/charlotte-hornets-name-dazn-exclusive-direct-to-consumer-streaming-partner/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "PAMA and Shure Announce 2026 Mark Brunner Professional Audio Scholarship Recipients",
-    "link": "https://www.sportsvideo.org/2026/09/17/pama-and-shure-announce-2026-mark-brunner-professional-audio-scholarship-recipients/",
+    "title": "Yiannis Exarchos: “There Will Be No Life Worth Living” If We Get AI Wrong",
+    "link": "https://www.svgeurope.org/blog/headlines/yiannis-exarchos-there-will-be-no-life-worth-living-if-we-get-ai-wrong/#new_tab",
     "source": "Sports Video Group",
     "image": ""
+  },
+  {
+    "title": "College Football Hits the UK as FOX Sports Takes Over Wembley for Inaugural Union Jack Classic",
+    "link": "https://www.svgeurope.org/blog/headlines/us-college-football-and-fox-sports-comes-to-wembley-for-the-inaugural-union-jack-classic/#new_tab",
+    "source": "Sports Video Group",
+    "image": "https://www.svgeurope.org/wp-content/blogs.dir/17/files/2026/09/FoxSports_BigNoonKickoff_Bloomington_090526_164.jpg"
   }
 ]
