@@ -1,5 +1,35 @@
 [
   {
+    "title": "Gray Media Renews Ohio Valley Conference Deal",
+    "link": "https://www.tvtechnology.com/platform/broadcast/gray-media-renews-ohio-valley-conference-deal",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/CwNuGGfhtpfSJVaa3WBWgi-1920-80.png"
+  },
+  {
+    "title": "eX² Celebrates Completion of Holland Mich. FTTP Network",
+    "link": "https://www.tvtechnology.com/infrastructure/ex2-technology-celebrates-completion-of-holland-mich-fttp-network",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/pqcMXa5NWASEonHMoWvVb8-1920-80.webp"
+  },
+  {
+    "title": "Television Critics Association Revises Bylaws to Address AI",
+    "link": "https://www.tvtechnology.com/business/people/television-critics-association-revises-bylaws-to-address-ai",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/iun9PaNshjpbN4RpB3sn75-1920-80.png"
+  },
+  {
+    "title": "Study: More Than 4 in 10 U.S. Adults Own or Are Interested in Smart Glasses",
+    "link": "https://www.tvtechnology.com/insights/analysis/study-more-than-4-in-10-u-s-adults-own-or-are-interested-in-smart-glasses",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/chk5dTY3jdiBok2rBCQwS4-1920-80.jpg"
+  },
+  {
+    "title": "Study: Renewals for Streaming Shows Continue to Decline",
+    "link": "https://www.tvtechnology.com/insights/analysis/study-renewals-for-streaming-shows-continue-to-decline",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/fwW7mBwqvfhhwxZn2i5s8J-1920-80.jpg"
+  },
+  {
     "title": "U.S. Broadband Industry Investment Hits $92.6 Billion",
     "link": "https://www.tvtechnology.com/infrastructure/u-s-broadband-industry-investment-hits-usd92-6-billion",
     "source": "TV Technology",
@@ -270,93 +300,63 @@
     "image": "https://cdn.mos.cms.futurecdn.net/PgKEW4DhNBmvsqCsLUL9g6-1920-80.jpg"
   },
   {
-    "title": "Ikegami Introduces VN Versions of Four UNICAM XE Cameras At IBC2026",
-    "link": "https://www.tvtechnology.com/production/ikegami-introduces-vn-versions-of-four-unicam-xe-cameras-at-ibc2026",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/BVzqVNS2GdavPqPVcAtkWN-1920-80.jpg"
+    "title": "Mountain West Conference Moves Replay Operations West, Cutting Late-Night Hours",
+    "link": "https://www.sportsvideo.org/2026/09/23/mountain-west-conference-moves-replay-operations-west-cutting-late-night-hours/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/09/Setup-1-960x444.jpg"
   },
   {
-    "title": "TV Skyline Becomes The World’s First Ultrix FR30 Customer",
-    "link": "https://www.tvtechnology.com/infrastructure/tv-skyline-becomes-the-worlds-first-ultrix-fr30-customer",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/tnjMWNPCUELxUcLEYY3KjZ-1920-80.jpg"
+    "title": "University of Washington’s New Sundodger Studios Leverages ST 2110 to Bring Broadcast, Videoboard, and Creative Under One Roof",
+    "link": "https://www.sportsvideo.org/2026/09/23/university-of-washingtons-new-sundodger-studios-leverages-st-2110-to-bring-broadcast-videoboard-and-creative-under-one-roof/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/09/Wash3-847x535.jpg"
   },
   {
-    "title": "CAMB.AI Unveils Multilingual Broadcasting AI Agent at IBC2026",
-    "link": "https://www.tvtechnology.com/platform/broadcast/camb-ai-unveils-multilingual-broadcasting-agent-powered-by-nvidia-at-ibc2026",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/b8eD6WS6s67b22MamQiao9-1920-80.png"
-  },
-  {
-    "title": "FCC Nominee Thumann Severs to Testify in Senate Sept. 17",
-    "link": "https://www.tvtechnology.com/regulatory-legal/fcc-nominee-to-thumann-severs-to-testify-before-senate-on-sept-17",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/5n2Hzfu5sKyoezHcDPuCch-1920-80.png"
-  },
-  {
-    "title": "Ross Video Debuts New Live Production Technology at IBC2026",
-    "link": "https://www.tvtechnology.com/production/live-production/ross-video-debuts-new-live-production-technology-at-ibc2026",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/FNGEBm2rvSAXXyJr6BXwhM-1920-80.png"
-  },
-  {
-    "title": "Behind The Mic: Andrés Cantor Joins Netflix’s FIFA Women’s World Cup Commentary Team; Doc Rivers Joins NBC Sports’ NBA Coverage",
-    "link": "https://www.sportsvideo.org/2026/09/21/behind-the-mic-andres-cantor-joins-netflixs-fifa-womens-world-cup-commentary-team/",
+    "title": "How Broadcast Sports Can Apply the Newsroom Story Model From the IBC Accelerator",
+    "link": "https://www.sportsvideo.org/2026/09/22/how-broadcast-sports-can-apply-the-newsroom-story-model-from-the-ibc-accelerator/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Inside ESPN’s US Open Effort: Embracing the Cloud and a New 20,000 Sq. Ft. Broadcast Center",
-    "link": "https://www.sportsvideo.org/2026/09/21/inside-espns-us-open-effort-embracing-the-cloud-and-a-new-20000-sq-ft-broadcast-center/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/09/ESPN-Operations-Crew-at-2026-US-Open-2.jpg"
-  },
-  {
-    "title": "DAZN Pick Up L.A. Kings DTC Streaming Rights; ABTV Will Continue as Local TV Home",
-    "link": "https://www.sportsvideo.org/2026/09/21/dazn-pick-up-l-a-kings-dtc-streaming-rights-abtv-will-continue-as-local-tv-home/",
+    "title": "Net Insight Launches Zyntai TimeNode Access PTP Grandmaster for Edge Sites",
+    "link": "https://www.sportsvideo.org/2026/09/22/net-insight-launches-zyntai-timenode-access-ptp-grandmaster-for-edge-sites/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Manifold Technologies Appoints Ryhaan Williams as CCO for North America",
-    "link": "https://www.sportsvideo.org/2026/09/21/manifold-technologies-appoints-ryhaan-williams-as-cco-for-north-america/",
+    "title": "Net Insight Appoints Christine Kjellvard as Interim CFO",
+    "link": "https://www.sportsvideo.org/2026/09/22/net-insight-appoints-christine-kjellvard-as-interim-cfo/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Detroit Red Wings Announce Detroit SportsNet Broadcast Details for 2026-27 Season",
-    "link": "https://www.sportsvideo.org/2026/09/21/detroit-red-wings-announce-detroit-sportsnet-broadcast-details-for-2026-27-season/",
+    "title": "Mississippi State University Extends Camera Relationship with KOKUSAI DENKI",
+    "link": "https://www.sportsvideo.org/2026/09/22/mississippi-state-university-extends-camera-relationship-with-kokusai-denki/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "SES to Provide Satellite Distribution for JioStar Channels Across India",
-    "link": "https://www.sportsvideo.org/2026/09/21/ses-to-provide-satellite-distribution-for-jiostar-channels-across-india/",
+    "title": "Cosm Promotes Mazen Alawar to SVP of Marketing, Alexis Scalice to VP of Cosm Studios",
+    "link": "https://www.sportsvideo.org/2026/09/22/cosm-promotes-mazen-alawar-to-svp-of-marketing-alexis-scalice-to-vp-of-cosm-studios/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "United Airlines and DISH to Offer Live Football on Starlink-Enabled Seatback Screens",
-    "link": "https://www.sportsvideo.org/2026/09/21/united-airlines-and-dish-to-offer-live-football-on-starlink-enabled-seatback-screens/",
+    "title": "SVG Sit-Down: Disney’s Dave Johnson on ESPN’s New 4K HDR Distribution Pipeline and What It Means for Super Bowl LXI and Beyond",
+    "link": "https://www.sportsvideo.org/2026/09/22/svg-sit-down-disneys-dave-johnson-on-espns-new-4k-hdr-distribution-pipeline-and-what-it-means-for-super-bowl-lix-and-beyond/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Adam Smith Named Chairman of Direct-to-Consumer at Disney Entertainment",
-    "link": "https://www.sportsvideo.org/2026/09/21/adam-smith-named-chairman-of-direct-to-consumer-at-disney-entertainment/",
+    "title": "LFP Brings Automated Data ‘Moments’ to Ligue 1+ Expert Mode",
+    "link": "https://www.svgeurope.org/blog/headlines/lfp-brings-automated-data-moments-to-ligue-1-expert-mode/#new_tab",
     "source": "Sports Video Group",
-    "image": ""
+    "image": "https://www.svgeurope.org/wp-content/blogs.dir/17/files/2026/09/Thomas.jpg"
   },
   {
-    "title": "MLW Announces Streaming Deal with Tubi for Weekly FUSION Series",
-    "link": "https://www.sportsvideo.org/2026/09/21/mlw-announces-streaming-deal-with-tubi-for-weekly-fusion-series/",
+    "title": "Virtual Finish Line: How Sony and HBS Built a New Data‑Driven View of Sprint Finishes",
+    "link": "https://www.svgeurope.org/blog/headlines/virtual-finish-line-how-sony-and-hbs-built-a-new-data-driven-view-of-sprint-finishes/#new_tab",
     "source": "Sports Video Group",
-    "image": ""
-  },
-  {
-    "title": "SNS Wins IAMT Best Journal Article Award",
-    "link": "https://www.sportsvideo.org/2026/09/21/sns-wins-iamt-best-journal-article-award/",
-    "source": "Sports Video Group",
-    "image": ""
+    "image": "https://www.svgeurope.org/wp-content/blogs.dir/17/files/2026/09/Hiro-Hattori-577x1024.jpg"
   }
 ]
