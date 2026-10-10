@@ -1,5 +1,17 @@
 [
   {
+    "title": "PBS Strikes Deal to Make France 24 Available to Stations’ Digital Platforms",
+    "link": "https://www.tvtechnology.com/platform/streaming/pbs-strikes-deal-to-make-france-24-available-to-stations-digital-platforms",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/rxPjAaQf75Tf2tsKiH25KN-1920-80.jpg"
+  },
+  {
+    "title": "Special Report: California’s AI Warning to Broadcasters",
+    "link": "https://www.tvtechnology.com/insights/opinion/special-report-californias-ai-warning-to-broadcasters",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/HZReWh2qFFtcUYn5cTEXxJ-1920-80.jpg"
+  },
+  {
     "title": "Clear-Com Scales Up Communications for Rock in Rio",
     "link": "https://www.tvtechnology.com/production/live-production/clear-com-scales-up-communications-for-rock-in-rio",
     "source": "TV Technology",
@@ -264,10 +276,16 @@
     "image": "https://cdn.mos.cms.futurecdn.net/3NgK9YXWRUbsKNz7YWU6jP-1920-80.jpg"
   },
   {
-    "title": "Blackmagic Brings Mexican Film ‘Aquí Hay Dragones’ to Life",
-    "link": "https://www.tvtechnology.com/infrastructure/cloud/blackmagic-brings-mexican-film-aqui-hay-dragones-to-life",
+    "title": "Out of Many, One: Three Editors, Avid and the Voice of ‘Pluribus’",
+    "link": "https://www.tvtechnology.com/infrastructure/ip-networking/out-of-many-one-three-editors-avid-and-the-voice-of-pluribus",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/vZGiHzmCwzvuvSjLDQpULk-1920-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/RUn9Bvxb9oTR5EVbwxJggB-1920-80.jpg"
+  },
+  {
+    "title": "Bringing the FIFA World Cup to Chilean Viewers in 4K UHD",
+    "link": "https://www.tvtechnology.com/infrastructure/cloud/bringing-the-fifa-world-cup-to-chilean-viewers-in-4k-uhd",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/bSbXSYVwMMDaUmqZGoKcfk-1920-80.jpg"
   },
   {
     "title": "Kojo Relies on Signiant to Deliver Dailies, 4K Masters and More",
@@ -282,80 +300,62 @@
     "image": "https://cdn.mos.cms.futurecdn.net/HtBR2NfjvoJL4d2cDJMXQh-1920-80.jpg"
   },
   {
-    "title": "Cloud Scale and the Architecture of Real-Time Monitoring",
-    "link": "https://www.tvtechnology.com/insights/cloud-scale-and-the-architecture-of-real-time-monitoring",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/fwEM385g4bSqwHXq5k6arh-1920-80.jpg"
-  },
-  {
-    "title": "Out of Many, One: Three Editors, Avid and the Voice of ‘Pluribus’",
-    "link": "https://www.tvtechnology.com/infrastructure/ip-networking/out-of-many-one-three-editors-avid-and-the-voice-of-pluribus",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/RUn9Bvxb9oTR5EVbwxJggB-1920-80.jpg"
-  },
-  {
-    "title": "Fox First Run Taps LTN and XR for Live Daytime TV Syndication",
-    "link": "https://www.tvtechnology.com/infrastructure/cloud/fox-first-run-taps-ltn-and-xr-for-live-daytime-tv-syndication",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/SeRPGnMHUPcpb9zgagbuZC-1920-80.jpg"
-  },
-  {
-    "title": "Chris Ober, Fox Sports Teammate to Remember, Loses Long Cancer Battle at 46",
-    "link": "https://www.sportsvideo.org/2026/10/09/chris-ober-fox-sports-teammate-to-remember-loses-long-cancer-battle-at-46/",
+    "title": "Banana Ball TV Caps Record Season With Supersized Banana Bowl Production in D.C.",
+    "link": "https://www.sportsvideo.org/2026/10/09/banana-ball-tv-caps-record-season-with-supersized-banana-bowl-production-in-d-c/",
     "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/10/01_Chris_Ober_Portrait_1004_2327.jpeg"
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/10/banana-bowl-front-bench-952x535.png"
   },
   {
-    "title": "DAZN Unveils U.S. Playbook for 19-Team Local Streaming Launch",
-    "link": "https://www.sportsvideo.org/2026/10/08/dazn-unveils-u-s-playbook-for-19-team-local-streaming-launch/",
+    "title": "CRD Audiovisuel Deploys LiveU LU900Q for Tour de France Coverage",
+    "link": "https://www.sportsvideo.org/2026/10/09/crd-audiovisuel-deploys-liveu-lu900q-for-tour-de-france-coverage/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Dolby Atmos Coming to Formula 1 on Apple TV Beginning with 2026 U.S. Grand Prix",
-    "link": "https://www.sportsvideo.org/2026/10/08/dolby-atmos-coming-to-formula-1-on-apple-tv-beginning-with-2026-u-s-grand-prix/",
+    "title": "NAB NY 2026: Ikegami To Demonstrate UHK-X700VN and Product Range",
+    "link": "https://www.sportsvideo.org/2026/10/09/ikegami-to-demonstrate-uhk-x700vn-and-product-range-at-nab-show-new-york/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Silver Lining: Sharing Tales From the Trenches of Cloud-Based Production with NBC Sports, MLB, NHL, and Warner Bros. Discovery",
-    "link": "https://www.sportsvideo.org/2026/10/08/a-silver-lining-sharing-tales-from-the-trenches-of-cloud-based-production-with-nbc-sports-mlb-nhl-and-warner-bros-discovery/",
-    "source": "Sports Video Group",
-    "image": "https://vhx.imgix.net/sportsvideogroup/assets/a7d86bbe-7d2c-4c45-b9df-9cbf7b0409ff.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280"
-  },
-  {
-    "title": "PROTON Camera Innovations Named Recipient of 2026 Technology and Engineering Emmy for FPV Drone Systems",
-    "link": "https://www.sportsvideo.org/2026/10/08/proton-camera-innovations-named-recipient-of-2026-technology-and-engineering-emmy-for-fpv-drone-systems/",
+    "title": "RTVE Selects Ateme TITAN Edge for Satellite Contribution on New Production Units",
+    "link": "https://www.sportsvideo.org/2026/10/09/rtve-selects-ateme-titan-edge-for-satellite-contribution-on-new-production-units/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "SMPTE Media Technology Summit Returns to Pasadena Nov. 16-19; Get 10% Off With SVG Promo Code",
-    "link": "https://www.sportsvideo.org/2026/10/08/smpte-media-technology-summit-returns-to-pasadena-nov-16-19-get-10-off-with-svg-promo-code/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/10/SVG260-x-240-px-580x535.jpg"
-  },
-  {
-    "title": "Gray Media to Simulcast 15 Timberwolves Games Free Over-the-Air in Minnesota and Wisconsin",
-    "link": "https://www.sportsvideo.org/2026/10/08/gray-media-to-simulcast-15-timberwolves-games-free-over-the-air-in-minnesota-and-wisconsin/",
+    "title": "SPORTEL Awards 2026 Shortlist Announced",
+    "link": "https://www.sportsvideo.org/2026/10/09/sportel-awards-2026-shortlist-announced/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "RHStv to Stream Clemson vs. Coastal Carolina Baseball at Myrtle Beach Fall Showdown",
-    "link": "https://www.sportsvideo.org/2026/10/08/rhstv-to-stream-clemson-vs-coastal-carolina-baseball-at-myrtle-beach-fall-showdown/",
+    "title": "BKB Bare Knuckle Boxing Partners With TV Azteca for Mexico and Latin America Distribution",
+    "link": "https://www.sportsvideo.org/2026/10/09/bkb-bare-knuckle-boxing-partners-with-tv-azteca-for-mexico-and-latin-america-distribution/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Disney+ to Stream Super Bowl LXI on February 14, 2027",
-    "link": "https://www.sportsvideo.org/2026/10/08/disney-to-stream-super-bowl-lxi-on-february-14-2027/",
+    "title": "ATSC Approves B2X System Discovery and Signaling Candidate Standard",
+    "link": "https://www.sportsvideo.org/2026/10/09/atsc-approves-b2x-system-discovery-and-signaling-candidate-standard/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "Eutelsat Renews Partnership with Télédiffusion d’Algérie on EUTELSAT 7 West A",
-    "link": "https://www.sportsvideo.org/2026/10/08/eutelsat-renews-partnership-with-telediffusion-dalgerie-on-eutelsat-7-west-a/",
+    "title": "Min Woo Lee Launches Official YouTube Channel with Omaha Productions",
+    "link": "https://www.sportsvideo.org/2026/10/09/min-woo-lee-launches-official-youtube-channel-with-omaha-productions/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "VVC Adoption Advances as Mobile Hardware Support Expands",
+    "link": "https://www.sportsvideo.org/2026/10/09/vvc-adoption-advances-as-mobile-hardware-support-expands/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "National Duals Invitational Championship to Air on ESPN December 13",
+    "link": "https://www.sportsvideo.org/2026/10/09/national-duals-invitational-championship-to-air-on-espn-december-13/",
     "source": "Sports Video Group",
     "image": ""
   }
