@@ -1,5 +1,53 @@
 [
   {
+    "title": "Nugen Audio Unveils VisLM 3 Loudness Metering",
+    "link": "https://www.tvtechnology.com/production/nugen-audio-unveils-vislm-3-loudness-metering",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/ydB44JGRyUUFgmWhiiGu4F-1920-80.png"
+  },
+  {
+    "title": "CBS Stations Bring AR/VR Coverage to Midterms",
+    "link": "https://www.tvtechnology.com/production/virtual-production/cbs-stations-brings-ar-vr-coverage-to-midterms",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/PMNXgoCNrAE6ykJrmGWwD7-1920-80.png"
+  },
+  {
+    "title": "Broadcasters Tap New Tech to Power Midterm Election Night Coverage",
+    "link": "https://www.tvtechnology.com/production/live-production/broadcasters-tap-new-tech-to-power-midterm-election-night-coverage",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/72djhet6SULBnGeQmKnAo5-1920-80.png"
+  },
+  {
+    "title": "Matthew Wallis Joins TBD Post as Head of Post and Operations",
+    "link": "https://www.tvtechnology.com/production/postproduction/matthew-wallis-joins-tbd-post-as-head-of-post-and-operations",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/gGGQs5K7RpjLBjtwgtuq2D-1920-80.jpg"
+  },
+  {
+    "title": "Disney AI Exec Hans Ku Joins Utopai Studios as Chief Product Officer",
+    "link": "https://www.tvtechnology.com/production/postproduction/disney-ai-exec-hans-ku-joins-utopai-studios-as-chief-product-officer",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/bGEfYTRRkY36ZLH8SozSHj-1920-80.jpg"
+  },
+  {
+    "title": "Sony Opens New Creative Possibilities with XYN Spatial Capture Solution Updates",
+    "link": "https://www.tvtechnology.com/production/virtual-production/sony-opens-new-creative-possibilities-with-xyn-spatial-capture-solution-updates",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/Zeecg3wXvAfn3syByGuMeL-1920-80.jpg"
+  },
+  {
+    "title": "NAB Opens Nominations for 2027 Technology Awards",
+    "link": "https://www.tvtechnology.com/events/nab-opens-nominations-for-2027-technology-awards",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/rrxdNqtmB598Revh66Pv5i-1920-80.jpg"
+  },
+  {
+    "title": "France Télévisions Deploys Grass Valley-Based ST 2110 IP Franceinfo Facility",
+    "link": "https://www.tvtechnology.com/production/france-televisions-deploys-grass-valley-based-st-2110-ip-franceinfo-facility",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/Bfwk7qHQfpPNz4GBJ5rX5P-1920-80.jpg"
+  },
+  {
     "title": "Dakar 2026 First Olympics Event to Deploy Fully Virtualized MCR",
     "link": "https://www.tvtechnology.com/production/sports-production/dakar-2026-first-olympics-event-to-deploy-fully-virtualized-mcr",
     "source": "TV Technology",
@@ -12,10 +60,10 @@
     "image": "https://cdn.mos.cms.futurecdn.net/qDnBTrttSienus2JHJJEFV-1920-80.jpg"
   },
   {
-    "title": "Is It Time to Replace the Longley-Rice Model?",
-    "link": "https://www.tvtechnology.com/insights/opinion/is-it-time-to-replace-the-longley-rice-model",
+    "title": "Is Your Facility AI-Ready? Rethinking 24/7 Resiliency and Infrastructure",
+    "link": "https://www.tvtechnology.com/insights/opinion/is-your-facility-ai-ready-rethinking-24-7-resiliency-and-infrastructure",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/uoEJWHApzRkegEJzKfyXZC-1920-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/HxwXXJ4YETaE45ahYVao7V-1920-80.jpg"
   },
   {
     "title": "A Lesson in Sound for the Digital Era",
@@ -24,16 +72,10 @@
     "image": "https://cdn.mos.cms.futurecdn.net/ta56NhS45D866NhwvwEcKJ-1920-80.jpg"
   },
   {
-    "title": "Who’s Really Watching?",
-    "link": "https://www.tvtechnology.com/business/whos-really-watching",
+    "title": "How TV Globo Uses StreamScope to Assess TV 3.0 Service Quality",
+    "link": "https://www.tvtechnology.com/platform/broadcast/how-tv-globo-uses-streamscope-to-assess-tv-3-0-service-quality",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/PNQongrHoDFUZkBB4fDeNE-1920-80.jpg"
-  },
-  {
-    "title": "MOQ Standard Promises More Efficient Streaming, Less Latency",
-    "link": "https://www.tvtechnology.com/platform/streaming/moq-standard-promises-more-efficient-streaming-less-latency",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/EjXSsyxRWshb52phpC4BQG-1920-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/8KcZ9evufXRhswFjzTmFKo-1920-80.jpg"
   },
   {
     "title": "Productivity Hacks From ‘The Other Side’",
@@ -42,10 +84,16 @@
     "image": "https://cdn.mos.cms.futurecdn.net/goYPYQjE9BjMRQu6o6EaQQ-1920-80.jpg"
   },
   {
-    "title": "Is Your Facility AI-Ready? Rethinking 24/7 Resiliency and Infrastructure",
-    "link": "https://www.tvtechnology.com/insights/opinion/is-your-facility-ai-ready-rethinking-24-7-resiliency-and-infrastructure",
+    "title": "You’d Be Surprised What You Can (and Can’t) Learn From Daytime TV",
+    "link": "https://www.tvtechnology.com/insights/opinion/youd-be-surprised-what-you-can-and-cant-learn-from-daytime-tv",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/HxwXXJ4YETaE45ahYVao7V-1920-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/J9k9MeuTr8apooUapFX5Yc-1920-80.jpg"
+  },
+  {
+    "title": "MOQ Standard Promises More Efficient Streaming, Less Latency",
+    "link": "https://www.tvtechnology.com/platform/streaming/moq-standard-promises-more-efficient-streaming-less-latency",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/EjXSsyxRWshb52phpC4BQG-1920-80.jpg"
   },
   {
     "title": "Picture Shop Settles Any Debate With Sony’s BVM-HX3110",
@@ -60,16 +108,16 @@
     "image": "https://cdn.mos.cms.futurecdn.net/EXPTbpP8YYLrNTEpFjanhG-1920-80.jpg"
   },
   {
-    "title": "How TV Globo Uses StreamScope to Assess TV 3.0 Service Quality",
-    "link": "https://www.tvtechnology.com/platform/broadcast/how-tv-globo-uses-streamscope-to-assess-tv-3-0-service-quality",
+    "title": "Who’s Really Watching?",
+    "link": "https://www.tvtechnology.com/business/whos-really-watching",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/8KcZ9evufXRhswFjzTmFKo-1920-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/PNQongrHoDFUZkBB4fDeNE-1920-80.jpg"
   },
   {
-    "title": "You’d Be Surprised What You Can (and Can’t) Learn From Daytime TV",
-    "link": "https://www.tvtechnology.com/insights/opinion/youd-be-surprised-what-you-can-and-cant-learn-from-daytime-tv",
+    "title": "Is It Time to Replace the Longley-Rice Model?",
+    "link": "https://www.tvtechnology.com/insights/opinion/is-it-time-to-replace-the-longley-rice-model",
     "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/J9k9MeuTr8apooUapFX5Yc-1920-80.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/uoEJWHApzRkegEJzKfyXZC-1920-80.jpg"
   },
   {
     "title": "House Members Push for Anna Gomez’s FCC Renomination",
@@ -252,110 +300,62 @@
     "image": "https://cdn.mos.cms.futurecdn.net/DXqFtxysx3CaTbq5DS6qif-1920-80.jpg"
   },
   {
-    "title": "Bitcentral Launches Fusion MediaShare to Help Station Groups Manage Content Across Markets",
-    "link": "https://www.tvtechnology.com/production/bitcentral-launches-fusion-mediashare-to-help-stations-groups-manage-content-across-markets",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/6Ct4FFjpkrExk9iKSqggf-1920-80.png"
-  },
-  {
-    "title": "YouTube to Commence AV2 Streaming in 2027",
-    "link": "https://www.tvtechnology.com/platform/streaming/youtube-to-commence-av2-streaming-in-2027",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/dGJEqjAGNLv4RnBDd43t53-1920-80.jpg"
-  },
-  {
-    "title": "How the B2X Standard Will Advance Interchangeable Networks",
-    "link": "https://www.tvtechnology.com/standards/how-the-b2x-standard-will-advance-interchangeable-networks",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/PKxuyjs3fKiiRFTPKqXDQ3-1920-80.jpg"
-  },
-  {
-    "title": "ATSC 3.0 Team’s Work on Interference Canceling, Signal Reception Scores Win",
-    "link": "https://www.tvtechnology.com/standards/atsc-3-0-teams-work-on-interference-canceling-signal-reception-scores-win",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/CgUf7BxY69ataQSeaHz2pW-1920-80.jpg"
-  },
-  {
-    "title": "Tegna Hires Mellynda Hartel to Lead Florida Stations",
-    "link": "https://www.tvtechnology.com/business/people/tegna-hires-mellynda-hartel-to-lead-florida-stations",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/z5YroVYDGynZCVgJbBwwrA-1920-80.jpg"
-  },
-  {
-    "title": "Matthews Studio Equipment Unveils 33 Sliding Leg C-Stand",
-    "link": "https://www.tvtechnology.com/production/matthews-studio-equipment-unveils-33-sliding-leg-c-stand",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/YFqvwbkc7eQhHRKiKbP3tL-1920-80.jpg"
-  },
-  {
-    "title": "Gray Names Jennifer Rieffer GM of WBTV Charlotte",
-    "link": "https://www.tvtechnology.com/business/people/gray-names-jennifer-rieffer-gm-of-wbtv-charlotte",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/uQmWpNdcC9G6QjfnF4uQ5J-1920-80.jpg"
-  },
-  {
-    "title": "NCAA Ups Its Game to Heighten Fan Experiences",
-    "link": "https://www.tvtechnology.com/production/sports-production/ncaa-ups-its-game-to-heighten-fan-experiences",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/jP6fWqPKKQqkP93Y2jChhM-1920-80.jpg"
-  },
-  {
-    "title": "Just Women’s Sports’ Haley Rosen on the Need To Keep Fans Connected as Momentum Grows",
-    "link": "https://www.sportsvideo.org/2026/11/02/haley-rosen-just-womens-sports-founder-and-ceo-on-the-need-to-keep-fans-connected-as-the-industry-grows/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/Haley-Rosen—Headshot—1-2-cropped.jpg"
-  },
-  {
-    "title": "USA Sports To Crown WNBA Champion in Historic Game 7, Capping Inaugural Season With Expanded Production",
-    "link": "https://www.sportsvideo.org/2026/10/30/usa-sports-to-crown-wnba-champion-in-historic-game-7-capping-inaugural-season-with-expanded-production/",
+    "title": "Off Historic Opener in Rome, FOX Sports Relies on REMI Workflows, Specialty Cameras for College Basketball Season",
+    "link": "https://www.sportsvideo.org/2026/11/02/off-historic-opener-in-rome-fox-sports-relies-on-remi-workflows-specialty-cameras-for-college-basketball-season/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "GRUP MEDIAPRO To Rebrand as Imagina in 2027",
-    "link": "https://www.sportsvideo.org/2026/10/30/grup-mediapro-to-rebrand-as-imagina-in-2027/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/10/IMG_4410-1.jpeg"
-  },
-  {
-    "title": "Ratings Roundup: Brewers’ Clincher, Record NBA Tip-Off, Chiefs-Seahawks Hits Primetime Season-High",
-    "link": "https://www.sportsvideo.org/2026/10/30/ratings-roundup-brewers-clincher-record-nba-tip-off-chiefs-seahawks-hits-primetime-season-high/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/10/nielsen_top25_oct19-25-439x535.png"
-  },
-  {
-    "title": "The Approval Click: What Live-Production Review Really Catches",
-    "link": "https://www.sportsvideo.org/2026/10/30/the-approval-click-what-live-production-review-really-catches/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/10/Andreas_Ehstand_Portrait_Photo_Hans-Peter_Hoeck.jpg"
-  },
-  {
-    "title": "SVG New Sponsor Spotlight: ICAT Logistics’ Jake Blount on Expanding Global Sports and Broadcast Logistics",
-    "link": "https://www.sportsvideo.org/2026/10/29/svg-new-sponsor-spotlight-icat-logistics-jake-blount-on-expanding-global-sports-and-broadcast-logistics/",
+    "title": "TNT Sports Preps for Second College Basketball Season With 1080p HDR, REMI, New On-Court Audio",
+    "link": "https://www.sportsvideo.org/2026/11/02/tnt-sports-preps-for-second-college-basketball-season-with-1080p-hdr-remi-new-on-court-audio/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "NHL Productions’ Centralized Broadcast Operation Hits Its Stride Across Six Clubs",
-    "link": "https://www.sportsvideo.org/2026/10/29/nhl-productions-centralized-broadcast-operation-hits-its-stride-across-six-clubs/",
+    "title": "ESPN Tips Off College Hoops Season With Expanded REMI, Specialty Cameras, Major Players Era Production",
+    "link": "https://www.sportsvideo.org/2026/11/02/espn-tips-off-college-hoops-season-with-expanded-remi-specialty-cameras-major-players-era-production/",
     "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/10/NHL-Dallas-Stars-cameras.jpg"
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/ESPNCBB26_2.jpg"
   },
   {
-    "title": "LA28 Names Kathleen Kennedy Head of Ceremonies and Content",
-    "link": "https://www.sportsvideo.org/2026/10/29/la28-names-kathleen-kennedy-head-of-ceremonies-and-content/",
+    "title": "Pliant Technologies Returns as SVG Sponsor With New Production-Oriented Tech",
+    "link": "https://www.sportsvideo.org/2026/11/02/pliant-technologies-returns-as-svg-sponsor-with-new-production-oriented-tech/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/Gary-Rosen-Pliant-cropped.jpg"
+  },
+  {
+    "title": "Behind the Mic: Ernie Johnson To Leave “Inside the NBA” After 2026-27 NBA Season; Golf Channel Shares 2026 Optum Golf Channel Games Roster",
+    "link": "https://www.sportsvideo.org/2026/11/02/behind-the-mic-ernie-johnson-to-leave-inside-the-nba-after-2026-27-nba-season-golf-channel-shares-2026-optum-golf-channel-games-roster/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "SVG GameDay, Ep. 37: Toronto Blue Jays’ Stefanie Wright — Representing Club & Country",
-    "link": "https://www.sportsvideo.org/2026/10/29/svg-gameday-ep-37-toronto-blue-jays-stefanie-wright-representing-club-country/",
+    "title": "RTL News Upgrades Cologne Audio Control Room With Lawo mc²96 and IP Infrastructure",
+    "link": "https://www.sportsvideo.org/2026/11/02/rtl-news-upgrades-cologne-audio-control-room-with-lawo-mc96-and-ip-infrastructure/",
     "source": "Sports Video Group",
-    "image": "https://vhx.imgix.net/sportsvideogroup/assets/10325c49-aa93-4931-8d6d-70d1f4589110.png?auto=format%2Ccompress&fit=crop&h=720&w=1280"
+    "image": ""
   },
   {
-    "title": "Gravity Media Marks 25 Years of Melbourne Cup Carnival Host Broadcast, Adds JockeyCam and Orbit Fusion",
-    "link": "https://www.sportsvideo.org/2026/10/29/gravity-media-marks-25-years-of-melbourne-cup-carnival-host-broadcast-adds-jockeycam-and-orbit-fusion/",
+    "title": "WTA and TikTok Announce Global Content Partnership",
+    "link": "https://www.sportsvideo.org/2026/11/02/wta-and-tiktok-announce-global-content-partnership/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "Grand Slam of Curling Adds DAZN for International Coverage",
+    "link": "https://www.sportsvideo.org/2026/11/02/grand-slam-of-curling-adds-dazn-for-international-coverage/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "New Premier Jumping League Appoints Aurora as Global Host Broadcaster",
+    "link": "https://www.svgeurope.org/blog/headlines/new-premier-jumping-league-appoints-aurora-as-global-host-broadcaster/#new_tab",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "Tubi to Simulcast Two MLS Decision Day Matches on Nov. 7",
+    "link": "https://www.sportsvideo.org/2026/11/02/tubi-to-simulcast-two-mls-decision-day-matches-on-nov-7/",
     "source": "Sports Video Group",
     "image": ""
   }
