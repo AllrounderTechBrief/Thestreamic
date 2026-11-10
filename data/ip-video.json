@@ -1,5 +1,65 @@
 [
   {
+    "title": "Scripps Criticizes FCC’s C-Band Reimbursement Plans",
+    "link": "https://www.tvtechnology.com/regulatory-legal/fcc/scripps-criticizes-fccs-c-band-reimbursement-plans",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/kat99up6PAj7PFQ7JLEJgD-1920-80.jpg"
+  },
+  {
+    "title": "Skydance Confirms HBO Max-Paramount+ Bundle",
+    "link": "https://www.tvtechnology.com/business/skydance-confirms-hbo-paramount-bundle",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/pUCpmfvGKBTrVYtS5n2iFh-1920-80.jpg"
+  },
+  {
+    "title": "Avid’s Ready to Edit Brings AI to Media Composer",
+    "link": "https://www.tvtechnology.com/production/avids-ready-to-edit-brings-ai-to-media-composer",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/4MF6tdWjVNupThJjVgdjHo-1920-80.jpg"
+  },
+  {
+    "title": "FCC Chairman Carr Adds Will Holloway as a Legal Adviser",
+    "link": "https://www.tvtechnology.com/regulatory-legal/fcc/fcc-chairman-carr-adds-will-holloway-as-a-legal-adviser",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/nUDeKo35Yam2dNAXU9u4aW-1920-80.jpg"
+  },
+  {
+    "title": "Haivision Seeks Survey Takers",
+    "link": "https://www.tvtechnology.com/business/haivision-seeks-survey-takers",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/wMtCpgznBfTW6eH5kSJ6MJ-1920-80.jpg"
+  },
+  {
+    "title": "Hearst TV Ups WCVB’s Kevin Kalia to Regional Director of Engineering",
+    "link": "https://www.tvtechnology.com/business/people/hearst-tv-ups-wcvbs-kevin-kalia-to-regional-director-of-engineering",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/DzuPQUc74Zhbp8ew9FyfhX-1920-80.png"
+  },
+  {
+    "title": "Adobe Awards $1 Million in Grants to 10 Filmmakers",
+    "link": "https://www.tvtechnology.com/business/people/adobe-awards-usd1-million-in-grants-to-10-filmmakers",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/S7qZ225C2GMG4fGM43CXT4-1920-80.jpg"
+  },
+  {
+    "title": "Beyond Cloud vs On-Prem: Why Monitoring Has to Follow the Media Workflow",
+    "link": "https://www.tvtechnology.com/insights/opinion/beyond-cloud-vs-on-prem-why-monitoring-has-to-follow-the-media-workflow",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/44m8xzdgwDUDRQuVaMMAR6-1920-80.jpg"
+  },
+  {
+    "title": "Broadcast Dominated Midterms Coverage",
+    "link": "https://www.tvtechnology.com/business/broadcast-dominated-midterms-coverage",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/Et6MRdQq7ARr9KV3CWmTCW-1920-80.jpg"
+  },
+  {
+    "title": "Vizrt Completes Proof-of-Concept Integration With Story Object Model",
+    "link": "https://www.tvtechnology.com/production/live-production/vizrt-completes-proof-of-concept-integration-with-story-object-model",
+    "source": "TV Technology",
+    "image": "https://cdn.mos.cms.futurecdn.net/4ALY3d8jKccZUsfvcEhk76-1920-80.png"
+  },
+  {
     "title": "Indianapolis TV Stations Return to DirecTV After Lengthy Absence",
     "link": "https://www.tvtechnology.com/business/indianapolis-tv-stations-return-to-directv-after-lengthy-absence",
     "source": "TV Technology",
@@ -240,123 +300,63 @@
     "image": "https://cdn.mos.cms.futurecdn.net/rrxdNqtmB598Revh66Pv5i-1920-80.jpg"
   },
   {
-    "title": "France Télévisions Deploys Grass Valley-Based ST 2110 IP Franceinfo Facility",
-    "link": "https://www.tvtechnology.com/production/france-televisions-deploys-grass-valley-based-st-2110-ip-franceinfo-facility",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/Bfwk7qHQfpPNz4GBJ5rX5P-1920-80.jpg"
-  },
-  {
-    "title": "Dakar 2026 First Olympics Event to Deploy Fully Virtualized MCR",
-    "link": "https://www.tvtechnology.com/production/sports-production/dakar-2026-first-olympics-event-to-deploy-fully-virtualized-mcr",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/vtihBUwDqrJtyzSyTHHqBH-1920-80.jpg"
-  },
-  {
-    "title": "Blackmagic Design Launches UltraStudio Express HD",
-    "link": "https://www.tvtechnology.com/production/blackmagic-design-launches-ultrastudio-express-hd",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/qDnBTrttSienus2JHJJEFV-1920-80.jpg"
-  },
-  {
-    "title": "A Lesson in Sound for the Digital Era",
-    "link": "https://www.tvtechnology.com/insights/opinion/a-lesson-in-sound-for-the-digital-era",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/ta56NhS45D866NhwvwEcKJ-1920-80.jpg"
-  },
-  {
-    "title": "MOQ Standard Promises More Efficient Streaming, Less Latency",
-    "link": "https://www.tvtechnology.com/platform/streaming/moq-standard-promises-more-efficient-streaming-less-latency",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/EjXSsyxRWshb52phpC4BQG-1920-80.jpg"
-  },
-  {
-    "title": "Who’s Really Watching?",
-    "link": "https://www.tvtechnology.com/business/whos-really-watching",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/PNQongrHoDFUZkBB4fDeNE-1920-80.jpg"
-  },
-  {
-    "title": "Productivity Hacks From ‘The Other Side’",
-    "link": "https://www.tvtechnology.com/insights/opinion/productivity-hacks-from-the-other-side",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/goYPYQjE9BjMRQu6o6EaQQ-1920-80.jpg"
-  },
-  {
-    "title": "Is Your Facility AI-Ready? Rethinking 24/7 Resiliency and Infrastructure",
-    "link": "https://www.tvtechnology.com/insights/opinion/is-your-facility-ai-ready-rethinking-24-7-resiliency-and-infrastructure",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/HxwXXJ4YETaE45ahYVao7V-1920-80.jpg"
-  },
-  {
-    "title": "Picture Shop Settles Any Debate With Sony’s BVM-HX3110",
-    "link": "https://www.tvtechnology.com/production/postproduction/picture-shop-settles-any-debate-with-sonys-bvm-hx3110",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/y6oHJvsfeRop6JUq7LzC5E-1920-80.jpg"
-  },
-  {
-    "title": "A Reliable Image From Virtual Production Through Color",
-    "link": "https://www.tvtechnology.com/production/virtual-production/a-reliable-image-from-virtual-production-through-color",
-    "source": "TV Technology",
-    "image": "https://cdn.mos.cms.futurecdn.net/EXPTbpP8YYLrNTEpFjanhG-1920-80.jpg"
-  },
-  {
-    "title": "Sportel Panel Recap: How AI Is Impacting Everything Private Equity to Broadcasters, Streamers, Federations",
-    "link": "https://www.sportsvideo.org/2026/11/09/sportel-panel-recap-how-ai-is-impacting-everything-private-equity-to-broadcasters-streamers-federations/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/1_MC1_AI-Corporate-Strategy_SVG.jpeg"
-  },
-  {
-    "title": "Reinvigorated AES Show Nashville Debuts in Music City",
-    "link": "https://www.sportsvideo.org/2026/11/09/reinvigorated-aes-show-nashville-debuts-in-music-city/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/AES_Membership_Center.jpeg"
-  },
-  {
-    "title": "With Decision Day on Deck, MLS Productions’ Stamford Hub Prepares for 15 Matches in Five Hours",
-    "link": "https://www.sportsvideo.org/2026/11/06/with-decision-day-on-deck-mls-productions-stamford-hub-prepares-for-15-matches-in-five-hours/",
-    "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/MLS-Seth-Bacon-e1793980371352.jpg"
-  },
-  {
-    "title": "Soaring in Stamford: Major League Soccer’s Seth Bacon Details the Growth of MLS Productions",
-    "link": "https://www.sportsvideo.org/2026/11/06/soaring-in-stamford-major-league-soccers-seth-bacon-details-the-growth-of-mls-productions/",
+    "title": "SMT Supports All Three NASCAR National Series Championship Broadcasts at Homestead-Miami Speedway",
+    "link": "https://www.sportsvideo.org/2026/11/09/smt-supports-all-three-nascar-national-series-championship-broadcasts-at-homestead-miami-speedway/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "SVG GameDay, Ep. 38: Texas Rangers’ Chris DeRuyscher — Livin’ the Life at Globe Life Field",
-    "link": "https://www.sportsvideo.org/2026/11/06/svg-gameday-ep-38-texas-rangers-chris-deruyscher-livin-the-life-at-globe-life-field/",
-    "source": "Sports Video Group",
-    "image": "https://vhx.imgix.net/sportsvideogroup/assets/c526e91d-cb09-45e5-aebb-adf23de54c2e.png?auto=format%2Ccompress&fit=crop&h=720&w=1280"
-  },
-  {
-    "title": "Telestream Appoints Joseph Hopkins Chief Revenue Officer",
-    "link": "https://www.sportsvideo.org/2026/11/06/telestream-appoints-joseph-hopkins-chief-revenue-officer/",
+    "title": "The College Football Playoff Will Expand to 24 Teams in 2027; ESPN Secures Rights to 12 Additional Games",
+    "link": "https://www.sportsvideo.org/2026/11/09/college-football-playoff-will-expand-to-24-teams-in-2027-espn-secures-rights-to-12-additional-games/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "NEP Adds IP-Based Flypack Production Kits in the U.S.",
-    "link": "https://www.sportsvideo.org/2026/11/06/nep-adds-ip-based-flypack-production-kits-in-the-u-s/",
+    "title": "Cleveland Cavaliers Boost In-Venue Energy With The Famous Group’s Virtual Camera Tech",
+    "link": "https://www.sportsvideo.org/2026/11/09/cleveland-cavaliers-boost-in-venue-energy-with-the-famous-groups-virtual-camera-tech/",
+    "source": "Sports Video Group",
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/Cavs-TFG-Crew-951x535.jpg"
+  },
+  {
+    "title": "Behind The Mic: Tirico Misses SNF Due to Health Issue; Wilbon Takes Leave of Absence From PTI",
+    "link": "https://www.sportsvideo.org/2026/11/09/behind-the-mic-espn-floats-peyton-manning-greg-olsen-as-replacement-for-troy-aikman/",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "University of Alabama Installs Daktronics Displays at Coleman Coliseum",
-    "link": "https://www.sportsvideo.org/2026/11/06/university-of-alabama-installs-daktronics-displays-at-coleman-coliseum/",
+    "title": "Henley Royal Regatta Goes Fully Remote with Limitless Broadcast",
+    "link": "https://www.svgeurope.org/blog/headlines/henley-royal-regatta-goes-fully-remote-with-limitless-broadcast/#new_tab",
     "source": "Sports Video Group",
     "image": ""
   },
   {
-    "title": "PBR Expands Production of Teams Championship With Third Mobile Unit, More Cameras",
-    "link": "https://www.sportsvideo.org/2026/11/06/pbr-expands-production-of-team-championship-with-third-mobile-unit-more-cameras/",
+    "title": "Devoncroft Partners To Present Enterprise Video Survey Findings at Silicon Valley Video Summit",
+    "link": "https://www.sportsvideo.org/2026/11/09/devoncroft-partners-to-present-enterprise-video-survey-findings-at-silicon-valley-video-summit/",
     "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/PBR.jpg"
+    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/unnamed-5-1-951x535.png"
   },
   {
-    "title": "Gravity Media’s JockeyCam at Center of Melbourne Cup Carnival Busy Week of Horse Racing",
-    "link": "https://www.sportsvideo.org/2026/11/05/gravity-medias-jockeycam-at-center-of-melbourne-cup-carnival-busy-week-of-horse-racing/",
+    "title": "AES Show Nashville 2026 Draws Nearly 3,000 Registrations",
+    "link": "https://www.sportsvideo.org/2026/11/09/aes-show-nashville-2026-draws-nearly-3000-registrations/",
     "source": "Sports Video Group",
-    "image": "https://www.sportsvideo.org/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-3.54.23-PM.jpg"
+    "image": ""
+  },
+  {
+    "title": "SMPTE Media Technology Summit 2026 Set for Nov. 16-19 in Pasadena",
+    "link": "https://www.sportsvideo.org/2026/11/09/smpte-media-technology-summit-2026-set-for-nov-16-19-in-pasadena/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "BKB Names Michael Ridout Managing Director, UK",
+    "link": "https://www.sportsvideo.org/2026/11/09/bkb-names-michael-ridout-managing-director-uk/",
+    "source": "Sports Video Group",
+    "image": ""
+  },
+  {
+    "title": "SMT Provides Broadcast Graphics and Shot Data for Inaugural WTGL Season",
+    "link": "https://www.sportsvideo.org/2026/11/09/smt-provides-broadcast-graphics-and-shot-data-for-inaugural-wtgl-season/",
+    "source": "Sports Video Group",
+    "image": ""
   }
 ]
